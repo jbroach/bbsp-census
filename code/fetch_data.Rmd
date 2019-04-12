@@ -22,10 +22,11 @@ pacman::p_load("tigris")
 ```{r load data}
 cities <- read.csv("data/cities.csv", stringsAsFactors = F)
 
-
+setwd("../")
+getwd()
 ## setup cenus api key
-## signup your census api key at http://api.census.gov/data/key_signup.html
-census_api_key(mykey) # read in from variable
+mykey <- read.table("secrets/key1.txt", stringsAsFactors = F)[1, 1]
+census_api_key(mykey) # read in from untracked file
 
 f <- function (df) {
   get_acs(geography = "place", 
