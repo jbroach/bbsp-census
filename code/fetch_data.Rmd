@@ -20,22 +20,43 @@ pacman::p_load("tigris")
 ```
 
 ```{r load data}
-cities <- read.csv("data/cities.csv", stringsAsFactors = F)
-
-setwd("../")
 getwd()
+setwd("../")
+cities <- read.csv("../data/cities.csv", stringsAsFactors = F)
+
+v17 <- load_variables(2017, "acs5", cache = TRUE)
+View(v17)
+
 ## setup cenus api key
-mykey <- read.table("secrets/key1.txt", stringsAsFactors = F)[1, 1]
+mykey <- read.table("../secrets/key1.txt", stringsAsFactors = F)[1, 1]
 census_api_key(mykey) # read in from untracked file
+
+df <- data.frame(City = c("Portland"), State = c("OR"))
 
 f <- function (df) {
   get_acs(geography = "place", 
           year = 2017, # 2013-2017
           variables = c("B19013_001",
-                        "B03002_003"),
+                        "B17021_002",
+                        "B03002_003",
+                        "B01003_001",
+                        "C16002_001",
+                        "C16002_004",
+                        "C16002_007",
+                        "C16002_010",
+                        "C16002_013"),
           state = df$State,
-          geometry = F, summary_var = "B01003_001") %>%
+          geometry = F) %>%
   filter(stringr::str_detect(NAME, paste(df$City, "city")))  
+}
+result <- f(df)
+
+census_raw <- data.frame()
+census_raw[1, "city"] <- "Portland"
+for (i in 1:nrow(cities)) {
+  row = cities[i,]
+  print(row$City)
+  f(row)
 }
 
 result <- by(cities, 1:nrow(cities), f(row))
