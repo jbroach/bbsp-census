@@ -28,7 +28,7 @@ getwd()
 mykey <- read.table("secrets/key1.txt", stringsAsFactors = F)[1, 1]
 census_api_key(mykey) # read in from untracked file
 
-f <- function (df) {
+f <- function (city, state) {
   get_acs(geography = "place", 
           year = 2017, # 2013-2017
           variables = c("B19013_001",

@@ -1,3 +1,4 @@
 secrets/
 *.RProj*
 .Rproj.user
+.RHistory
