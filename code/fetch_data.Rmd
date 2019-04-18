@@ -20,26 +20,78 @@ pacman::p_load("tigris")
 ```
 
 ```{r load data}
-cities <- read.csv("data/cities.csv", stringsAsFactors = F)
-
-setwd("../")
 getwd()
-## setup cenus api key
-mykey <- read.table("secrets/key1.txt", stringsAsFactors = F)[1, 1]
-census_api_key(mykey) # read in from untracked file
+setwd("../")
+cities <- read.csv("../data/cities1.csv", stringsAsFactors = F)
 
-f <- function (city, state) {
+v17 <- load_variables(2017, "acs5", cache = TRUE)
+View(v17)
+
+## setup cenus api key
+mykey <- read.table("../secrets/key1.txt", stringsAsFactors = F)[1, 1]
+census_api_key(mykey) # read in from untracked file
+s
+df <- data.frame(City = c("Portland"), State = c("OR"))
+
+vars <- data.frame(var = c("B11016_001",
+                           "B01003_001",
+                        "B19013_001",
+                        "B17021_002",
+                        "B03002_003",
+                        "B03002_012",
+                        "C16002_004",
+                        "C16002_007",
+                        "C16002_010",
+                        "C16002_013"),
+                   name = c("hh", 
+                            "pop",
+                            "medinc_h",
+                        "poverty_p",
+                        "nonhispwht",
+                        "hisp",
+                        "limeng_sp",
+                        "limeng_eu",
+                        "limeng_as",
+                        "limeng_oth"))
+
+f <- function (df) {
   get_acs(geography = "place", 
           year = 2017, # 2013-2017
-          variables = c("B19013_001",
-                        "B03002_003"),
+          variables = c("B11016_001",
+                        "B01003_001",
+                        "B19013_001",
+                        "B17021_002",
+                        "B03002_003",
+                        "B03002_012",
+                        "C16002_004",
+                        "C16002_007",
+                        "C16002_010",
+                        "C16002_013"),
           state = df$State,
-          geometry = F, summary_var = "B01003_001") %>%
-  filter(stringr::str_detect(NAME, paste(df$City, "city")))  
+          geometry = F) %>%
+  #filter(stringr::str_detect(NAME, paste(df$City, "city")))
+    filter(NAME == paste(df$City, "city"))
+}
+result <- f(df)
+
+?str_detect
+fruit <- c("apple", "banana", "pear", "pinapple")
+
+census_raw <- data.frame()
+
+for (i in 1:nrow(cities)) {
+  place = cities[i,]
+  print(place$City)
+  newrows <- f(place) %>%
+    mutate(city = place$City, state = place$State)
+  print(nrow(newrows))
+  census_raw <- census_raw %>%
+    bind_rows(newrows)
+  print(nrow(census_raw))
 }
 
 result <- by(cities, 1:nrow(cities), f(row))
-
+nrow(census_raw)
 
 mapply(print, cities$City, cities$State)
 
