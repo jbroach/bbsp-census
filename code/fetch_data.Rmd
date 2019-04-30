@@ -10,34 +10,34 @@ knitr::opts_chunk$set(echo = TRUE)
 
 if (!require("pacman")) {install.packages("pacman")}; library(pacman)
 
-library(dplyr)
-library(tidycensus)
-library(mapview)
-library(sf)
-library(stringr)
-library(readr)
-library(tidyr)
-pacman::p_load("tigris")
+pacman::p_load(dplyr)
+pacman::p_load(tidycensus)
+#pacman::p_load(mapview)
+#pacman::p_load(sf)
+pacman::p_load(stringr)
+pacman::p_load(readr)
+pacman::p_load(tidyr)
+#pacman::p_load("tigris")
 
 ```
 
 ```{r load data}
 getwd()
 #setwd("../")
-cities <- read.csv("data/cities1.csv", stringsAsFactors = F)
+cities <- read.csv("../data/cities1.csv", stringsAsFactors = F)
 
 v17 <- load_variables(2017, "acs5", cache = TRUE)
 View(v17)
 
 ## setup cenus api key
-mykey <- read.table("secrets/key1.txt", stringsAsFactors = F)[1, 1]
+mykey <- read.table("../secrets/key1.txt", stringsAsFactors = F)[1, 1]
 census_api_key(mykey) # read in from untracked file
 
 df <- data.frame(City = c("Portland"), State = c("OR"))
 df <- data.frame(City = c("Boise"), State = c("ID"))
 
-f <- function (df) {
-  get_acs(geography = "place", 
+f <- function (df, place_type = "city") {
+  get_acs(geography = ifelse(place_type == "County", "county", "place"),
           year = 2017, # 2013-2017
           variables = c("B11016_001",
                         "B01003_001",
@@ -51,7 +51,7 @@ f <- function (df) {
                         "C16002_013"),
           state = df$State,
           geometry = F) %>%
-  filter(stringr::str_detect(NAME, paste0("^", df$City, " city")))
+  filter(stringr::str_detect(NAME, paste0("^", df$City, " ", place_type)))
     #filter(NAME == paste(df$City, "city"))
 }
 
@@ -117,6 +117,88 @@ mapview(g)
 ?places
 ```
 
+```{r other cities}
+getwd()
+acs_wide <- read_csv("../output/acs1_wide.csv") %>%
+  select(-(C16002_004:C16002_013))
+head(acs_wide)
+
+# see what's missing
+cities <- read_csv("../data/cities.csv")
+cities_ck <- cities %>% anti_join(acs_wide, by=c("City" = "city", 
+                                                 "State" = "state"))
+# Honolulu is a CDP
+result <- cities_ck %>%
+  filter(City == "Honolulu") %>% 
+  mutate(City = "Urban Honolulu") %>%
+  f(place_type = "CDP") %>% 
+  mutate(city = "Honolulu", state= "HI")
+write_csv(result, "../output/other_places//honolulu.csv")
+
+# Boise is Boise City
+result <- cities_ck %>%
+  filter(City == "Boise") %>% 
+  mutate(City = "Boise City") %>%
+  f() %>% 
+  mutate(city = "Boise", state= "ID")
+write_csv(result, "../output/other_places/boise.csv")
+
+# Montgomery is a County
+result <- cities_ck %>%
+  filter(City == "Montgomery County MD") %>%
+  mutate(City = "Montgomery") %>%
+  f(place_type = "County") %>% 
+  mutate(city = "Montgomery County", state= "MD")
+write_csv(result, "../output/other_places/EllicottCity.csv")
+
+# 
+result <- cities_ck %>%
+  filter(City == "Ellicott City") %>%
+  f(place_type = "CDP") %>% 
+  mutate(city = "Ellicott City", state= "MD")
+write_csv(result, "../output/other_places/montgomeryCO.csv")
+
+# Use county for Nashville
+result <- cities_ck %>%
+  filter(City == "Nashville") %>%
+  mutate(City = "Davidson") %>%
+  f(place_type = "County") %>% 
+  mutate(city = "Nashville", state= "TN")
+write_csv(result, "../output/other_places/Nashville.csv")
+
+#
+result <- cities_ck %>%
+  filter(City == "Blaine County") %>%
+  mutate(City = "Blaine") %>%
+  f(place_type = "County") %>% 
+  mutate(city = "Blaine County", state= "ID")
+write_csv(result, "../output/other_places/BlaineCo.csv")
+
+# 
+result <- cities_ck %>%
+  filter(City == "College Park, and the campus of the University of Maryland") %>%
+    mutate(City = "College Park") %>%
+  f() %>%
+  mutate(city = "College Park", state= "MD")
+write_csv(result, "../output/other_places/CollegePark.csv")
+
+#
+result <- cities_ck %>%
+  filter(City == "Los Angeles County") %>%
+  mutate(City = "Los Angeles") %>%
+  f(place_type = "County") %>% 
+  mutate(city = "Los Angeles County", state= "CA")
+write_csv(result, "../output/other_places/LosAngelesCo.csv")
+
+test <- get_acs(geography = "place", 
+                
+                  year = 2017, # 2013-2017
+                  variables = c("B19013_001",
+                                "B03002_003"),
+                  state = "HI",
+                  geometry = F, summary_var = "B01003_001") 
+
+```
 
 ## R Markdown
 
