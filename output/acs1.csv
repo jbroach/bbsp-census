@@ -1,0 +1,2271 @@
+GEOID,NAME,variable,estimate,moe
+1600100,"Aberdeen city, Idaho",B01003_001,2202,407
+1600100,"Aberdeen city, Idaho",B03002_003,720,168
+1600100,"Aberdeen city, Idaho",B03002_012,1452,410
+1600100,"Aberdeen city, Idaho",B11016_001,625,103
+1600100,"Aberdeen city, Idaho",B17021_002,304,156
+1600100,"Aberdeen city, Idaho",B19013_001,43683,3542
+1600100,"Aberdeen city, Idaho",C16002_004,137,74
+1600100,"Aberdeen city, Idaho",C16002_007,0,12
+1600100,"Aberdeen city, Idaho",C16002_010,0,12
+1600100,"Aberdeen city, Idaho",C16002_013,3,5
+1600280,"Acequia city, Idaho",B01003_001,170,88
+1600280,"Acequia city, Idaho",B03002_003,52,34
+1600280,"Acequia city, Idaho",B03002_012,118,85
+1600280,"Acequia city, Idaho",B11016_001,53,24
+1600280,"Acequia city, Idaho",B17021_002,30,25
+1600280,"Acequia city, Idaho",B19013_001,47083,23870
+1600280,"Acequia city, Idaho",C16002_004,14,15
+1600280,"Acequia city, Idaho",C16002_007,0,12
+1600280,"Acequia city, Idaho",C16002_010,0,12
+1600280,"Acequia city, Idaho",C16002_013,0,12
+1601000,"Albion city, Idaho",B01003_001,327,88
+1601000,"Albion city, Idaho",B03002_003,288,76
+1601000,"Albion city, Idaho",B03002_012,39,45
+1601000,"Albion city, Idaho",B11016_001,109,27
+1601000,"Albion city, Idaho",B17021_002,37,30
+1601000,"Albion city, Idaho",B19013_001,55938,13249
+1601000,"Albion city, Idaho",C16002_004,0,12
+1601000,"Albion city, Idaho",C16002_007,0,12
+1601000,"Albion city, Idaho",C16002_010,0,12
+1601000,"Albion city, Idaho",C16002_013,0,12
+1601900,"American Falls city, Idaho",B01003_001,4324,13
+1601900,"American Falls city, Idaho",B03002_003,2346,383
+1601900,"American Falls city, Idaho",B03002_012,1818,388
+1601900,"American Falls city, Idaho",B11016_001,1504,202
+1601900,"American Falls city, Idaho",B17021_002,526,362
+1601900,"American Falls city, Idaho",B19013_001,44213,6084
+1601900,"American Falls city, Idaho",C16002_004,151,153
+1601900,"American Falls city, Idaho",C16002_007,0,12
+1601900,"American Falls city, Idaho",C16002_010,0,12
+1601900,"American Falls city, Idaho",C16002_013,0,12
+1601990,"Ammon city, Idaho",B01003_001,14998,39
+1601990,"Ammon city, Idaho",B03002_003,13405,404
+1601990,"Ammon city, Idaho",B03002_012,902,330
+1601990,"Ammon city, Idaho",B11016_001,4966,237
+1601990,"Ammon city, Idaho",B17021_002,853,325
+1601990,"Ammon city, Idaho",B19013_001,62336,6581
+1601990,"Ammon city, Idaho",C16002_004,0,19
+1601990,"Ammon city, Idaho",C16002_007,0,19
+1601990,"Ammon city, Idaho",C16002_010,0,19
+1601990,"Ammon city, Idaho",C16002_013,0,19
+1602935,"Arbon Valley CDP, Idaho",B01003_001,587,161
+1602935,"Arbon Valley CDP, Idaho",B03002_003,450,125
+1602935,"Arbon Valley CDP, Idaho",B03002_012,99,78
+1602935,"Arbon Valley CDP, Idaho",B11016_001,234,64
+1602935,"Arbon Valley CDP, Idaho",B17021_002,38,35
+1602935,"Arbon Valley CDP, Idaho",B19013_001,46736,1626
+1602935,"Arbon Valley CDP, Idaho",C16002_004,0,12
+1602935,"Arbon Valley CDP, Idaho",C16002_007,0,12
+1602935,"Arbon Valley CDP, Idaho",C16002_010,0,12
+1602935,"Arbon Valley CDP, Idaho",C16002_013,0,12
+1603160,"Arco city, Idaho",B01003_001,743,140
+1603160,"Arco city, Idaho",B03002_003,728,137
+1603160,"Arco city, Idaho",B03002_012,5,8
+1603160,"Arco city, Idaho",B11016_001,310,54
+1603160,"Arco city, Idaho",B17021_002,213,95
+1603160,"Arco city, Idaho",B19013_001,31607,7466
+1603160,"Arco city, Idaho",C16002_004,0,12
+1603160,"Arco city, Idaho",C16002_007,0,12
+1603160,"Arco city, Idaho",C16002_010,0,12
+1603160,"Arco city, Idaho",C16002_013,0,12
+1603340,"Arimo city, Idaho",B01003_001,368,75
+1603340,"Arimo city, Idaho",B03002_003,335,61
+1603340,"Arimo city, Idaho",B03002_012,7,6
+1603340,"Arimo city, Idaho",B11016_001,120,25
+1603340,"Arimo city, Idaho",B17021_002,54,38
+1603340,"Arimo city, Idaho",B19013_001,58750,15567
+1603340,"Arimo city, Idaho",C16002_004,0,12
+1603340,"Arimo city, Idaho",C16002_007,0,12
+1603340,"Arimo city, Idaho",C16002_010,0,12
+1603340,"Arimo city, Idaho",C16002_013,0,12
+1603610,"Ashton city, Idaho",B01003_001,981,241
+1603610,"Ashton city, Idaho",B03002_003,642,184
+1603610,"Ashton city, Idaho",B03002_012,339,174
+1603610,"Ashton city, Idaho",B11016_001,352,71
+1603610,"Ashton city, Idaho",B17021_002,270,181
+1603610,"Ashton city, Idaho",B19013_001,39583,5235
+1603610,"Ashton city, Idaho",C16002_004,9,14
+1603610,"Ashton city, Idaho",C16002_007,0,12
+1603610,"Ashton city, Idaho",C16002_010,0,12
+1603610,"Ashton city, Idaho",C16002_013,0,12
+1603700,"Athol city, Idaho",B01003_001,963,220
+1603700,"Athol city, Idaho",B03002_003,934,217
+1603700,"Athol city, Idaho",B03002_012,6,9
+1603700,"Athol city, Idaho",B11016_001,348,67
+1603700,"Athol city, Idaho",B17021_002,155,69
+1603700,"Athol city, Idaho",B19013_001,41146,4917
+1603700,"Athol city, Idaho",C16002_004,0,12
+1603700,"Athol city, Idaho",C16002_007,0,12
+1603700,"Athol city, Idaho",C16002_010,0,12
+1603700,"Athol city, Idaho",C16002_013,0,12
+1603970,"Atomic City city, Idaho",B01003_001,38,41
+1603970,"Atomic City city, Idaho",B03002_003,35,40
+1603970,"Atomic City city, Idaho",B03002_012,0,12
+1603970,"Atomic City city, Idaho",B11016_001,22,21
+1603970,"Atomic City city, Idaho",B17021_002,15,20
+1603970,"Atomic City city, Idaho",B19013_001,37708,10424
+1603970,"Atomic City city, Idaho",C16002_004,0,12
+1603970,"Atomic City city, Idaho",C16002_007,0,12
+1603970,"Atomic City city, Idaho",C16002_010,0,12
+1603970,"Atomic City city, Idaho",C16002_013,0,12
+1604420,"Bancroft city, Idaho",B01003_001,351,108
+1604420,"Bancroft city, Idaho",B03002_003,314,108
+1604420,"Bancroft city, Idaho",B03002_012,29,27
+1604420,"Bancroft city, Idaho",B11016_001,129,33
+1604420,"Bancroft city, Idaho",B17021_002,41,26
+1604420,"Bancroft city, Idaho",B19013_001,48625,8739
+1604420,"Bancroft city, Idaho",C16002_004,0,12
+1604420,"Bancroft city, Idaho",C16002_007,0,12
+1604420,"Bancroft city, Idaho",C16002_010,0,12
+1604420,"Bancroft city, Idaho",C16002_013,0,12
+1604600,"Banks CDP, Idaho",B01003_001,0,12
+1604600,"Banks CDP, Idaho",B03002_003,0,12
+1604600,"Banks CDP, Idaho",B03002_012,0,12
+1604600,"Banks CDP, Idaho",B11016_001,0,12
+1604600,"Banks CDP, Idaho",B17021_002,0,12
+1604600,"Banks CDP, Idaho",B19013_001,NA,NA
+1604600,"Banks CDP, Idaho",C16002_004,0,12
+1604600,"Banks CDP, Idaho",C16002_007,0,12
+1604600,"Banks CDP, Idaho",C16002_010,0,12
+1604600,"Banks CDP, Idaho",C16002_013,0,12
+1605230,"Basalt city, Idaho",B01003_001,407,114
+1605230,"Basalt city, Idaho",B03002_003,364,104
+1605230,"Basalt city, Idaho",B03002_012,36,28
+1605230,"Basalt city, Idaho",B11016_001,134,38
+1605230,"Basalt city, Idaho",B17021_002,48,31
+1605230,"Basalt city, Idaho",B19013_001,42500,9115
+1605230,"Basalt city, Idaho",C16002_004,0,12
+1605230,"Basalt city, Idaho",C16002_007,0,12
+1605230,"Basalt city, Idaho",C16002_010,0,12
+1605230,"Basalt city, Idaho",C16002_013,0,12
+1606220,"Bellevue city, Idaho",B01003_001,2551,432
+1606220,"Bellevue city, Idaho",B03002_003,1695,355
+1606220,"Bellevue city, Idaho",B03002_012,734,321
+1606220,"Bellevue city, Idaho",B11016_001,846,146
+1606220,"Bellevue city, Idaho",B17021_002,115,84
+1606220,"Bellevue city, Idaho",B19013_001,61667,19798
+1606220,"Bellevue city, Idaho",C16002_004,69,50
+1606220,"Bellevue city, Idaho",C16002_007,0,12
+1606220,"Bellevue city, Idaho",C16002_010,0,12
+1606220,"Bellevue city, Idaho",C16002_013,0,12
+1606670,"Bennington CDP, Idaho",B01003_001,253,141
+1606670,"Bennington CDP, Idaho",B03002_003,253,141
+1606670,"Bennington CDP, Idaho",B03002_012,0,12
+1606670,"Bennington CDP, Idaho",B11016_001,94,35
+1606670,"Bennington CDP, Idaho",B17021_002,0,12
+1606670,"Bennington CDP, Idaho",B19013_001,54079,36275
+1606670,"Bennington CDP, Idaho",C16002_004,0,12
+1606670,"Bennington CDP, Idaho",C16002_007,0,12
+1606670,"Bennington CDP, Idaho",C16002_010,0,12
+1606670,"Bennington CDP, Idaho",C16002_013,0,12
+1607840,"Blackfoot city, Idaho",B01003_001,11850,36
+1607840,"Blackfoot city, Idaho",B03002_003,9100,532
+1607840,"Blackfoot city, Idaho",B03002_012,2213,529
+1607840,"Blackfoot city, Idaho",B11016_001,4339,232
+1607840,"Blackfoot city, Idaho",B17021_002,2101,551
+1607840,"Blackfoot city, Idaho",B19013_001,43007,6364
+1607840,"Blackfoot city, Idaho",C16002_004,103,83
+1607840,"Blackfoot city, Idaho",C16002_007,0,19
+1607840,"Blackfoot city, Idaho",C16002_010,11,18
+1607840,"Blackfoot city, Idaho",C16002_013,0,19
+1608290,"Blanchard CDP, Idaho",B01003_001,216,77
+1608290,"Blanchard CDP, Idaho",B03002_003,216,77
+1608290,"Blanchard CDP, Idaho",B03002_012,0,12
+1608290,"Blanchard CDP, Idaho",B11016_001,130,51
+1608290,"Blanchard CDP, Idaho",B17021_002,9,15
+1608290,"Blanchard CDP, Idaho",B19013_001,48438,38644
+1608290,"Blanchard CDP, Idaho",C16002_004,0,12
+1608290,"Blanchard CDP, Idaho",C16002_007,0,12
+1608290,"Blanchard CDP, Idaho",C16002_010,0,12
+1608290,"Blanchard CDP, Idaho",C16002_013,0,12
+1608470,"Bliss city, Idaho",B01003_001,383,140
+1608470,"Bliss city, Idaho",B03002_003,243,111
+1608470,"Bliss city, Idaho",B03002_012,129,92
+1608470,"Bliss city, Idaho",B11016_001,179,56
+1608470,"Bliss city, Idaho",B17021_002,69,45
+1608470,"Bliss city, Idaho",B19013_001,28229,11836
+1608470,"Bliss city, Idaho",C16002_004,15,15
+1608470,"Bliss city, Idaho",C16002_007,0,12
+1608470,"Bliss city, Idaho",C16002_010,0,12
+1608470,"Bliss city, Idaho",C16002_013,0,12
+1608560,"Bloomington city, Idaho",B01003_001,245,95
+1608560,"Bloomington city, Idaho",B03002_003,243,95
+1608560,"Bloomington city, Idaho",B03002_012,0,12
+1608560,"Bloomington city, Idaho",B11016_001,77,27
+1608560,"Bloomington city, Idaho",B17021_002,0,12
+1608560,"Bloomington city, Idaho",B19013_001,49018,6051
+1608560,"Bloomington city, Idaho",C16002_004,0,12
+1608560,"Bloomington city, Idaho",C16002_007,0,12
+1608560,"Bloomington city, Idaho",C16002_010,0,12
+1608560,"Bloomington city, Idaho",C16002_013,0,12
+1608830,"Boise City city, Idaho",B01003_001,220859,117
+1608830,"Boise City city, Idaho",B03002_003,182478,1663
+1608830,"Boise City city, Idaho",B03002_012,19133,1225
+1608830,"Boise City city, Idaho",B11016_001,88929,1108
+1608830,"Boise City city, Idaho",B17021_002,30511,1896
+1608830,"Boise City city, Idaho",B19013_001,54547,1481
+1608830,"Boise City city, Idaho",C16002_004,673,252
+1608830,"Boise City city, Idaho",C16002_007,319,123
+1608830,"Boise City city, Idaho",C16002_010,349,133
+1608830,"Boise City city, Idaho",C16002_013,433,159
+1609370,"Bonners Ferry city, Idaho",B01003_001,2502,20
+1609370,"Bonners Ferry city, Idaho",B03002_003,2197,126
+1609370,"Bonners Ferry city, Idaho",B03002_012,133,81
+1609370,"Bonners Ferry city, Idaho",B11016_001,1079,157
+1609370,"Bonners Ferry city, Idaho",B17021_002,549,198
+1609370,"Bonners Ferry city, Idaho",B19013_001,30971,2450
+1609370,"Bonners Ferry city, Idaho",C16002_004,0,12
+1609370,"Bonners Ferry city, Idaho",C16002_007,0,12
+1609370,"Bonners Ferry city, Idaho",C16002_010,0,12
+1609370,"Bonners Ferry city, Idaho",C16002_013,0,12
+1609730,"Bovill city, Idaho",B01003_001,253,68
+1609730,"Bovill city, Idaho",B03002_003,225,61
+1609730,"Bovill city, Idaho",B03002_012,11,15
+1609730,"Bovill city, Idaho",B11016_001,103,27
+1609730,"Bovill city, Idaho",B17021_002,48,32
+1609730,"Bovill city, Idaho",B19013_001,36875,12476
+1609730,"Bovill city, Idaho",C16002_004,0,12
+1609730,"Bovill city, Idaho",C16002_007,0,12
+1609730,"Bovill city, Idaho",C16002_010,0,12
+1609730,"Bovill city, Idaho",C16002_013,0,12
+1610810,"Buhl city, Idaho",B01003_001,4285,23
+1610810,"Buhl city, Idaho",B03002_003,2910,358
+1610810,"Buhl city, Idaho",B03002_012,1273,347
+1610810,"Buhl city, Idaho",B11016_001,1633,166
+1610810,"Buhl city, Idaho",B17021_002,685,242
+1610810,"Buhl city, Idaho",B19013_001,37604,7716
+1610810,"Buhl city, Idaho",C16002_004,131,92
+1610810,"Buhl city, Idaho",C16002_007,0,12
+1610810,"Buhl city, Idaho",C16002_010,0,12
+1610810,"Buhl city, Idaho",C16002_013,0,12
+1611260,"Burley city, Idaho",B01003_001,10336,181
+1611260,"Burley city, Idaho",B03002_003,6251,359
+1611260,"Burley city, Idaho",B03002_012,3769,404
+1611260,"Burley city, Idaho",B11016_001,3554,171
+1611260,"Burley city, Idaho",B17021_002,2060,408
+1611260,"Burley city, Idaho",B19013_001,37612,4942
+1611260,"Burley city, Idaho",C16002_004,256,114
+1611260,"Burley city, Idaho",C16002_007,12,21
+1611260,"Burley city, Idaho",C16002_010,22,38
+1611260,"Burley city, Idaho",C16002_013,0,19
+1611710,"Butte City city, Idaho",B01003_001,73,27
+1611710,"Butte City city, Idaho",B03002_003,59,25
+1611710,"Butte City city, Idaho",B03002_012,3,5
+1611710,"Butte City city, Idaho",B11016_001,47,19
+1611710,"Butte City city, Idaho",B17021_002,11,11
+1611710,"Butte City city, Idaho",B19013_001,24531,16766
+1611710,"Butte City city, Idaho",C16002_004,0,12
+1611710,"Butte City city, Idaho",C16002_007,1,2
+1611710,"Butte City city, Idaho",C16002_010,0,12
+1611710,"Butte City city, Idaho",C16002_013,0,12
+1612250,"Caldwell city, Idaho",B01003_001,51634,41
+1612250,"Caldwell city, Idaho",B03002_003,30641,1239
+1612250,"Caldwell city, Idaho",B03002_012,18854,1289
+1612250,"Caldwell city, Idaho",B11016_001,16204,491
+1612250,"Caldwell city, Idaho",B17021_002,9689,1361
+1612250,"Caldwell city, Idaho",B19013_001,43269,2362
+1612250,"Caldwell city, Idaho",C16002_004,482,209
+1612250,"Caldwell city, Idaho",C16002_007,28,45
+1612250,"Caldwell city, Idaho",C16002_010,14,22
+1612250,"Caldwell city, Idaho",C16002_013,0,28
+1612520,"Cambridge city, Idaho",B01003_001,257,89
+1612520,"Cambridge city, Idaho",B03002_003,250,88
+1612520,"Cambridge city, Idaho",B03002_012,4,7
+1612520,"Cambridge city, Idaho",B11016_001,130,37
+1612520,"Cambridge city, Idaho",B17021_002,40,27
+1612520,"Cambridge city, Idaho",B19013_001,36071,13280
+1612520,"Cambridge city, Idaho",C16002_004,0,12
+1612520,"Cambridge city, Idaho",C16002_007,0,12
+1612520,"Cambridge city, Idaho",C16002_010,0,12
+1612520,"Cambridge city, Idaho",C16002_013,0,12
+1612790,"Carey city, Idaho",B01003_001,681,188
+1612790,"Carey city, Idaho",B03002_003,565,170
+1612790,"Carey city, Idaho",B03002_012,116,77
+1612790,"Carey city, Idaho",B11016_001,207,57
+1612790,"Carey city, Idaho",B17021_002,27,19
+1612790,"Carey city, Idaho",B19013_001,63295,10717
+1612790,"Carey city, Idaho",C16002_004,7,13
+1612790,"Carey city, Idaho",C16002_007,0,12
+1612790,"Carey city, Idaho",C16002_010,0,12
+1612790,"Carey city, Idaho",C16002_013,0,12
+1613150,"Cascade city, Idaho",B01003_001,622,149
+1613150,"Cascade city, Idaho",B03002_003,564,139
+1613150,"Cascade city, Idaho",B03002_012,22,28
+1613150,"Cascade city, Idaho",B11016_001,275,80
+1613150,"Cascade city, Idaho",B17021_002,73,59
+1613150,"Cascade city, Idaho",B19013_001,43047,13889
+1613150,"Cascade city, Idaho",C16002_004,0,12
+1613150,"Cascade city, Idaho",C16002_007,0,12
+1613150,"Cascade city, Idaho",C16002_010,0,12
+1613150,"Cascade city, Idaho",C16002_013,0,12
+1613240,"Castleford city, Idaho",B01003_001,195,93
+1613240,"Castleford city, Idaho",B03002_003,140,88
+1613240,"Castleford city, Idaho",B03002_012,55,41
+1613240,"Castleford city, Idaho",B11016_001,88,30
+1613240,"Castleford city, Idaho",B17021_002,23,24
+1613240,"Castleford city, Idaho",B19013_001,29583,8615
+1613240,"Castleford city, Idaho",C16002_004,13,13
+1613240,"Castleford city, Idaho",C16002_007,0,12
+1613240,"Castleford city, Idaho",C16002_010,0,12
+1613240,"Castleford city, Idaho",C16002_013,0,12
+1613780,"Challis city, Idaho",B01003_001,756,201
+1613780,"Challis city, Idaho",B03002_003,667,173
+1613780,"Challis city, Idaho",B03002_012,38,37
+1613780,"Challis city, Idaho",B11016_001,358,93
+1613780,"Challis city, Idaho",B17021_002,134,69
+1613780,"Challis city, Idaho",B19013_001,32273,8098
+1613780,"Challis city, Idaho",C16002_004,0,12
+1613780,"Challis city, Idaho",C16002_007,0,12
+1613780,"Challis city, Idaho",C16002_010,0,12
+1613780,"Challis city, Idaho",C16002_013,0,12
+1614680,"Chubbuck city, Idaho",B01003_001,14470,29
+1614680,"Chubbuck city, Idaho",B03002_003,12128,377
+1614680,"Chubbuck city, Idaho",B03002_012,1477,296
+1614680,"Chubbuck city, Idaho",B11016_001,5071,227
+1614680,"Chubbuck city, Idaho",B17021_002,1721,559
+1614680,"Chubbuck city, Idaho",B19013_001,56966,3256
+1614680,"Chubbuck city, Idaho",C16002_004,64,70
+1614680,"Chubbuck city, Idaho",C16002_007,0,19
+1614680,"Chubbuck city, Idaho",C16002_010,32,45
+1614680,"Chubbuck city, Idaho",C16002_013,29,48
+1614950,"Clark Fork city, Idaho",B01003_001,467,119
+1614950,"Clark Fork city, Idaho",B03002_003,392,107
+1614950,"Clark Fork city, Idaho",B03002_012,6,11
+1614950,"Clark Fork city, Idaho",B11016_001,266,61
+1614950,"Clark Fork city, Idaho",B17021_002,176,78
+1614950,"Clark Fork city, Idaho",B19013_001,19375,9753
+1614950,"Clark Fork city, Idaho",C16002_004,0,12
+1614950,"Clark Fork city, Idaho",C16002_007,0,12
+1614950,"Clark Fork city, Idaho",C16002_010,0,12
+1614950,"Clark Fork city, Idaho",C16002_013,0,12
+1615490,"Clayton city, Idaho",B01003_001,0,12
+1615490,"Clayton city, Idaho",B03002_003,0,12
+1615490,"Clayton city, Idaho",B03002_012,0,12
+1615490,"Clayton city, Idaho",B11016_001,0,12
+1615490,"Clayton city, Idaho",B17021_002,0,12
+1615490,"Clayton city, Idaho",B19013_001,NA,NA
+1615490,"Clayton city, Idaho",C16002_004,0,12
+1615490,"Clayton city, Idaho",C16002_007,0,12
+1615490,"Clayton city, Idaho",C16002_010,0,12
+1615490,"Clayton city, Idaho",C16002_013,0,12
+1616120,"Clifton city, Idaho",B01003_001,341,119
+1616120,"Clifton city, Idaho",B03002_003,308,105
+1616120,"Clifton city, Idaho",B03002_012,25,39
+1616120,"Clifton city, Idaho",B11016_001,81,24
+1616120,"Clifton city, Idaho",B17021_002,14,15
+1616120,"Clifton city, Idaho",B19013_001,55625,12622
+1616120,"Clifton city, Idaho",C16002_004,0,12
+1616120,"Clifton city, Idaho",C16002_007,3,5
+1616120,"Clifton city, Idaho",C16002_010,0,12
+1616120,"Clifton city, Idaho",C16002_013,0,12
+1616750,"Coeur d'Alene city, Idaho",B01003_001,48618,45
+1616750,"Coeur d'Alene city, Idaho",B03002_003,43252,661
+1616750,"Coeur d'Alene city, Idaho",B03002_012,2577,410
+1616750,"Coeur d'Alene city, Idaho",B11016_001,20090,589
+1616750,"Coeur d'Alene city, Idaho",B17021_002,7330,982
+1616750,"Coeur d'Alene city, Idaho",B19013_001,47606,2877
+1616750,"Coeur d'Alene city, Idaho",C16002_004,24,24
+1616750,"Coeur d'Alene city, Idaho",C16002_007,16,26
+1616750,"Coeur d'Alene city, Idaho",C16002_010,9,14
+1616750,"Coeur d'Alene city, Idaho",C16002_013,0,25
+1617830,"Conkling Park CDP, Idaho",B01003_001,75,26
+1617830,"Conkling Park CDP, Idaho",B03002_003,75,26
+1617830,"Conkling Park CDP, Idaho",B03002_012,0,12
+1617830,"Conkling Park CDP, Idaho",B11016_001,35,14
+1617830,"Conkling Park CDP, Idaho",B17021_002,8,11
+1617830,"Conkling Park CDP, Idaho",B19013_001,48750,18792
+1617830,"Conkling Park CDP, Idaho",C16002_004,0,12
+1617830,"Conkling Park CDP, Idaho",C16002_007,0,12
+1617830,"Conkling Park CDP, Idaho",C16002_010,0,12
+1617830,"Conkling Park CDP, Idaho",C16002_013,0,12
+1618640,"Cottonwood city, Idaho",B01003_001,952,155
+1618640,"Cottonwood city, Idaho",B03002_003,881,147
+1618640,"Cottonwood city, Idaho",B03002_012,34,22
+1618640,"Cottonwood city, Idaho",B11016_001,352,62
+1618640,"Cottonwood city, Idaho",B17021_002,224,91
+1618640,"Cottonwood city, Idaho",B19013_001,46042,4320
+1618640,"Cottonwood city, Idaho",C16002_004,0,12
+1618640,"Cottonwood city, Idaho",C16002_007,0,12
+1618640,"Cottonwood city, Idaho",C16002_010,0,12
+1618640,"Cottonwood city, Idaho",C16002_013,0,12
+1618820,"Council city, Idaho",B01003_001,903,168
+1618820,"Council city, Idaho",B03002_003,859,164
+1618820,"Council city, Idaho",B03002_012,5,12
+1618820,"Council city, Idaho",B11016_001,397,67
+1618820,"Council city, Idaho",B17021_002,175,91
+1618820,"Council city, Idaho",B19013_001,32969,6789
+1618820,"Council city, Idaho",C16002_004,0,12
+1618820,"Council city, Idaho",C16002_007,0,12
+1618820,"Council city, Idaho",C16002_010,0,12
+1618820,"Council city, Idaho",C16002_013,0,12
+1619270,"Craigmont city, Idaho",B01003_001,471,60
+1619270,"Craigmont city, Idaho",B03002_003,425,57
+1619270,"Craigmont city, Idaho",B03002_012,15,13
+1619270,"Craigmont city, Idaho",B11016_001,219,24
+1619270,"Craigmont city, Idaho",B17021_002,45,17
+1619270,"Craigmont city, Idaho",B19013_001,39844,4105
+1619270,"Craigmont city, Idaho",C16002_004,0,12
+1619270,"Craigmont city, Idaho",C16002_007,0,12
+1619270,"Craigmont city, Idaho",C16002_010,0,12
+1619270,"Craigmont city, Idaho",C16002_013,0,12
+1619720,"Crouch city, Idaho",B01003_001,88,33
+1619720,"Crouch city, Idaho",B03002_003,85,32
+1619720,"Crouch city, Idaho",B03002_012,3,5
+1619720,"Crouch city, Idaho",B11016_001,45,16
+1619720,"Crouch city, Idaho",B17021_002,17,13
+1619720,"Crouch city, Idaho",B19013_001,36875,14247
+1619720,"Crouch city, Idaho",C16002_004,1,2
+1619720,"Crouch city, Idaho",C16002_007,0,12
+1619720,"Crouch city, Idaho",C16002_010,0,12
+1619720,"Crouch city, Idaho",C16002_013,0,12
+1619900,"Culdesac city, Idaho",B01003_001,358,56
+1619900,"Culdesac city, Idaho",B03002_003,252,39
+1619900,"Culdesac city, Idaho",B03002_012,7,10
+1619900,"Culdesac city, Idaho",B11016_001,134,21
+1619900,"Culdesac city, Idaho",B17021_002,102,40
+1619900,"Culdesac city, Idaho",B19013_001,32500,6000
+1619900,"Culdesac city, Idaho",C16002_004,0,12
+1619900,"Culdesac city, Idaho",C16002_007,0,12
+1619900,"Culdesac city, Idaho",C16002_010,0,12
+1619900,"Culdesac city, Idaho",C16002_013,0,12
+1620350,"Dalton Gardens city, Idaho",B01003_001,2579,238
+1620350,"Dalton Gardens city, Idaho",B03002_003,2376,169
+1620350,"Dalton Gardens city, Idaho",B03002_012,160,159
+1620350,"Dalton Gardens city, Idaho",B11016_001,984,69
+1620350,"Dalton Gardens city, Idaho",B17021_002,94,56
+1620350,"Dalton Gardens city, Idaho",B19013_001,70370,8151
+1620350,"Dalton Gardens city, Idaho",C16002_004,0,12
+1620350,"Dalton Gardens city, Idaho",C16002_007,0,12
+1620350,"Dalton Gardens city, Idaho",C16002_010,0,12
+1620350,"Dalton Gardens city, Idaho",C16002_013,0,12
+1620710,"Dayton city, Idaho",B01003_001,468,133
+1620710,"Dayton city, Idaho",B03002_003,418,115
+1620710,"Dayton city, Idaho",B03002_012,47,51
+1620710,"Dayton city, Idaho",B11016_001,143,36
+1620710,"Dayton city, Idaho",B17021_002,31,43
+1620710,"Dayton city, Idaho",B19013_001,58125,16166
+1620710,"Dayton city, Idaho",C16002_004,0,12
+1620710,"Dayton city, Idaho",C16002_007,0,12
+1620710,"Dayton city, Idaho",C16002_010,0,12
+1620710,"Dayton city, Idaho",C16002_013,0,12
+1620890,"Deary city, Idaho",B01003_001,346,88
+1620890,"Deary city, Idaho",B03002_003,327,84
+1620890,"Deary city, Idaho",B03002_012,19,30
+1620890,"Deary city, Idaho",B11016_001,161,35
+1620890,"Deary city, Idaho",B17021_002,38,39
+1620890,"Deary city, Idaho",B19013_001,46250,10513
+1620890,"Deary city, Idaho",C16002_004,0,12
+1620890,"Deary city, Idaho",C16002_007,0,12
+1620890,"Deary city, Idaho",C16002_010,0,12
+1620890,"Deary city, Idaho",C16002_013,0,12
+1620980,"Declo city, Idaho",B01003_001,475,146
+1620980,"Declo city, Idaho",B03002_003,372,121
+1620980,"Declo city, Idaho",B03002_012,91,96
+1620980,"Declo city, Idaho",B11016_001,135,45
+1620980,"Declo city, Idaho",B17021_002,72,63
+1620980,"Declo city, Idaho",B19013_001,48594,13348
+1620980,"Declo city, Idaho",C16002_004,16,26
+1620980,"Declo city, Idaho",C16002_007,0,12
+1620980,"Declo city, Idaho",C16002_010,0,12
+1620980,"Declo city, Idaho",C16002_013,0,12
+1621520,"De Smet CDP, Idaho",B01003_001,172,45
+1621520,"De Smet CDP, Idaho",B03002_003,26,20
+1621520,"De Smet CDP, Idaho",B03002_012,0,12
+1621520,"De Smet CDP, Idaho",B11016_001,52,17
+1621520,"De Smet CDP, Idaho",B17021_002,100,45
+1621520,"De Smet CDP, Idaho",B19013_001,30000,11221
+1621520,"De Smet CDP, Idaho",C16002_004,0,12
+1621520,"De Smet CDP, Idaho",C16002_007,0,12
+1621520,"De Smet CDP, Idaho",C16002_010,0,12
+1621520,"De Smet CDP, Idaho",C16002_013,0,12
+1621790,"Dietrich city, Idaho",B01003_001,384,122
+1621790,"Dietrich city, Idaho",B03002_003,326,95
+1621790,"Dietrich city, Idaho",B03002_012,55,73
+1621790,"Dietrich city, Idaho",B11016_001,94,20
+1621790,"Dietrich city, Idaho",B17021_002,89,88
+1621790,"Dietrich city, Idaho",B19013_001,41250,20265
+1621790,"Dietrich city, Idaho",C16002_004,7,10
+1621790,"Dietrich city, Idaho",C16002_007,0,12
+1621790,"Dietrich city, Idaho",C16002_010,0,12
+1621790,"Dietrich city, Idaho",C16002_013,0,12
+1622330,"Donnelly city, Idaho",B01003_001,134,104
+1622330,"Donnelly city, Idaho",B03002_003,125,99
+1622330,"Donnelly city, Idaho",B03002_012,9,31
+1622330,"Donnelly city, Idaho",B11016_001,43,31
+1622330,"Donnelly city, Idaho",B17021_002,13,17
+1622330,"Donnelly city, Idaho",B19013_001,NA,NA
+1622330,"Donnelly city, Idaho",C16002_004,0,12
+1622330,"Donnelly city, Idaho",C16002_007,0,12
+1622330,"Donnelly city, Idaho",C16002_010,0,12
+1622330,"Donnelly city, Idaho",C16002_013,0,12
+1622510,"Dover city, Idaho",B01003_001,692,188
+1622510,"Dover city, Idaho",B03002_003,663,185
+1622510,"Dover city, Idaho",B03002_012,16,21
+1622510,"Dover city, Idaho",B11016_001,276,52
+1622510,"Dover city, Idaho",B17021_002,9,10
+1622510,"Dover city, Idaho",B19013_001,60682,15244
+1622510,"Dover city, Idaho",C16002_004,4,6
+1622510,"Dover city, Idaho",C16002_007,0,12
+1622510,"Dover city, Idaho",C16002_010,0,12
+1622510,"Dover city, Idaho",C16002_013,0,12
+1622600,"Downey city, Idaho",B01003_001,769,161
+1622600,"Downey city, Idaho",B03002_003,723,162
+1622600,"Downey city, Idaho",B03002_012,26,25
+1622600,"Downey city, Idaho",B11016_001,307,51
+1622600,"Downey city, Idaho",B17021_002,85,42
+1622600,"Downey city, Idaho",B19013_001,38875,5377
+1622600,"Downey city, Idaho",C16002_004,0,12
+1622600,"Downey city, Idaho",C16002_007,0,12
+1622600,"Downey city, Idaho",C16002_010,0,12
+1622600,"Downey city, Idaho",C16002_013,0,12
+1622690,"Driggs city, Idaho",B01003_001,1991,392
+1622690,"Driggs city, Idaho",B03002_003,1392,308
+1622690,"Driggs city, Idaho",B03002_012,590,248
+1622690,"Driggs city, Idaho",B11016_001,636,116
+1622690,"Driggs city, Idaho",B17021_002,244,147
+1622690,"Driggs city, Idaho",B19013_001,53779,6323
+1622690,"Driggs city, Idaho",C16002_004,62,54
+1622690,"Driggs city, Idaho",C16002_007,6,10
+1622690,"Driggs city, Idaho",C16002_010,0,12
+1622690,"Driggs city, Idaho",C16002_013,0,12
+1622780,"Drummond city, Idaho",B01003_001,2,3
+1622780,"Drummond city, Idaho",B03002_003,2,3
+1622780,"Drummond city, Idaho",B03002_012,0,12
+1622780,"Drummond city, Idaho",B11016_001,2,3
+1622780,"Drummond city, Idaho",B17021_002,0,12
+1622780,"Drummond city, Idaho",B19013_001,NA,NA
+1622780,"Drummond city, Idaho",C16002_004,0,12
+1622780,"Drummond city, Idaho",C16002_007,0,12
+1622780,"Drummond city, Idaho",C16002_010,0,12
+1622780,"Drummond city, Idaho",C16002_013,0,12
+1622960,"Dubois city, Idaho",B01003_001,631,128
+1622960,"Dubois city, Idaho",B03002_003,277,78
+1622960,"Dubois city, Idaho",B03002_012,335,95
+1622960,"Dubois city, Idaho",B11016_001,200,48
+1622960,"Dubois city, Idaho",B17021_002,118,107
+1622960,"Dubois city, Idaho",B19013_001,32857,19538
+1622960,"Dubois city, Idaho",C16002_004,25,28
+1622960,"Dubois city, Idaho",C16002_007,0,12
+1622960,"Dubois city, Idaho",C16002_010,0,12
+1622960,"Dubois city, Idaho",C16002_013,0,12
+1623410,"Eagle city, Idaho",B01003_001,23708,28
+1623410,"Eagle city, Idaho",B03002_003,21667,474
+1623410,"Eagle city, Idaho",B03002_012,1162,352
+1623410,"Eagle city, Idaho",B11016_001,8943,395
+1623410,"Eagle city, Idaho",B17021_002,1612,533
+1623410,"Eagle city, Idaho",B19013_001,81909,6021
+1623410,"Eagle city, Idaho",C16002_004,0,22
+1623410,"Eagle city, Idaho",C16002_007,0,22
+1623410,"Eagle city, Idaho",C16002_010,0,22
+1623410,"Eagle city, Idaho",C16002_013,0,22
+1623680,"East Hope city, Idaho",B01003_001,162,54
+1623680,"East Hope city, Idaho",B03002_003,147,45
+1623680,"East Hope city, Idaho",B03002_012,8,15
+1623680,"East Hope city, Idaho",B11016_001,89,28
+1623680,"East Hope city, Idaho",B17021_002,27,33
+1623680,"East Hope city, Idaho",B19013_001,47083,22065
+1623680,"East Hope city, Idaho",C16002_004,0,12
+1623680,"East Hope city, Idaho",C16002_007,0,12
+1623680,"East Hope city, Idaho",C16002_010,0,12
+1623680,"East Hope city, Idaho",C16002_013,0,12
+1624310,"Eden city, Idaho",B01003_001,337,107
+1624310,"Eden city, Idaho",B03002_003,229,70
+1624310,"Eden city, Idaho",B03002_012,108,91
+1624310,"Eden city, Idaho",B11016_001,130,36
+1624310,"Eden city, Idaho",B17021_002,56,41
+1624310,"Eden city, Idaho",B19013_001,35000,18593
+1624310,"Eden city, Idaho",C16002_004,3,6
+1624310,"Eden city, Idaho",C16002_007,0,12
+1624310,"Eden city, Idaho",C16002_010,0,12
+1624310,"Eden city, Idaho",C16002_013,0,12
+1625030,"Elk City CDP, Idaho",B01003_001,74,68
+1625030,"Elk City CDP, Idaho",B03002_003,74,68
+1625030,"Elk City CDP, Idaho",B03002_012,0,12
+1625030,"Elk City CDP, Idaho",B11016_001,35,31
+1625030,"Elk City CDP, Idaho",B17021_002,25,28
+1625030,"Elk City CDP, Idaho",B19013_001,35703,10986
+1625030,"Elk City CDP, Idaho",C16002_004,0,12
+1625030,"Elk City CDP, Idaho",C16002_007,0,12
+1625030,"Elk City CDP, Idaho",C16002_010,0,12
+1625030,"Elk City CDP, Idaho",C16002_013,0,12
+1625120,"Elk River city, Idaho",B01003_001,103,33
+1625120,"Elk River city, Idaho",B03002_003,103,33
+1625120,"Elk River city, Idaho",B03002_012,0,12
+1625120,"Elk River city, Idaho",B11016_001,63,20
+1625120,"Elk River city, Idaho",B17021_002,10,8
+1625120,"Elk River city, Idaho",B19013_001,27375,15961
+1625120,"Elk River city, Idaho",C16002_004,0,12
+1625120,"Elk River city, Idaho",C16002_007,0,12
+1625120,"Elk River city, Idaho",C16002_010,0,12
+1625120,"Elk River city, Idaho",C16002_013,0,12
+1625570,"Emmett city, Idaho",B01003_001,6593,19
+1625570,"Emmett city, Idaho",B03002_003,5430,295
+1625570,"Emmett city, Idaho",B03002_012,940,280
+1625570,"Emmett city, Idaho",B11016_001,2697,191
+1625570,"Emmett city, Idaho",B17021_002,1612,424
+1625570,"Emmett city, Idaho",B19013_001,35465,4697
+1625570,"Emmett city, Idaho",C16002_004,177,111
+1625570,"Emmett city, Idaho",C16002_007,0,17
+1625570,"Emmett city, Idaho",C16002_010,0,17
+1625570,"Emmett city, Idaho",C16002_013,0,17
+1626290,"Fairfield city, Idaho",B01003_001,414,112
+1626290,"Fairfield city, Idaho",B03002_003,378,100
+1626290,"Fairfield city, Idaho",B03002_012,33,50
+1626290,"Fairfield city, Idaho",B11016_001,141,41
+1626290,"Fairfield city, Idaho",B17021_002,152,86
+1626290,"Fairfield city, Idaho",B19013_001,35938,11509
+1626290,"Fairfield city, Idaho",C16002_004,8,12
+1626290,"Fairfield city, Idaho",C16002_007,0,12
+1626290,"Fairfield city, Idaho",C16002_010,0,12
+1626290,"Fairfield city, Idaho",C16002_013,0,12
+1627460,"Ferdinand city, Idaho",B01003_001,134,28
+1627460,"Ferdinand city, Idaho",B03002_003,132,29
+1627460,"Ferdinand city, Idaho",B03002_012,0,12
+1627460,"Ferdinand city, Idaho",B11016_001,63,21
+1627460,"Ferdinand city, Idaho",B17021_002,18,14
+1627460,"Ferdinand city, Idaho",B19013_001,50625,7474
+1627460,"Ferdinand city, Idaho",C16002_004,0,12
+1627460,"Ferdinand city, Idaho",C16002_007,0,12
+1627460,"Ferdinand city, Idaho",C16002_010,0,12
+1627460,"Ferdinand city, Idaho",C16002_013,0,12
+1627550,"Fernan Lake Village city, Idaho",B01003_001,148,47
+1627550,"Fernan Lake Village city, Idaho",B03002_003,140,46
+1627550,"Fernan Lake Village city, Idaho",B03002_012,5,6
+1627550,"Fernan Lake Village city, Idaho",B11016_001,63,20
+1627550,"Fernan Lake Village city, Idaho",B17021_002,21,22
+1627550,"Fernan Lake Village city, Idaho",B19013_001,75625,26600
+1627550,"Fernan Lake Village city, Idaho",C16002_004,0,12
+1627550,"Fernan Lake Village city, Idaho",C16002_007,0,12
+1627550,"Fernan Lake Village city, Idaho",C16002_010,0,12
+1627550,"Fernan Lake Village city, Idaho",C16002_013,0,12
+1627730,"Filer city, Idaho",B01003_001,2685,23
+1627730,"Filer city, Idaho",B03002_003,2340,164
+1627730,"Filer city, Idaho",B03002_012,246,129
+1627730,"Filer city, Idaho",B11016_001,950,92
+1627730,"Filer city, Idaho",B17021_002,395,195
+1627730,"Filer city, Idaho",B19013_001,44643,6998
+1627730,"Filer city, Idaho",C16002_004,15,26
+1627730,"Filer city, Idaho",C16002_007,0,12
+1627730,"Filer city, Idaho",C16002_010,0,12
+1627730,"Filer city, Idaho",C16002_013,0,12
+1627910,"Firth city, Idaho",B01003_001,439,126
+1627910,"Firth city, Idaho",B03002_003,338,98
+1627910,"Firth city, Idaho",B03002_012,92,72
+1627910,"Firth city, Idaho",B11016_001,164,49
+1627910,"Firth city, Idaho",B17021_002,50,34
+1627910,"Firth city, Idaho",B19013_001,38500,12623
+1627910,"Firth city, Idaho",C16002_004,5,8
+1627910,"Firth city, Idaho",C16002_007,0,12
+1627910,"Firth city, Idaho",C16002_010,0,12
+1627910,"Firth city, Idaho",C16002_013,0,12
+1628360,"Fort Hall CDP, Idaho",B01003_001,3589,393
+1628360,"Fort Hall CDP, Idaho",B03002_003,907,180
+1628360,"Fort Hall CDP, Idaho",B03002_012,419,167
+1628360,"Fort Hall CDP, Idaho",B11016_001,1061,94
+1628360,"Fort Hall CDP, Idaho",B17021_002,923,244
+1628360,"Fort Hall CDP, Idaho",B19013_001,40432,4170
+1628360,"Fort Hall CDP, Idaho",C16002_004,0,12
+1628360,"Fort Hall CDP, Idaho",C16002_007,0,12
+1628360,"Fort Hall CDP, Idaho",C16002_010,0,12
+1628360,"Fort Hall CDP, Idaho",C16002_013,0,12
+1628810,"Franklin city, Idaho",B01003_001,622,195
+1628810,"Franklin city, Idaho",B03002_003,577,186
+1628810,"Franklin city, Idaho",B03002_012,44,35
+1628810,"Franklin city, Idaho",B11016_001,221,60
+1628810,"Franklin city, Idaho",B17021_002,70,48
+1628810,"Franklin city, Idaho",B19013_001,48990,5774
+1628810,"Franklin city, Idaho",C16002_004,11,12
+1628810,"Franklin city, Idaho",C16002_007,0,12
+1628810,"Franklin city, Idaho",C16002_010,0,12
+1628810,"Franklin city, Idaho",C16002_013,0,12
+1628990,"Fruitland city, Idaho",B01003_001,5062,16
+1628990,"Fruitland city, Idaho",B03002_003,3546,388
+1628990,"Fruitland city, Idaho",B03002_012,1169,351
+1628990,"Fruitland city, Idaho",B11016_001,1936,165
+1628990,"Fruitland city, Idaho",B17021_002,857,426
+1628990,"Fruitland city, Idaho",B19013_001,46190,8028
+1628990,"Fruitland city, Idaho",C16002_004,0,17
+1628990,"Fruitland city, Idaho",C16002_007,0,17
+1628990,"Fruitland city, Idaho",C16002_010,0,17
+1628990,"Fruitland city, Idaho",C16002_013,0,17
+1629620,"Garden City city, Idaho",B01003_001,11637,32
+1629620,"Garden City city, Idaho",B03002_003,9992,428
+1629620,"Garden City city, Idaho",B03002_012,1289,398
+1629620,"Garden City city, Idaho",B11016_001,5386,227
+1629620,"Garden City city, Idaho",B17021_002,1690,418
+1629620,"Garden City city, Idaho",B19013_001,43656,2939
+1629620,"Garden City city, Idaho",C16002_004,110,86
+1629620,"Garden City city, Idaho",C16002_007,0,19
+1629620,"Garden City city, Idaho",C16002_010,14,18
+1629620,"Garden City city, Idaho",C16002_013,0,19
+1629710,"Garden Valley CDP, Idaho",B01003_001,345,180
+1629710,"Garden Valley CDP, Idaho",B03002_003,284,145
+1629710,"Garden Valley CDP, Idaho",B03002_012,3,7
+1629710,"Garden Valley CDP, Idaho",B11016_001,120,56
+1629710,"Garden Valley CDP, Idaho",B17021_002,20,19
+1629710,"Garden Valley CDP, Idaho",B19013_001,58214,34937
+1629710,"Garden Valley CDP, Idaho",C16002_004,0,12
+1629710,"Garden Valley CDP, Idaho",C16002_007,0,12
+1629710,"Garden Valley CDP, Idaho",C16002_010,0,12
+1629710,"Garden Valley CDP, Idaho",C16002_013,0,12
+1630160,"Genesee city, Idaho",B01003_001,994,106
+1630160,"Genesee city, Idaho",B03002_003,933,103
+1630160,"Genesee city, Idaho",B03002_012,25,23
+1630160,"Genesee city, Idaho",B11016_001,394,47
+1630160,"Genesee city, Idaho",B17021_002,108,45
+1630160,"Genesee city, Idaho",B19013_001,54167,15732
+1630160,"Genesee city, Idaho",C16002_004,5,7
+1630160,"Genesee city, Idaho",C16002_007,3,3
+1630160,"Genesee city, Idaho",C16002_010,0,12
+1630160,"Genesee city, Idaho",C16002_013,2,4
+1630340,"Georgetown city, Idaho",B01003_001,472,116
+1630340,"Georgetown city, Idaho",B03002_003,437,104
+1630340,"Georgetown city, Idaho",B03002_012,13,14
+1630340,"Georgetown city, Idaho",B11016_001,172,38
+1630340,"Georgetown city, Idaho",B17021_002,33,24
+1630340,"Georgetown city, Idaho",B19013_001,60000,14633
+1630340,"Georgetown city, Idaho",C16002_004,0,12
+1630340,"Georgetown city, Idaho",C16002_007,0,12
+1630340,"Georgetown city, Idaho",C16002_010,0,12
+1630340,"Georgetown city, Idaho",C16002_013,0,12
+1631690,"Glenns Ferry city, Idaho",B01003_001,1177,228
+1631690,"Glenns Ferry city, Idaho",B03002_003,932,206
+1631690,"Glenns Ferry city, Idaho",B03002_012,204,106
+1631690,"Glenns Ferry city, Idaho",B11016_001,493,84
+1631690,"Glenns Ferry city, Idaho",B17021_002,306,116
+1631690,"Glenns Ferry city, Idaho",B19013_001,28967,4660
+1631690,"Glenns Ferry city, Idaho",C16002_004,20,18
+1631690,"Glenns Ferry city, Idaho",C16002_007,0,12
+1631690,"Glenns Ferry city, Idaho",C16002_010,0,12
+1631690,"Glenns Ferry city, Idaho",C16002_013,0,12
+1632140,"Gooding city, Idaho",B01003_001,3469,15
+1632140,"Gooding city, Idaho",B03002_003,2023,279
+1632140,"Gooding city, Idaho",B03002_012,1383,279
+1632140,"Gooding city, Idaho",B11016_001,1369,160
+1632140,"Gooding city, Idaho",B17021_002,710,345
+1632140,"Gooding city, Idaho",B19013_001,30551,8058
+1632140,"Gooding city, Idaho",C16002_004,68,79
+1632140,"Gooding city, Idaho",C16002_007,0,12
+1632140,"Gooding city, Idaho",C16002_010,0,12
+1632140,"Gooding city, Idaho",C16002_013,0,12
+1632500,"Grace city, Idaho",B01003_001,991,150
+1632500,"Grace city, Idaho",B03002_003,867,143
+1632500,"Grace city, Idaho",B03002_012,122,66
+1632500,"Grace city, Idaho",B11016_001,403,69
+1632500,"Grace city, Idaho",B17021_002,98,44
+1632500,"Grace city, Idaho",B19013_001,53750,20323
+1632500,"Grace city, Idaho",C16002_004,29,21
+1632500,"Grace city, Idaho",C16002_007,0,12
+1632500,"Grace city, Idaho",C16002_010,0,12
+1632500,"Grace city, Idaho",C16002_013,0,12
+1632770,"Grand View city, Idaho",B01003_001,390,102
+1632770,"Grand View city, Idaho",B03002_003,292,81
+1632770,"Grand View city, Idaho",B03002_012,72,66
+1632770,"Grand View city, Idaho",B11016_001,152,40
+1632770,"Grand View city, Idaho",B17021_002,126,82
+1632770,"Grand View city, Idaho",B19013_001,31923,5028
+1632770,"Grand View city, Idaho",C16002_004,11,16
+1632770,"Grand View city, Idaho",C16002_007,0,12
+1632770,"Grand View city, Idaho",C16002_010,0,12
+1632770,"Grand View city, Idaho",C16002_013,0,12
+1632950,"Grangeville city, Idaho",B01003_001,3153,24
+1632950,"Grangeville city, Idaho",B03002_003,3029,98
+1632950,"Grangeville city, Idaho",B03002_012,94,102
+1632950,"Grangeville city, Idaho",B11016_001,1315,160
+1632950,"Grangeville city, Idaho",B17021_002,567,216
+1632950,"Grangeville city, Idaho",B19013_001,42431,15847
+1632950,"Grangeville city, Idaho",C16002_004,0,12
+1632950,"Grangeville city, Idaho",C16002_007,0,12
+1632950,"Grangeville city, Idaho",C16002_010,0,12
+1632950,"Grangeville city, Idaho",C16002_013,0,12
+1633490,"Greenleaf city, Idaho",B01003_001,1478,360
+1633490,"Greenleaf city, Idaho",B03002_003,968,231
+1633490,"Greenleaf city, Idaho",B03002_012,485,274
+1633490,"Greenleaf city, Idaho",B11016_001,430,69
+1633490,"Greenleaf city, Idaho",B17021_002,295,178
+1633490,"Greenleaf city, Idaho",B19013_001,52635,5861
+1633490,"Greenleaf city, Idaho",C16002_004,13,17
+1633490,"Greenleaf city, Idaho",C16002_007,0,12
+1633490,"Greenleaf city, Idaho",C16002_010,0,12
+1633490,"Greenleaf city, Idaho",C16002_013,0,12
+1634030,"Groveland CDP, Idaho",B01003_001,955,307
+1634030,"Groveland CDP, Idaho",B03002_003,740,273
+1634030,"Groveland CDP, Idaho",B03002_012,215,172
+1634030,"Groveland CDP, Idaho",B11016_001,284,77
+1634030,"Groveland CDP, Idaho",B17021_002,96,108
+1634030,"Groveland CDP, Idaho",B19013_001,56447,6129
+1634030,"Groveland CDP, Idaho",C16002_004,17,26
+1634030,"Groveland CDP, Idaho",C16002_007,0,12
+1634030,"Groveland CDP, Idaho",C16002_010,0,12
+1634030,"Groveland CDP, Idaho",C16002_013,0,12
+1634300,"Hagerman city, Idaho",B01003_001,1057,241
+1634300,"Hagerman city, Idaho",B03002_003,900,198
+1634300,"Hagerman city, Idaho",B03002_012,118,98
+1634300,"Hagerman city, Idaho",B11016_001,436,86
+1634300,"Hagerman city, Idaho",B17021_002,258,118
+1634300,"Hagerman city, Idaho",B19013_001,35192,7388
+1634300,"Hagerman city, Idaho",C16002_004,14,22
+1634300,"Hagerman city, Idaho",C16002_007,0,12
+1634300,"Hagerman city, Idaho",C16002_010,0,12
+1634300,"Hagerman city, Idaho",C16002_013,4,7
+1634390,"Hailey city, Idaho",B01003_001,8097,19
+1634390,"Hailey city, Idaho",B03002_003,5495,460
+1634390,"Hailey city, Idaho",B03002_012,2408,430
+1634390,"Hailey city, Idaho",B11016_001,2669,298
+1634390,"Hailey city, Idaho",B17021_002,1373,551
+1634390,"Hailey city, Idaho",B19013_001,54330,16219
+1634390,"Hailey city, Idaho",C16002_004,94,86
+1634390,"Hailey city, Idaho",C16002_007,0,17
+1634390,"Hailey city, Idaho",C16002_010,0,17
+1634390,"Hailey city, Idaho",C16002_013,0,17
+1634570,"Hamer city, Idaho",B01003_001,81,62
+1634570,"Hamer city, Idaho",B03002_003,48,46
+1634570,"Hamer city, Idaho",B03002_012,33,45
+1634570,"Hamer city, Idaho",B11016_001,16,10
+1634570,"Hamer city, Idaho",B17021_002,0,12
+1634570,"Hamer city, Idaho",B19013_001,51250,26058
+1634570,"Hamer city, Idaho",C16002_004,2,4
+1634570,"Hamer city, Idaho",C16002_007,0,12
+1634570,"Hamer city, Idaho",C16002_010,0,12
+1634570,"Hamer city, Idaho",C16002_013,0,12
+1634930,"Hansen city, Idaho",B01003_001,1472,374
+1634930,"Hansen city, Idaho",B03002_003,1017,243
+1634930,"Hansen city, Idaho",B03002_012,405,236
+1634930,"Hansen city, Idaho",B11016_001,517,94
+1634930,"Hansen city, Idaho",B17021_002,163,117
+1634930,"Hansen city, Idaho",B19013_001,38594,11951
+1634930,"Hansen city, Idaho",C16002_004,15,18
+1634930,"Hansen city, Idaho",C16002_007,0,12
+1634930,"Hansen city, Idaho",C16002_010,0,12
+1634930,"Hansen city, Idaho",C16002_013,0,12
+1635200,"Harrison city, Idaho",B01003_001,207,79
+1635200,"Harrison city, Idaho",B03002_003,196,72
+1635200,"Harrison city, Idaho",B03002_012,0,12
+1635200,"Harrison city, Idaho",B11016_001,103,34
+1635200,"Harrison city, Idaho",B17021_002,27,23
+1635200,"Harrison city, Idaho",B19013_001,44375,27269
+1635200,"Harrison city, Idaho",C16002_004,0,12
+1635200,"Harrison city, Idaho",C16002_007,0,12
+1635200,"Harrison city, Idaho",C16002_010,0,12
+1635200,"Harrison city, Idaho",C16002_013,0,12
+1635830,"Hauser city, Idaho",B01003_001,782,180
+1635830,"Hauser city, Idaho",B03002_003,716,174
+1635830,"Hauser city, Idaho",B03002_012,42,35
+1635830,"Hauser city, Idaho",B11016_001,307,60
+1635830,"Hauser city, Idaho",B17021_002,112,74
+1635830,"Hauser city, Idaho",B19013_001,51250,8705
+1635830,"Hauser city, Idaho",C16002_004,0,12
+1635830,"Hauser city, Idaho",C16002_007,0,12
+1635830,"Hauser city, Idaho",C16002_010,0,12
+1635830,"Hauser city, Idaho",C16002_013,5,9
+1636370,"Hayden city, Idaho",B01003_001,14096,28
+1636370,"Hayden city, Idaho",B03002_003,13071,431
+1636370,"Hayden city, Idaho",B03002_012,248,146
+1636370,"Hayden city, Idaho",B11016_001,5461,342
+1636370,"Hayden city, Idaho",B17021_002,690,268
+1636370,"Hayden city, Idaho",B19013_001,57355,7963
+1636370,"Hayden city, Idaho",C16002_004,19,29
+1636370,"Hayden city, Idaho",C16002_007,0,19
+1636370,"Hayden city, Idaho",C16002_010,0,19
+1636370,"Hayden city, Idaho",C16002_013,0,19
+1636460,"Hayden Lake city, Idaho",B01003_001,749,185
+1636460,"Hayden Lake city, Idaho",B03002_003,706,159
+1636460,"Hayden Lake city, Idaho",B03002_012,42,46
+1636460,"Hayden Lake city, Idaho",B11016_001,303,51
+1636460,"Hayden Lake city, Idaho",B17021_002,19,15
+1636460,"Hayden Lake city, Idaho",B19013_001,96750,19095
+1636460,"Hayden Lake city, Idaho",C16002_004,0,12
+1636460,"Hayden Lake city, Idaho",C16002_007,0,12
+1636460,"Hayden Lake city, Idaho",C16002_010,0,12
+1636460,"Hayden Lake city, Idaho",C16002_013,0,12
+1636730,"Hazelton city, Idaho",B01003_001,664,160
+1636730,"Hazelton city, Idaho",B03002_003,246,67
+1636730,"Hazelton city, Idaho",B03002_012,358,158
+1636730,"Hazelton city, Idaho",B11016_001,242,49
+1636730,"Hazelton city, Idaho",B17021_002,90,76
+1636730,"Hazelton city, Idaho",B19013_001,35625,17557
+1636730,"Hazelton city, Idaho",C16002_004,17,12
+1636730,"Hazelton city, Idaho",C16002_007,0,12
+1636730,"Hazelton city, Idaho",C16002_010,0,12
+1636730,"Hazelton city, Idaho",C16002_013,0,12
+1637360,"Heyburn city, Idaho",B01003_001,3218,20
+1637360,"Heyburn city, Idaho",B03002_003,2027,363
+1637360,"Heyburn city, Idaho",B03002_012,1052,352
+1637360,"Heyburn city, Idaho",B11016_001,1106,115
+1637360,"Heyburn city, Idaho",B17021_002,602,272
+1637360,"Heyburn city, Idaho",B19013_001,48958,8134
+1637360,"Heyburn city, Idaho",C16002_004,76,61
+1637360,"Heyburn city, Idaho",C16002_007,0,12
+1637360,"Heyburn city, Idaho",C16002_010,0,12
+1637360,"Heyburn city, Idaho",C16002_013,0,12
+1637500,"Hidden Springs CDP, Idaho",B01003_001,2515,450
+1637500,"Hidden Springs CDP, Idaho",B03002_003,2487,449
+1637500,"Hidden Springs CDP, Idaho",B03002_012,0,12
+1637500,"Hidden Springs CDP, Idaho",B11016_001,852,149
+1637500,"Hidden Springs CDP, Idaho",B17021_002,58,62
+1637500,"Hidden Springs CDP, Idaho",B19013_001,118519,38672
+1637500,"Hidden Springs CDP, Idaho",C16002_004,0,12
+1637500,"Hidden Springs CDP, Idaho",C16002_007,0,12
+1637500,"Hidden Springs CDP, Idaho",C16002_010,0,12
+1637500,"Hidden Springs CDP, Idaho",C16002_013,0,12
+1638080,"Hollister city, Idaho",B01003_001,177,39
+1638080,"Hollister city, Idaho",B03002_003,123,33
+1638080,"Hollister city, Idaho",B03002_012,53,28
+1638080,"Hollister city, Idaho",B11016_001,82,20
+1638080,"Hollister city, Idaho",B17021_002,38,25
+1638080,"Hollister city, Idaho",B19013_001,31250,18175
+1638080,"Hollister city, Idaho",C16002_004,1,2
+1638080,"Hollister city, Idaho",C16002_007,0,12
+1638080,"Hollister city, Idaho",C16002_010,0,12
+1638080,"Hollister city, Idaho",C16002_013,0,12
+1638170,"Homedale city, Idaho",B01003_001,2584,21
+1638170,"Homedale city, Idaho",B03002_003,1211,174
+1638170,"Homedale city, Idaho",B03002_012,1313,177
+1638170,"Homedale city, Idaho",B11016_001,862,84
+1638170,"Homedale city, Idaho",B17021_002,883,266
+1638170,"Homedale city, Idaho",B19013_001,28611,5274
+1638170,"Homedale city, Idaho",C16002_004,74,50
+1638170,"Homedale city, Idaho",C16002_007,0,12
+1638170,"Homedale city, Idaho",C16002_010,0,12
+1638170,"Homedale city, Idaho",C16002_013,0,12
+1638440,"Hope city, Idaho",B01003_001,51,21
+1638440,"Hope city, Idaho",B03002_003,45,21
+1638440,"Hope city, Idaho",B03002_012,0,12
+1638440,"Hope city, Idaho",B11016_001,28,15
+1638440,"Hope city, Idaho",B17021_002,0,12
+1638440,"Hope city, Idaho",B19013_001,57500,31641
+1638440,"Hope city, Idaho",C16002_004,0,12
+1638440,"Hope city, Idaho",C16002_007,0,12
+1638440,"Hope city, Idaho",C16002_010,0,12
+1638440,"Hope city, Idaho",C16002_013,0,12
+1638620,"Horseshoe Bend city, Idaho",B01003_001,765,146
+1638620,"Horseshoe Bend city, Idaho",B03002_003,651,136
+1638620,"Horseshoe Bend city, Idaho",B03002_012,48,49
+1638620,"Horseshoe Bend city, Idaho",B11016_001,324,63
+1638620,"Horseshoe Bend city, Idaho",B17021_002,74,40
+1638620,"Horseshoe Bend city, Idaho",B19013_001,35667,8192
+1638620,"Horseshoe Bend city, Idaho",C16002_004,7,9
+1638620,"Horseshoe Bend city, Idaho",C16002_007,0,12
+1638620,"Horseshoe Bend city, Idaho",C16002_010,0,12
+1638620,"Horseshoe Bend city, Idaho",C16002_013,0,12
+1639070,"Huetter city, Idaho",B01003_001,152,62
+1639070,"Huetter city, Idaho",B03002_003,140,63
+1639070,"Huetter city, Idaho",B03002_012,3,5
+1639070,"Huetter city, Idaho",B11016_001,62,22
+1639070,"Huetter city, Idaho",B17021_002,41,33
+1639070,"Huetter city, Idaho",B19013_001,33125,3136
+1639070,"Huetter city, Idaho",C16002_004,0,12
+1639070,"Huetter city, Idaho",C16002_007,0,12
+1639070,"Huetter city, Idaho",C16002_010,0,12
+1639070,"Huetter city, Idaho",C16002_013,0,12
+1639610,"Idaho City city, Idaho",B01003_001,459,120
+1639610,"Idaho City city, Idaho",B03002_003,409,110
+1639610,"Idaho City city, Idaho",B03002_012,15,16
+1639610,"Idaho City city, Idaho",B11016_001,185,47
+1639610,"Idaho City city, Idaho",B17021_002,80,46
+1639610,"Idaho City city, Idaho",B19013_001,32417,15233
+1639610,"Idaho City city, Idaho",C16002_004,0,12
+1639610,"Idaho City city, Idaho",C16002_007,0,12
+1639610,"Idaho City city, Idaho",C16002_010,0,12
+1639610,"Idaho City city, Idaho",C16002_013,0,12
+1639700,"Idaho Falls city, Idaho",B01003_001,59414,41
+1639700,"Idaho Falls city, Idaho",B03002_003,48276,735
+1639700,"Idaho Falls city, Idaho",B03002_012,8682,663
+1639700,"Idaho Falls city, Idaho",B11016_001,21724,455
+1639700,"Idaho Falls city, Idaho",B17021_002,8569,1146
+1639700,"Idaho Falls city, Idaho",B19013_001,49098,2529
+1639700,"Idaho Falls city, Idaho",C16002_004,327,126
+1639700,"Idaho Falls city, Idaho",C16002_007,6,9
+1639700,"Idaho Falls city, Idaho",C16002_010,93,80
+1639700,"Idaho Falls city, Idaho",C16002_013,7,11
+1640330,"Inkom city, Idaho",B01003_001,885,155
+1640330,"Inkom city, Idaho",B03002_003,840,142
+1640330,"Inkom city, Idaho",B03002_012,21,20
+1640330,"Inkom city, Idaho",B11016_001,326,54
+1640330,"Inkom city, Idaho",B17021_002,125,63
+1640330,"Inkom city, Idaho",B19013_001,51071,11756
+1640330,"Inkom city, Idaho",C16002_004,0,12
+1640330,"Inkom city, Idaho",C16002_007,0,12
+1640330,"Inkom city, Idaho",C16002_010,0,12
+1640330,"Inkom city, Idaho",C16002_013,0,12
+1640420,"Iona city, Idaho",B01003_001,2409,337
+1640420,"Iona city, Idaho",B03002_003,2372,339
+1640420,"Iona city, Idaho",B03002_012,37,31
+1640420,"Iona city, Idaho",B11016_001,721,97
+1640420,"Iona city, Idaho",B17021_002,77,49
+1640420,"Iona city, Idaho",B19013_001,69293,7400
+1640420,"Iona city, Idaho",C16002_004,0,12
+1640420,"Iona city, Idaho",C16002_007,0,12
+1640420,"Iona city, Idaho",C16002_010,0,12
+1640420,"Iona city, Idaho",C16002_013,0,12
+1640510,"Irwin city, Idaho",B01003_001,230,67
+1640510,"Irwin city, Idaho",B03002_003,219,65
+1640510,"Irwin city, Idaho",B03002_012,4,6
+1640510,"Irwin city, Idaho",B11016_001,104,30
+1640510,"Irwin city, Idaho",B17021_002,34,25
+1640510,"Irwin city, Idaho",B19013_001,47500,29452
+1640510,"Irwin city, Idaho",C16002_004,0,12
+1640510,"Irwin city, Idaho",C16002_007,2,3
+1640510,"Irwin city, Idaho",C16002_010,0,12
+1640510,"Irwin city, Idaho",C16002_013,0,12
+1640600,"Island Park city, Idaho",B01003_001,173,65
+1640600,"Island Park city, Idaho",B03002_003,170,65
+1640600,"Island Park city, Idaho",B03002_012,0,12
+1640600,"Island Park city, Idaho",B11016_001,95,33
+1640600,"Island Park city, Idaho",B17021_002,35,33
+1640600,"Island Park city, Idaho",B19013_001,32132,12214
+1640600,"Island Park city, Idaho",C16002_004,0,12
+1640600,"Island Park city, Idaho",C16002_007,0,12
+1640600,"Island Park city, Idaho",C16002_010,0,12
+1640600,"Island Park city, Idaho",C16002_013,0,12
+1641320,"Jerome city, Idaho",B01003_001,11306,40
+1641320,"Jerome city, Idaho",B03002_003,6984,402
+1641320,"Jerome city, Idaho",B03002_012,4091,399
+1641320,"Jerome city, Idaho",B11016_001,3866,193
+1641320,"Jerome city, Idaho",B17021_002,2193,543
+1641320,"Jerome city, Idaho",B19013_001,39115,3418
+1641320,"Jerome city, Idaho",C16002_004,484,157
+1641320,"Jerome city, Idaho",C16002_007,0,19
+1641320,"Jerome city, Idaho",C16002_010,0,19
+1641320,"Jerome city, Idaho",C16002_013,0,19
+1642130,"Juliaetta city, Idaho",B01003_001,607,121
+1642130,"Juliaetta city, Idaho",B03002_003,553,127
+1642130,"Juliaetta city, Idaho",B03002_012,30,23
+1642130,"Juliaetta city, Idaho",B11016_001,275,50
+1642130,"Juliaetta city, Idaho",B17021_002,125,74
+1642130,"Juliaetta city, Idaho",B19013_001,36435,6356
+1642130,"Juliaetta city, Idaho",C16002_004,0,12
+1642130,"Juliaetta city, Idaho",C16002_007,0,12
+1642130,"Juliaetta city, Idaho",C16002_010,0,12
+1642130,"Juliaetta city, Idaho",C16002_013,0,12
+1642400,"Kamiah city, Idaho",B01003_001,1267,89
+1642400,"Kamiah city, Idaho",B03002_003,1052,80
+1642400,"Kamiah city, Idaho",B03002_012,70,37
+1642400,"Kamiah city, Idaho",B11016_001,580,39
+1642400,"Kamiah city, Idaho",B17021_002,253,66
+1642400,"Kamiah city, Idaho",B19013_001,36905,5914
+1642400,"Kamiah city, Idaho",C16002_004,0,12
+1642400,"Kamiah city, Idaho",C16002_007,0,12
+1642400,"Kamiah city, Idaho",C16002_010,0,12
+1642400,"Kamiah city, Idaho",C16002_013,0,12
+1642580,"Kellogg city, Idaho",B01003_001,2267,261
+1642580,"Kellogg city, Idaho",B03002_003,2068,240
+1642580,"Kellogg city, Idaho",B03002_012,64,40
+1642580,"Kellogg city, Idaho",B11016_001,967,107
+1642580,"Kellogg city, Idaho",B17021_002,384,152
+1642580,"Kellogg city, Idaho",B19013_001,42882,9797
+1642580,"Kellogg city, Idaho",C16002_004,16,24
+1642580,"Kellogg city, Idaho",C16002_007,0,12
+1642580,"Kellogg city, Idaho",C16002_010,0,12
+1642580,"Kellogg city, Idaho",C16002_013,0,12
+1642760,"Kendrick city, Idaho",B01003_001,368,86
+1642760,"Kendrick city, Idaho",B03002_003,345,81
+1642760,"Kendrick city, Idaho",B03002_012,9,14
+1642760,"Kendrick city, Idaho",B11016_001,155,28
+1642760,"Kendrick city, Idaho",B17021_002,41,21
+1642760,"Kendrick city, Idaho",B19013_001,48472,11437
+1642760,"Kendrick city, Idaho",C16002_004,0,12
+1642760,"Kendrick city, Idaho",C16002_007,0,12
+1642760,"Kendrick city, Idaho",C16002_010,0,12
+1642760,"Kendrick city, Idaho",C16002_013,0,12
+1643030,"Ketchum city, Idaho",B01003_001,2718,15
+1643030,"Ketchum city, Idaho",B03002_003,2338,222
+1643030,"Ketchum city, Idaho",B03002_012,335,197
+1643030,"Ketchum city, Idaho",B11016_001,1286,149
+1643030,"Ketchum city, Idaho",B17021_002,240,146
+1643030,"Ketchum city, Idaho",B19013_001,68629,14890
+1643030,"Ketchum city, Idaho",C16002_004,26,41
+1643030,"Ketchum city, Idaho",C16002_007,0,12
+1643030,"Ketchum city, Idaho",C16002_010,0,12
+1643030,"Ketchum city, Idaho",C16002_013,0,12
+1643570,"Kimberly city, Idaho",B01003_001,3637,33
+1643570,"Kimberly city, Idaho",B03002_003,2855,210
+1643570,"Kimberly city, Idaho",B03002_012,678,172
+1643570,"Kimberly city, Idaho",B11016_001,1159,85
+1643570,"Kimberly city, Idaho",B17021_002,505,262
+1643570,"Kimberly city, Idaho",B19013_001,49987,7033
+1643570,"Kimberly city, Idaho",C16002_004,7,10
+1643570,"Kimberly city, Idaho",C16002_007,0,12
+1643570,"Kimberly city, Idaho",C16002_010,0,12
+1643570,"Kimberly city, Idaho",C16002_013,0,12
+1644110,"Kooskia city, Idaho",B01003_001,684,101
+1644110,"Kooskia city, Idaho",B03002_003,598,99
+1644110,"Kooskia city, Idaho",B03002_012,34,30
+1644110,"Kooskia city, Idaho",B11016_001,277,36
+1644110,"Kooskia city, Idaho",B17021_002,162,52
+1644110,"Kooskia city, Idaho",B19013_001,31806,5234
+1644110,"Kooskia city, Idaho",C16002_004,7,7
+1644110,"Kooskia city, Idaho",C16002_007,0,12
+1644110,"Kooskia city, Idaho",C16002_010,0,12
+1644110,"Kooskia city, Idaho",C16002_013,5,7
+1644200,"Kootenai city, Idaho",B01003_001,953,238
+1644200,"Kootenai city, Idaho",B03002_003,824,193
+1644200,"Kootenai city, Idaho",B03002_012,120,135
+1644200,"Kootenai city, Idaho",B11016_001,296,68
+1644200,"Kootenai city, Idaho",B17021_002,49,35
+1644200,"Kootenai city, Idaho",B19013_001,53476,2396
+1644200,"Kootenai city, Idaho",C16002_004,0,12
+1644200,"Kootenai city, Idaho",C16002_007,0,12
+1644200,"Kootenai city, Idaho",C16002_010,0,12
+1644200,"Kootenai city, Idaho",C16002_013,0,12
+1644290,"Kuna city, Idaho",B01003_001,17590,26
+1644290,"Kuna city, Idaho",B03002_003,15261,1260
+1644290,"Kuna city, Idaho",B03002_012,1589,1093
+1644290,"Kuna city, Idaho",B11016_001,5585,478
+1644290,"Kuna city, Idaho",B17021_002,1121,586
+1644290,"Kuna city, Idaho",B19013_001,63053,8396
+1644290,"Kuna city, Idaho",C16002_004,0,19
+1644290,"Kuna city, Idaho",C16002_007,0,19
+1644290,"Kuna city, Idaho",C16002_010,20,33
+1644290,"Kuna city, Idaho",C16002_013,0,19
+1645370,"Lapwai city, Idaho",B01003_001,1252,185
+1645370,"Lapwai city, Idaho",B03002_003,187,51
+1645370,"Lapwai city, Idaho",B03002_012,127,63
+1645370,"Lapwai city, Idaho",B11016_001,387,50
+1645370,"Lapwai city, Idaho",B17021_002,296,106
+1645370,"Lapwai city, Idaho",B19013_001,38917,3897
+1645370,"Lapwai city, Idaho",C16002_004,0,12
+1645370,"Lapwai city, Idaho",C16002_007,2,3
+1645370,"Lapwai city, Idaho",C16002_010,5,8
+1645370,"Lapwai city, Idaho",C16002_013,3,4
+1645820,"Lava Hot Springs city, Idaho",B01003_001,308,99
+1645820,"Lava Hot Springs city, Idaho",B03002_003,282,89
+1645820,"Lava Hot Springs city, Idaho",B03002_012,0,12
+1645820,"Lava Hot Springs city, Idaho",B11016_001,145,39
+1645820,"Lava Hot Springs city, Idaho",B17021_002,28,22
+1645820,"Lava Hot Springs city, Idaho",B19013_001,53942,16984
+1645820,"Lava Hot Springs city, Idaho",C16002_004,0,12
+1645820,"Lava Hot Springs city, Idaho",C16002_007,0,12
+1645820,"Lava Hot Springs city, Idaho",C16002_010,0,12
+1645820,"Lava Hot Springs city, Idaho",C16002_013,0,12
+1645910,"Leadore city, Idaho",B01003_001,59,28
+1645910,"Leadore city, Idaho",B03002_003,57,28
+1645910,"Leadore city, Idaho",B03002_012,2,4
+1645910,"Leadore city, Idaho",B11016_001,27,16
+1645910,"Leadore city, Idaho",B17021_002,17,18
+1645910,"Leadore city, Idaho",B19013_001,24688,10325
+1645910,"Leadore city, Idaho",C16002_004,0,12
+1645910,"Leadore city, Idaho",C16002_007,0,12
+1645910,"Leadore city, Idaho",C16002_010,0,12
+1645910,"Leadore city, Idaho",C16002_013,0,12
+1646540,"Lewiston city, Idaho",B01003_001,32482,23
+1646540,"Lewiston city, Idaho",B03002_003,29811,239
+1646540,"Lewiston city, Idaho",B03002_012,1182,115
+1646540,"Lewiston city, Idaho",B11016_001,13527,278
+1646540,"Lewiston city, Idaho",B17021_002,4500,671
+1646540,"Lewiston city, Idaho",B19013_001,50653,2585
+1646540,"Lewiston city, Idaho",C16002_004,50,53
+1646540,"Lewiston city, Idaho",C16002_007,37,30
+1646540,"Lewiston city, Idaho",C16002_010,0,25
+1646540,"Lewiston city, Idaho",C16002_013,7,11
+1646720,"Lewisville city, Idaho",B01003_001,418,109
+1646720,"Lewisville city, Idaho",B03002_003,360,94
+1646720,"Lewisville city, Idaho",B03002_012,51,45
+1646720,"Lewisville city, Idaho",B11016_001,141,40
+1646720,"Lewisville city, Idaho",B17021_002,42,36
+1646720,"Lewisville city, Idaho",B19013_001,49205,9948
+1646720,"Lewisville city, Idaho",C16002_004,7,10
+1646720,"Lewisville city, Idaho",C16002_007,0,12
+1646720,"Lewisville city, Idaho",C16002_010,0,12
+1646720,"Lewisville city, Idaho",C16002_013,0,12
+1647080,"Lincoln CDP, Idaho",B01003_001,3331,559
+1647080,"Lincoln CDP, Idaho",B03002_003,2973,555
+1647080,"Lincoln CDP, Idaho",B03002_012,333,170
+1647080,"Lincoln CDP, Idaho",B11016_001,1111,177
+1647080,"Lincoln CDP, Idaho",B17021_002,298,233
+1647080,"Lincoln CDP, Idaho",B19013_001,60710,10311
+1647080,"Lincoln CDP, Idaho",C16002_004,17,26
+1647080,"Lincoln CDP, Idaho",C16002_007,0,12
+1647080,"Lincoln CDP, Idaho",C16002_010,0,12
+1647080,"Lincoln CDP, Idaho",C16002_013,0,12
+1647890,"Lost River city, Idaho",B01003_001,12,19
+1647890,"Lost River city, Idaho",B03002_003,12,19
+1647890,"Lost River city, Idaho",B03002_012,0,12
+1647890,"Lost River city, Idaho",B11016_001,6,9
+1647890,"Lost River city, Idaho",B17021_002,0,12
+1647890,"Lost River city, Idaho",B19013_001,NA,NA
+1647890,"Lost River city, Idaho",C16002_004,0,12
+1647890,"Lost River city, Idaho",C16002_007,0,12
+1647890,"Lost River city, Idaho",C16002_010,0,12
+1647890,"Lost River city, Idaho",C16002_013,0,12
+1648250,"Lowman CDP, Idaho",B01003_001,22,28
+1648250,"Lowman CDP, Idaho",B03002_003,22,28
+1648250,"Lowman CDP, Idaho",B03002_012,0,12
+1648250,"Lowman CDP, Idaho",B11016_001,12,14
+1648250,"Lowman CDP, Idaho",B17021_002,0,12
+1648250,"Lowman CDP, Idaho",B19013_001,NA,NA
+1648250,"Lowman CDP, Idaho",C16002_004,0,12
+1648250,"Lowman CDP, Idaho",C16002_007,0,12
+1648250,"Lowman CDP, Idaho",C16002_010,0,12
+1648250,"Lowman CDP, Idaho",C16002_013,0,12
+1648790,"McCall city, Idaho",B01003_001,3115,16
+1648790,"McCall city, Idaho",B03002_003,3104,22
+1648790,"McCall city, Idaho",B03002_012,0,12
+1648790,"McCall city, Idaho",B11016_001,1100,220
+1648790,"McCall city, Idaho",B17021_002,317,184
+1648790,"McCall city, Idaho",B19013_001,50000,9885
+1648790,"McCall city, Idaho",C16002_004,6,12
+1648790,"McCall city, Idaho",C16002_007,0,12
+1648790,"McCall city, Idaho",C16002_010,0,12
+1648790,"McCall city, Idaho",C16002_013,0,12
+1648880,"McCammon city, Idaho",B01003_001,683,150
+1648880,"McCammon city, Idaho",B03002_003,638,142
+1648880,"McCammon city, Idaho",B03002_012,39,34
+1648880,"McCammon city, Idaho",B11016_001,257,51
+1648880,"McCammon city, Idaho",B17021_002,30,27
+1648880,"McCammon city, Idaho",B19013_001,55987,8874
+1648880,"McCammon city, Idaho",C16002_004,0,12
+1648880,"McCammon city, Idaho",C16002_007,0,12
+1648880,"McCammon city, Idaho",C16002_010,0,12
+1648880,"McCammon city, Idaho",C16002_013,0,12
+1649240,"Mackay city, Idaho",B01003_001,444,116
+1649240,"Mackay city, Idaho",B03002_003,444,116
+1649240,"Mackay city, Idaho",B03002_012,0,12
+1649240,"Mackay city, Idaho",B11016_001,191,44
+1649240,"Mackay city, Idaho",B17021_002,122,70
+1649240,"Mackay city, Idaho",B19013_001,42279,16048
+1649240,"Mackay city, Idaho",C16002_004,0,12
+1649240,"Mackay city, Idaho",C16002_007,0,12
+1649240,"Mackay city, Idaho",C16002_010,0,12
+1649240,"Mackay city, Idaho",C16002_013,0,12
+1650140,"Malad City city, Idaho",B01003_001,2079,246
+1650140,"Malad City city, Idaho",B03002_003,1994,237
+1650140,"Malad City city, Idaho",B03002_012,33,54
+1650140,"Malad City city, Idaho",B11016_001,823,97
+1650140,"Malad City city, Idaho",B17021_002,339,123
+1650140,"Malad City city, Idaho",B19013_001,38980,7925
+1650140,"Malad City city, Idaho",C16002_004,10,16
+1650140,"Malad City city, Idaho",C16002_007,0,12
+1650140,"Malad City city, Idaho",C16002_010,0,12
+1650140,"Malad City city, Idaho",C16002_013,0,12
+1650230,"Malta city, Idaho",B01003_001,242,105
+1650230,"Malta city, Idaho",B03002_003,200,91
+1650230,"Malta city, Idaho",B03002_012,42,48
+1650230,"Malta city, Idaho",B11016_001,79,28
+1650230,"Malta city, Idaho",B17021_002,3,5
+1650230,"Malta city, Idaho",B19013_001,52188,12793
+1650230,"Malta city, Idaho",C16002_004,0,12
+1650230,"Malta city, Idaho",C16002_007,0,12
+1650230,"Malta city, Idaho",C16002_010,0,12
+1650230,"Malta city, Idaho",C16002_013,0,12
+1650950,"Marsing city, Idaho",B01003_001,1464,231
+1650950,"Marsing city, Idaho",B03002_003,699,160
+1650950,"Marsing city, Idaho",B03002_012,696,199
+1650950,"Marsing city, Idaho",B11016_001,480,85
+1650950,"Marsing city, Idaho",B17021_002,533,194
+1650950,"Marsing city, Idaho",B19013_001,28966,4543
+1650950,"Marsing city, Idaho",C16002_004,82,50
+1650950,"Marsing city, Idaho",C16002_007,3,5
+1650950,"Marsing city, Idaho",C16002_010,0,12
+1650950,"Marsing city, Idaho",C16002_013,0,12
+1651850,"Melba city, Idaho",B01003_001,623,204
+1651850,"Melba city, Idaho",B03002_003,380,113
+1651850,"Melba city, Idaho",B03002_012,232,202
+1651850,"Melba city, Idaho",B11016_001,189,46
+1651850,"Melba city, Idaho",B17021_002,156,156
+1651850,"Melba city, Idaho",B19013_001,39250,9667
+1651850,"Melba city, Idaho",C16002_004,18,27
+1651850,"Melba city, Idaho",C16002_007,0,12
+1651850,"Melba city, Idaho",C16002_010,0,12
+1651850,"Melba city, Idaho",C16002_013,0,12
+1652030,"Menan city, Idaho",B01003_001,801,169
+1652030,"Menan city, Idaho",B03002_003,725,156
+1652030,"Menan city, Idaho",B03002_012,23,28
+1652030,"Menan city, Idaho",B11016_001,258,44
+1652030,"Menan city, Idaho",B17021_002,65,56
+1652030,"Menan city, Idaho",B19013_001,49318,11721
+1652030,"Menan city, Idaho",C16002_004,2,4
+1652030,"Menan city, Idaho",C16002_007,0,12
+1652030,"Menan city, Idaho",C16002_010,0,12
+1652030,"Menan city, Idaho",C16002_013,0,12
+1652120,"Meridian city, Idaho",B01003_001,91917,64
+1652120,"Meridian city, Idaho",B03002_003,81383,1394
+1652120,"Meridian city, Idaho",B03002_012,6070,1123
+1652120,"Meridian city, Idaho",B11016_001,33201,945
+1652120,"Meridian city, Idaho",B17021_002,8966,1417
+1652120,"Meridian city, Idaho",B19013_001,64375,3258
+1652120,"Meridian city, Idaho",C16002_004,112,113
+1652120,"Meridian city, Idaho",C16002_007,123,82
+1652120,"Meridian city, Idaho",C16002_010,124,125
+1652120,"Meridian city, Idaho",C16002_013,0,28
+1652660,"Middleton city, Idaho",B01003_001,6716,36
+1652660,"Middleton city, Idaho",B03002_003,5546,333
+1652660,"Middleton city, Idaho",B03002_012,932,324
+1652660,"Middleton city, Idaho",B11016_001,2222,135
+1652660,"Middleton city, Idaho",B17021_002,1145,311
+1652660,"Middleton city, Idaho",B19013_001,43462,6793
+1652660,"Middleton city, Idaho",C16002_004,24,27
+1652660,"Middleton city, Idaho",C16002_007,0,17
+1652660,"Middleton city, Idaho",C16002_010,0,17
+1652660,"Middleton city, Idaho",C16002_013,0,17
+1652750,"Midvale city, Idaho",B01003_001,218,65
+1652750,"Midvale city, Idaho",B03002_003,214,67
+1652750,"Midvale city, Idaho",B03002_012,0,12
+1652750,"Midvale city, Idaho",B11016_001,87,31
+1652750,"Midvale city, Idaho",B17021_002,73,49
+1652750,"Midvale city, Idaho",B19013_001,32083,15846
+1652750,"Midvale city, Idaho",C16002_004,0,12
+1652750,"Midvale city, Idaho",C16002_007,0,12
+1652750,"Midvale city, Idaho",C16002_010,0,12
+1652750,"Midvale city, Idaho",C16002_013,0,12
+1653110,"Minidoka city, Idaho",B01003_001,53,42
+1653110,"Minidoka city, Idaho",B03002_003,12,20
+1653110,"Minidoka city, Idaho",B03002_012,34,33
+1653110,"Minidoka city, Idaho",B11016_001,19,14
+1653110,"Minidoka city, Idaho",B17021_002,21,27
+1653110,"Minidoka city, Idaho",B19013_001,40750,22531
+1653110,"Minidoka city, Idaho",C16002_004,10,9
+1653110,"Minidoka city, Idaho",C16002_007,0,12
+1653110,"Minidoka city, Idaho",C16002_010,0,12
+1653110,"Minidoka city, Idaho",C16002_013,0,12
+1653920,"Montpelier city, Idaho",B01003_001,2517,22
+1653920,"Montpelier city, Idaho",B03002_003,2291,66
+1653920,"Montpelier city, Idaho",B03002_012,158,56
+1653920,"Montpelier city, Idaho",B11016_001,1017,92
+1653920,"Montpelier city, Idaho",B17021_002,512,129
+1653920,"Montpelier city, Idaho",B19013_001,39901,7935
+1653920,"Montpelier city, Idaho",C16002_004,0,12
+1653920,"Montpelier city, Idaho",C16002_007,0,12
+1653920,"Montpelier city, Idaho",C16002_010,5,6
+1653920,"Montpelier city, Idaho",C16002_013,8,11
+1654100,"Moore city, Idaho",B01003_001,131,42
+1654100,"Moore city, Idaho",B03002_003,131,42
+1654100,"Moore city, Idaho",B03002_012,0,12
+1654100,"Moore city, Idaho",B11016_001,74,25
+1654100,"Moore city, Idaho",B17021_002,22,16
+1654100,"Moore city, Idaho",B19013_001,42917,6921
+1654100,"Moore city, Idaho",C16002_004,0,12
+1654100,"Moore city, Idaho",C16002_007,0,12
+1654100,"Moore city, Idaho",C16002_010,0,12
+1654100,"Moore city, Idaho",C16002_013,0,12
+1654370,"Moreland CDP, Idaho",B01003_001,1262,384
+1654370,"Moreland CDP, Idaho",B03002_003,1015,355
+1654370,"Moreland CDP, Idaho",B03002_012,175,179
+1654370,"Moreland CDP, Idaho",B11016_001,329,96
+1654370,"Moreland CDP, Idaho",B17021_002,120,124
+1654370,"Moreland CDP, Idaho",B19013_001,62250,8163
+1654370,"Moreland CDP, Idaho",C16002_004,0,12
+1654370,"Moreland CDP, Idaho",C16002_007,0,12
+1654370,"Moreland CDP, Idaho",C16002_010,0,12
+1654370,"Moreland CDP, Idaho",C16002_013,0,12
+1654550,"Moscow city, Idaho",B01003_001,24833,30
+1654550,"Moscow city, Idaho",B03002_003,21624,207
+1654550,"Moscow city, Idaho",B03002_012,1231,169
+1654550,"Moscow city, Idaho",B11016_001,9902,306
+1654550,"Moscow city, Idaho",B17021_002,6473,616
+1654550,"Moscow city, Idaho",B19013_001,35979,1889
+1654550,"Moscow city, Idaho",C16002_004,0,22
+1654550,"Moscow city, Idaho",C16002_007,14,23
+1654550,"Moscow city, Idaho",C16002_010,60,61
+1654550,"Moscow city, Idaho",C16002_013,0,22
+1654730,"Mountain Home city, Idaho",B01003_001,13867,26
+1654730,"Mountain Home city, Idaho",B03002_003,10596,352
+1654730,"Mountain Home city, Idaho",B03002_012,1683,324
+1654730,"Mountain Home city, Idaho",B11016_001,5344,282
+1654730,"Mountain Home city, Idaho",B17021_002,2229,488
+1654730,"Mountain Home city, Idaho",B19013_001,48625,5747
+1654730,"Mountain Home city, Idaho",C16002_004,73,46
+1654730,"Mountain Home city, Idaho",C16002_007,0,19
+1654730,"Mountain Home city, Idaho",C16002_010,0,19
+1654730,"Mountain Home city, Idaho",C16002_013,30,32
+1654820,"Mountain Home AFB CDP, Idaho",B01003_001,3070,286
+1654820,"Mountain Home AFB CDP, Idaho",B03002_003,2082,222
+1654820,"Mountain Home AFB CDP, Idaho",B03002_012,309,111
+1654820,"Mountain Home AFB CDP, Idaho",B11016_001,920,119
+1654820,"Mountain Home AFB CDP, Idaho",B17021_002,132,75
+1654820,"Mountain Home AFB CDP, Idaho",B19013_001,40458,3534
+1654820,"Mountain Home AFB CDP, Idaho",C16002_004,0,12
+1654820,"Mountain Home AFB CDP, Idaho",C16002_007,0,12
+1654820,"Mountain Home AFB CDP, Idaho",C16002_010,36,51
+1654820,"Mountain Home AFB CDP, Idaho",C16002_013,0,12
+1655270,"Moyie Springs city, Idaho",B01003_001,741,200
+1655270,"Moyie Springs city, Idaho",B03002_003,659,183
+1655270,"Moyie Springs city, Idaho",B03002_012,57,39
+1655270,"Moyie Springs city, Idaho",B11016_001,306,77
+1655270,"Moyie Springs city, Idaho",B17021_002,144,103
+1655270,"Moyie Springs city, Idaho",B19013_001,38704,9410
+1655270,"Moyie Springs city, Idaho",C16002_004,0,12
+1655270,"Moyie Springs city, Idaho",C16002_007,0,12
+1655270,"Moyie Springs city, Idaho",C16002_010,0,12
+1655270,"Moyie Springs city, Idaho",C16002_013,0,12
+1655450,"Mud Lake city, Idaho",B01003_001,428,120
+1655450,"Mud Lake city, Idaho",B03002_003,228,69
+1655450,"Mud Lake city, Idaho",B03002_012,192,108
+1655450,"Mud Lake city, Idaho",B11016_001,114,30
+1655450,"Mud Lake city, Idaho",B17021_002,67,52
+1655450,"Mud Lake city, Idaho",B19013_001,41250,8974
+1655450,"Mud Lake city, Idaho",C16002_004,16,11
+1655450,"Mud Lake city, Idaho",C16002_007,0,12
+1655450,"Mud Lake city, Idaho",C16002_010,0,12
+1655450,"Mud Lake city, Idaho",C16002_013,0,12
+1655630,"Mullan city, Idaho",B01003_001,807,146
+1655630,"Mullan city, Idaho",B03002_003,706,137
+1655630,"Mullan city, Idaho",B03002_012,56,40
+1655630,"Mullan city, Idaho",B11016_001,318,51
+1655630,"Mullan city, Idaho",B17021_002,225,115
+1655630,"Mullan city, Idaho",B19013_001,41071,8843
+1655630,"Mullan city, Idaho",C16002_004,0,12
+1655630,"Mullan city, Idaho",C16002_007,7,10
+1655630,"Mullan city, Idaho",C16002_010,0,12
+1655630,"Mullan city, Idaho",C16002_013,0,12
+1655720,"Murphy CDP, Idaho",B01003_001,92,58
+1655720,"Murphy CDP, Idaho",B03002_003,60,39
+1655720,"Murphy CDP, Idaho",B03002_012,6,10
+1655720,"Murphy CDP, Idaho",B11016_001,32,28
+1655720,"Murphy CDP, Idaho",B17021_002,13,21
+1655720,"Murphy CDP, Idaho",B19013_001,33500,17945
+1655720,"Murphy CDP, Idaho",C16002_004,0,12
+1655720,"Murphy CDP, Idaho",C16002_007,0,12
+1655720,"Murphy CDP, Idaho",C16002_010,0,12
+1655720,"Murphy CDP, Idaho",C16002_013,0,12
+1655900,"Murtaugh city, Idaho",B01003_001,73,32
+1655900,"Murtaugh city, Idaho",B03002_003,68,33
+1655900,"Murtaugh city, Idaho",B03002_012,4,7
+1655900,"Murtaugh city, Idaho",B11016_001,33,14
+1655900,"Murtaugh city, Idaho",B17021_002,4,5
+1655900,"Murtaugh city, Idaho",B19013_001,49063,12447
+1655900,"Murtaugh city, Idaho",C16002_004,4,7
+1655900,"Murtaugh city, Idaho",C16002_007,0,12
+1655900,"Murtaugh city, Idaho",C16002_010,0,12
+1655900,"Murtaugh city, Idaho",C16002_013,0,12
+1656260,"Nampa city, Idaho",B01003_001,89576,47
+1656260,"Nampa city, Idaho",B03002_003,63694,1448
+1656260,"Nampa city, Idaho",B03002_012,21326,1515
+1656260,"Nampa city, Idaho",B11016_001,30661,539
+1656260,"Nampa city, Idaho",B17021_002,17576,2066
+1656260,"Nampa city, Idaho",B19013_001,43058,2304
+1656260,"Nampa city, Idaho",C16002_004,836,241
+1656260,"Nampa city, Idaho",C16002_007,99,89
+1656260,"Nampa city, Idaho",C16002_010,28,32
+1656260,"Nampa city, Idaho",C16002_013,8,11
+1656800,"Newdale city, Idaho",B01003_001,348,84
+1656800,"Newdale city, Idaho",B03002_003,291,76
+1656800,"Newdale city, Idaho",B03002_012,56,41
+1656800,"Newdale city, Idaho",B11016_001,127,29
+1656800,"Newdale city, Idaho",B17021_002,43,31
+1656800,"Newdale city, Idaho",B19013_001,49375,6012
+1656800,"Newdale city, Idaho",C16002_004,7,9
+1656800,"Newdale city, Idaho",C16002_007,0,12
+1656800,"Newdale city, Idaho",C16002_010,0,12
+1656800,"Newdale city, Idaho",C16002_013,0,12
+1656890,"New Meadows city, Idaho",B01003_001,507,146
+1656890,"New Meadows city, Idaho",B03002_003,392,133
+1656890,"New Meadows city, Idaho",B03002_012,82,61
+1656890,"New Meadows city, Idaho",B11016_001,186,50
+1656890,"New Meadows city, Idaho",B17021_002,88,81
+1656890,"New Meadows city, Idaho",B19013_001,33125,23248
+1656890,"New Meadows city, Idaho",C16002_004,10,9
+1656890,"New Meadows city, Idaho",C16002_007,0,12
+1656890,"New Meadows city, Idaho",C16002_010,0,12
+1656890,"New Meadows city, Idaho",C16002_013,0,12
+1656980,"New Plymouth city, Idaho",B01003_001,1701,316
+1656980,"New Plymouth city, Idaho",B03002_003,1393,256
+1656980,"New Plymouth city, Idaho",B03002_012,234,137
+1656980,"New Plymouth city, Idaho",B11016_001,623,93
+1656980,"New Plymouth city, Idaho",B17021_002,341,162
+1656980,"New Plymouth city, Idaho",B19013_001,35129,5761
+1656980,"New Plymouth city, Idaho",C16002_004,4,7
+1656980,"New Plymouth city, Idaho",C16002_007,0,12
+1656980,"New Plymouth city, Idaho",C16002_010,0,12
+1656980,"New Plymouth city, Idaho",C16002_013,0,12
+1657250,"Nezperce city, Idaho",B01003_001,537,79
+1657250,"Nezperce city, Idaho",B03002_003,452,74
+1657250,"Nezperce city, Idaho",B03002_012,35,30
+1657250,"Nezperce city, Idaho",B11016_001,200,19
+1657250,"Nezperce city, Idaho",B17021_002,40,17
+1657250,"Nezperce city, Idaho",B19013_001,49643,5179
+1657250,"Nezperce city, Idaho",C16002_004,0,12
+1657250,"Nezperce city, Idaho",C16002_007,0,12
+1657250,"Nezperce city, Idaho",C16002_010,0,12
+1657250,"Nezperce city, Idaho",C16002_013,0,12
+1658060,"Notus city, Idaho",B01003_001,640,229
+1658060,"Notus city, Idaho",B03002_003,367,122
+1658060,"Notus city, Idaho",B03002_012,273,194
+1658060,"Notus city, Idaho",B11016_001,213,62
+1658060,"Notus city, Idaho",B17021_002,59,38
+1658060,"Notus city, Idaho",B19013_001,41016,10697
+1658060,"Notus city, Idaho",C16002_004,9,14
+1658060,"Notus city, Idaho",C16002_007,0,12
+1658060,"Notus city, Idaho",C16002_010,0,12
+1658060,"Notus city, Idaho",C16002_013,0,12
+1658330,"Oakley city, Idaho",B01003_001,956,217
+1658330,"Oakley city, Idaho",B03002_003,632,147
+1658330,"Oakley city, Idaho",B03002_012,271,138
+1658330,"Oakley city, Idaho",B11016_001,319,67
+1658330,"Oakley city, Idaho",B17021_002,167,122
+1658330,"Oakley city, Idaho",B19013_001,47708,9219
+1658330,"Oakley city, Idaho",C16002_004,44,37
+1658330,"Oakley city, Idaho",C16002_007,0,12
+1658330,"Oakley city, Idaho",C16002_010,0,12
+1658330,"Oakley city, Idaho",C16002_013,0,12
+1658600,"Oldtown city, Idaho",B01003_001,177,65
+1658600,"Oldtown city, Idaho",B03002_003,167,64
+1658600,"Oldtown city, Idaho",B03002_012,4,6
+1658600,"Oldtown city, Idaho",B11016_001,87,31
+1658600,"Oldtown city, Idaho",B17021_002,49,43
+1658600,"Oldtown city, Idaho",B19013_001,32292,11930
+1658600,"Oldtown city, Idaho",C16002_004,4,6
+1658600,"Oldtown city, Idaho",C16002_007,0,12
+1658600,"Oldtown city, Idaho",C16002_010,0,12
+1658600,"Oldtown city, Idaho",C16002_013,0,12
+1658870,"Onaway city, Idaho",B01003_001,181,70
+1658870,"Onaway city, Idaho",B03002_003,170,68
+1658870,"Onaway city, Idaho",B03002_012,7,8
+1658870,"Onaway city, Idaho",B11016_001,76,35
+1658870,"Onaway city, Idaho",B17021_002,20,16
+1658870,"Onaway city, Idaho",B19013_001,45625,13616
+1658870,"Onaway city, Idaho",C16002_004,0,12
+1658870,"Onaway city, Idaho",C16002_007,0,12
+1658870,"Onaway city, Idaho",C16002_010,0,12
+1658870,"Onaway city, Idaho",C16002_013,0,12
+1659320,"Orofino city, Idaho",B01003_001,3055,24
+1659320,"Orofino city, Idaho",B03002_003,2632,82
+1659320,"Orofino city, Idaho",B03002_012,222,59
+1659320,"Orofino city, Idaho",B11016_001,980,143
+1659320,"Orofino city, Idaho",B17021_002,322,94
+1659320,"Orofino city, Idaho",B19013_001,41417,4046
+1659320,"Orofino city, Idaho",C16002_004,0,12
+1659320,"Orofino city, Idaho",C16002_007,0,12
+1659320,"Orofino city, Idaho",C16002_010,0,12
+1659320,"Orofino city, Idaho",C16002_013,0,12
+1659590,"Osburn city, Idaho",B01003_001,1465,250
+1659590,"Osburn city, Idaho",B03002_003,1263,229
+1659590,"Osburn city, Idaho",B03002_012,150,70
+1659590,"Osburn city, Idaho",B11016_001,646,96
+1659590,"Osburn city, Idaho",B17021_002,132,99
+1659590,"Osburn city, Idaho",B19013_001,49000,10108
+1659590,"Osburn city, Idaho",C16002_004,0,12
+1659590,"Osburn city, Idaho",C16002_007,6,10
+1659590,"Osburn city, Idaho",C16002_010,0,12
+1659590,"Osburn city, Idaho",C16002_013,0,12
+1660040,"Oxford city, Idaho",B01003_001,56,48
+1660040,"Oxford city, Idaho",B03002_003,49,36
+1660040,"Oxford city, Idaho",B03002_012,0,12
+1660040,"Oxford city, Idaho",B11016_001,17,10
+1660040,"Oxford city, Idaho",B17021_002,26,40
+1660040,"Oxford city, Idaho",B19013_001,NA,NA
+1660040,"Oxford city, Idaho",C16002_004,0,12
+1660040,"Oxford city, Idaho",C16002_007,0,12
+1660040,"Oxford city, Idaho",C16002_010,0,12
+1660040,"Oxford city, Idaho",C16002_013,0,12
+1660580,"Paris city, Idaho",B01003_001,544,145
+1660580,"Paris city, Idaho",B03002_003,499,133
+1660580,"Paris city, Idaho",B03002_012,32,27
+1660580,"Paris city, Idaho",B11016_001,224,45
+1660580,"Paris city, Idaho",B17021_002,56,47
+1660580,"Paris city, Idaho",B19013_001,51833,14657
+1660580,"Paris city, Idaho",C16002_004,0,12
+1660580,"Paris city, Idaho",C16002_007,0,12
+1660580,"Paris city, Idaho",C16002_010,0,12
+1660580,"Paris city, Idaho",C16002_013,0,12
+1660760,"Parker city, Idaho",B01003_001,314,77
+1660760,"Parker city, Idaho",B03002_003,307,77
+1660760,"Parker city, Idaho",B03002_012,7,9
+1660760,"Parker city, Idaho",B11016_001,121,34
+1660760,"Parker city, Idaho",B17021_002,22,20
+1660760,"Parker city, Idaho",B19013_001,48641,2939
+1660760,"Parker city, Idaho",C16002_004,0,12
+1660760,"Parker city, Idaho",C16002_007,0,12
+1660760,"Parker city, Idaho",C16002_010,0,12
+1660760,"Parker city, Idaho",C16002_013,0,12
+1660880,"Parkline CDP, Idaho",B01003_001,47,22
+1660880,"Parkline CDP, Idaho",B03002_003,41,16
+1660880,"Parkline CDP, Idaho",B03002_012,0,12
+1660880,"Parkline CDP, Idaho",B11016_001,26,10
+1660880,"Parkline CDP, Idaho",B17021_002,15,16
+1660880,"Parkline CDP, Idaho",B19013_001,35833,9766
+1660880,"Parkline CDP, Idaho",C16002_004,0,12
+1660880,"Parkline CDP, Idaho",C16002_007,0,12
+1660880,"Parkline CDP, Idaho",C16002_010,0,12
+1660880,"Parkline CDP, Idaho",C16002_013,0,12
+1660940,"Parma city, Idaho",B01003_001,2174,367
+1660940,"Parma city, Idaho",B03002_003,1354,231
+1660940,"Parma city, Idaho",B03002_012,782,295
+1660940,"Parma city, Idaho",B11016_001,845,119
+1660940,"Parma city, Idaho",B17021_002,451,148
+1660940,"Parma city, Idaho",B19013_001,33508,4736
+1660940,"Parma city, Idaho",C16002_004,85,53
+1660940,"Parma city, Idaho",C16002_007,0,12
+1660940,"Parma city, Idaho",C16002_010,0,12
+1660940,"Parma city, Idaho",C16002_013,0,12
+1661210,"Paul city, Idaho",B01003_001,1265,258
+1661210,"Paul city, Idaho",B03002_003,789,191
+1661210,"Paul city, Idaho",B03002_012,414,161
+1661210,"Paul city, Idaho",B11016_001,460,97
+1661210,"Paul city, Idaho",B17021_002,144,89
+1661210,"Paul city, Idaho",B19013_001,45789,12342
+1661210,"Paul city, Idaho",C16002_004,25,22
+1661210,"Paul city, Idaho",C16002_007,0,12
+1661210,"Paul city, Idaho",C16002_010,0,12
+1661210,"Paul city, Idaho",C16002_013,0,12
+1661300,"Payette city, Idaho",B01003_001,7366,21
+1661300,"Payette city, Idaho",B03002_003,5608,357
+1661300,"Payette city, Idaho",B03002_012,1615,379
+1661300,"Payette city, Idaho",B11016_001,2927,161
+1661300,"Payette city, Idaho",B17021_002,1223,331
+1661300,"Payette city, Idaho",B19013_001,50300,5951
+1661300,"Payette city, Idaho",C16002_004,50,57
+1661300,"Payette city, Idaho",C16002_007,0,17
+1661300,"Payette city, Idaho",C16002_010,0,17
+1661300,"Payette city, Idaho",C16002_013,0,17
+1661840,"Peck city, Idaho",B01003_001,140,29
+1661840,"Peck city, Idaho",B03002_003,130,24
+1661840,"Peck city, Idaho",B03002_012,0,12
+1661840,"Peck city, Idaho",B11016_001,62,13
+1661840,"Peck city, Idaho",B17021_002,35,20
+1661840,"Peck city, Idaho",B19013_001,NA,NA
+1661840,"Peck city, Idaho",C16002_004,0,12
+1661840,"Peck city, Idaho",C16002_007,0,12
+1661840,"Peck city, Idaho",C16002_010,0,12
+1661840,"Peck city, Idaho",C16002_013,0,12
+1662740,"Pierce city, Idaho",B01003_001,524,120
+1662740,"Pierce city, Idaho",B03002_003,490,114
+1662740,"Pierce city, Idaho",B03002_012,17,19
+1662740,"Pierce city, Idaho",B11016_001,242,56
+1662740,"Pierce city, Idaho",B17021_002,85,61
+1662740,"Pierce city, Idaho",B19013_001,34891,13065
+1662740,"Pierce city, Idaho",C16002_004,0,12
+1662740,"Pierce city, Idaho",C16002_007,0,12
+1662740,"Pierce city, Idaho",C16002_010,0,12
+1662740,"Pierce city, Idaho",C16002_013,0,12
+1663100,"Pinehurst city, Idaho",B01003_001,1550,226
+1663100,"Pinehurst city, Idaho",B03002_003,1435,207
+1663100,"Pinehurst city, Idaho",B03002_012,76,61
+1663100,"Pinehurst city, Idaho",B11016_001,739,80
+1663100,"Pinehurst city, Idaho",B17021_002,269,104
+1663100,"Pinehurst city, Idaho",B19013_001,33315,7494
+1663100,"Pinehurst city, Idaho",C16002_004,0,12
+1663100,"Pinehurst city, Idaho",C16002_007,0,12
+1663100,"Pinehurst city, Idaho",C16002_010,0,12
+1663100,"Pinehurst city, Idaho",C16002_013,0,12
+1663550,"Placerville city, Idaho",B01003_001,23,23
+1663550,"Placerville city, Idaho",B03002_003,23,23
+1663550,"Placerville city, Idaho",B03002_012,0,12
+1663550,"Placerville city, Idaho",B11016_001,14,14
+1663550,"Placerville city, Idaho",B17021_002,2,3
+1663550,"Placerville city, Idaho",B19013_001,80000,64063
+1663550,"Placerville city, Idaho",C16002_004,0,12
+1663550,"Placerville city, Idaho",C16002_007,0,12
+1663550,"Placerville city, Idaho",C16002_010,0,12
+1663550,"Placerville city, Idaho",C16002_013,0,12
+1663910,"Plummer city, Idaho",B01003_001,1084,114
+1663910,"Plummer city, Idaho",B03002_003,471,83
+1663910,"Plummer city, Idaho",B03002_012,160,44
+1663910,"Plummer city, Idaho",B11016_001,351,37
+1663910,"Plummer city, Idaho",B17021_002,341,80
+1663910,"Plummer city, Idaho",B19013_001,36750,6827
+1663910,"Plummer city, Idaho",C16002_004,0,12
+1663910,"Plummer city, Idaho",C16002_007,0,12
+1663910,"Plummer city, Idaho",C16002_010,0,12
+1663910,"Plummer city, Idaho",C16002_013,2,4
+1664090,"Pocatello city, Idaho",B01003_001,54658,48
+1664090,"Pocatello city, Idaho",B03002_003,46419,520
+1664090,"Pocatello city, Idaho",B03002_012,4811,348
+1664090,"Pocatello city, Idaho",B11016_001,20549,375
+1664090,"Pocatello city, Idaho",B17021_002,10681,936
+1664090,"Pocatello city, Idaho",B19013_001,42979,2139
+1664090,"Pocatello city, Idaho",C16002_004,57,50
+1664090,"Pocatello city, Idaho",C16002_007,19,27
+1664090,"Pocatello city, Idaho",C16002_010,98,56
+1664090,"Pocatello city, Idaho",C16002_013,48,46
+1664450,"Ponderay city, Idaho",B01003_001,1032,277
+1664450,"Ponderay city, Idaho",B03002_003,952,259
+1664450,"Ponderay city, Idaho",B03002_012,55,65
+1664450,"Ponderay city, Idaho",B11016_001,458,109
+1664450,"Ponderay city, Idaho",B17021_002,201,106
+1664450,"Ponderay city, Idaho",B19013_001,33250,10469
+1664450,"Ponderay city, Idaho",C16002_004,0,12
+1664450,"Ponderay city, Idaho",C16002_007,3,5
+1664450,"Ponderay city, Idaho",C16002_010,0,12
+1664450,"Ponderay city, Idaho",C16002_013,0,12
+1664810,"Post Falls city, Idaho",B01003_001,30886,39
+1664810,"Post Falls city, Idaho",B03002_003,28275,530
+1664810,"Post Falls city, Idaho",B03002_012,1449,509
+1664810,"Post Falls city, Idaho",B11016_001,11875,455
+1664810,"Post Falls city, Idaho",B17021_002,4322,1090
+1664810,"Post Falls city, Idaho",B19013_001,50683,2384
+1664810,"Post Falls city, Idaho",C16002_004,0,25
+1664810,"Post Falls city, Idaho",C16002_007,31,42
+1664810,"Post Falls city, Idaho",C16002_010,62,72
+1664810,"Post Falls city, Idaho",C16002_013,0,25
+1664900,"Potlatch city, Idaho",B01003_001,772,164
+1664900,"Potlatch city, Idaho",B03002_003,746,162
+1664900,"Potlatch city, Idaho",B03002_012,7,13
+1664900,"Potlatch city, Idaho",B11016_001,346,64
+1664900,"Potlatch city, Idaho",B17021_002,183,128
+1664900,"Potlatch city, Idaho",B19013_001,34167,14390
+1664900,"Potlatch city, Idaho",C16002_004,0,12
+1664900,"Potlatch city, Idaho",C16002_007,0,12
+1664900,"Potlatch city, Idaho",C16002_010,0,12
+1664900,"Potlatch city, Idaho",C16002_013,0,12
+1665260,"Preston city, Idaho",B01003_001,5268,25
+1665260,"Preston city, Idaho",B03002_003,4606,174
+1665260,"Preston city, Idaho",B03002_012,436,169
+1665260,"Preston city, Idaho",B11016_001,1929,159
+1665260,"Preston city, Idaho",B17021_002,690,311
+1665260,"Preston city, Idaho",B19013_001,42321,4699
+1665260,"Preston city, Idaho",C16002_004,0,17
+1665260,"Preston city, Idaho",C16002_007,0,17
+1665260,"Preston city, Idaho",C16002_010,0,17
+1665260,"Preston city, Idaho",C16002_013,0,17
+1665530,"Priest River city, Idaho",B01003_001,1658,289
+1665530,"Priest River city, Idaho",B03002_003,1597,285
+1665530,"Priest River city, Idaho",B03002_012,9,15
+1665530,"Priest River city, Idaho",B11016_001,717,99
+1665530,"Priest River city, Idaho",B17021_002,253,117
+1665530,"Priest River city, Idaho",B19013_001,34485,6574
+1665530,"Priest River city, Idaho",C16002_004,9,15
+1665530,"Priest River city, Idaho",C16002_007,0,12
+1665530,"Priest River city, Idaho",C16002_010,0,12
+1665530,"Priest River city, Idaho",C16002_013,0,12
+1665620,"Princeton CDP, Idaho",B01003_001,86,85
+1665620,"Princeton CDP, Idaho",B03002_003,86,85
+1665620,"Princeton CDP, Idaho",B03002_012,0,12
+1665620,"Princeton CDP, Idaho",B11016_001,34,19
+1665620,"Princeton CDP, Idaho",B17021_002,0,12
+1665620,"Princeton CDP, Idaho",B19013_001,34750,20101
+1665620,"Princeton CDP, Idaho",C16002_004,0,12
+1665620,"Princeton CDP, Idaho",C16002_007,0,12
+1665620,"Princeton CDP, Idaho",C16002_010,0,12
+1665620,"Princeton CDP, Idaho",C16002_013,0,12
+1666340,"Rathdrum city, Idaho",B01003_001,7592,32
+1666340,"Rathdrum city, Idaho",B03002_003,6866,309
+1666340,"Rathdrum city, Idaho",B03002_012,358,186
+1666340,"Rathdrum city, Idaho",B11016_001,2720,174
+1666340,"Rathdrum city, Idaho",B17021_002,1036,434
+1666340,"Rathdrum city, Idaho",B19013_001,53024,7765
+1666340,"Rathdrum city, Idaho",C16002_004,0,17
+1666340,"Rathdrum city, Idaho",C16002_007,0,17
+1666340,"Rathdrum city, Idaho",C16002_010,0,17
+1666340,"Rathdrum city, Idaho",C16002_013,0,17
+1667150,"Reubens city, Idaho",B01003_001,57,18
+1667150,"Reubens city, Idaho",B03002_003,43,16
+1667150,"Reubens city, Idaho",B03002_012,8,11
+1667150,"Reubens city, Idaho",B11016_001,23,9
+1667150,"Reubens city, Idaho",B17021_002,0,12
+1667150,"Reubens city, Idaho",B19013_001,62813,34214
+1667150,"Reubens city, Idaho",C16002_004,0,12
+1667150,"Reubens city, Idaho",C16002_007,0,12
+1667150,"Reubens city, Idaho",C16002_010,0,12
+1667150,"Reubens city, Idaho",C16002_013,0,12
+1667420,"Rexburg city, Idaho",B01003_001,27369,24
+1667420,"Rexburg city, Idaho",B03002_003,23922,348
+1667420,"Rexburg city, Idaho",B03002_012,2076,290
+1667420,"Rexburg city, Idaho",B11016_001,7942,345
+1667420,"Rexburg city, Idaho",B17021_002,11138,937
+1667420,"Rexburg city, Idaho",B19013_001,26341,2257
+1667420,"Rexburg city, Idaho",C16002_004,9,14
+1667420,"Rexburg city, Idaho",C16002_007,20,32
+1667420,"Rexburg city, Idaho",C16002_010,39,47
+1667420,"Rexburg city, Idaho",C16002_013,0,22
+1667600,"Richfield city, Idaho",B01003_001,410,93
+1667600,"Richfield city, Idaho",B03002_003,377,91
+1667600,"Richfield city, Idaho",B03002_012,28,19
+1667600,"Richfield city, Idaho",B11016_001,150,38
+1667600,"Richfield city, Idaho",B17021_002,59,30
+1667600,"Richfield city, Idaho",B19013_001,49423,4925
+1667600,"Richfield city, Idaho",C16002_004,2,4
+1667600,"Richfield city, Idaho",C16002_007,0,12
+1667600,"Richfield city, Idaho",C16002_010,0,12
+1667600,"Richfield city, Idaho",C16002_013,0,12
+1667780,"Rigby city, Idaho",B01003_001,4018,14
+1667780,"Rigby city, Idaho",B03002_003,3565,181
+1667780,"Rigby city, Idaho",B03002_012,176,111
+1667780,"Rigby city, Idaho",B11016_001,1364,161
+1667780,"Rigby city, Idaho",B17021_002,735,414
+1667780,"Rigby city, Idaho",B19013_001,43279,9016
+1667780,"Rigby city, Idaho",C16002_004,59,49
+1667780,"Rigby city, Idaho",C16002_007,0,12
+1667780,"Rigby city, Idaho",C16002_010,0,12
+1667780,"Rigby city, Idaho",C16002_013,0,12
+1667870,"Riggins city, Idaho",B01003_001,264,87
+1667870,"Riggins city, Idaho",B03002_003,253,87
+1667870,"Riggins city, Idaho",B03002_012,0,12
+1667870,"Riggins city, Idaho",B11016_001,150,45
+1667870,"Riggins city, Idaho",B17021_002,34,28
+1667870,"Riggins city, Idaho",B19013_001,40357,8674
+1667870,"Riggins city, Idaho",C16002_004,0,12
+1667870,"Riggins city, Idaho",C16002_007,0,12
+1667870,"Riggins city, Idaho",C16002_010,0,12
+1667870,"Riggins city, Idaho",C16002_013,0,12
+1667960,"Ririe city, Idaho",B01003_001,570,168
+1667960,"Ririe city, Idaho",B03002_003,470,150
+1667960,"Ririe city, Idaho",B03002_012,78,81
+1667960,"Ririe city, Idaho",B11016_001,167,51
+1667960,"Ririe city, Idaho",B17021_002,61,52
+1667960,"Ririe city, Idaho",B19013_001,43594,6704
+1667960,"Ririe city, Idaho",C16002_004,7,9
+1667960,"Ririe city, Idaho",C16002_007,0,12
+1667960,"Ririe city, Idaho",C16002_010,0,12
+1667960,"Ririe city, Idaho",C16002_013,0,12
+1668230,"Riverside CDP, Idaho",B01003_001,1187,370
+1668230,"Riverside CDP, Idaho",B03002_003,795,243
+1668230,"Riverside CDP, Idaho",B03002_012,118,114
+1668230,"Riverside CDP, Idaho",B11016_001,307,91
+1668230,"Riverside CDP, Idaho",B17021_002,366,319
+1668230,"Riverside CDP, Idaho",B19013_001,57102,17344
+1668230,"Riverside CDP, Idaho",C16002_004,27,33
+1668230,"Riverside CDP, Idaho",C16002_007,0,12
+1668230,"Riverside CDP, Idaho",C16002_010,0,12
+1668230,"Riverside CDP, Idaho",C16002_013,0,12
+1668500,"Roberts city, Idaho",B01003_001,559,162
+1668500,"Roberts city, Idaho",B03002_003,205,80
+1668500,"Roberts city, Idaho",B03002_012,331,140
+1668500,"Roberts city, Idaho",B11016_001,174,57
+1668500,"Roberts city, Idaho",B17021_002,208,91
+1668500,"Roberts city, Idaho",B19013_001,27692,5225
+1668500,"Roberts city, Idaho",C16002_004,18,17
+1668500,"Roberts city, Idaho",C16002_007,0,12
+1668500,"Roberts city, Idaho",C16002_010,0,12
+1668500,"Roberts city, Idaho",C16002_013,0,12
+1668545,"Robie Creek CDP, Idaho",B01003_001,1661,304
+1668545,"Robie Creek CDP, Idaho",B03002_003,1591,301
+1668545,"Robie Creek CDP, Idaho",B03002_012,47,41
+1668545,"Robie Creek CDP, Idaho",B11016_001,699,150
+1668545,"Robie Creek CDP, Idaho",B17021_002,84,69
+1668545,"Robie Creek CDP, Idaho",B19013_001,99792,19837
+1668545,"Robie Creek CDP, Idaho",C16002_004,0,12
+1668545,"Robie Creek CDP, Idaho",C16002_007,0,12
+1668545,"Robie Creek CDP, Idaho",C16002_010,0,12
+1668545,"Robie Creek CDP, Idaho",C16002_013,0,12
+1668860,"Rockford CDP, Idaho",B01003_001,276,116
+1668860,"Rockford CDP, Idaho",B03002_003,215,101
+1668860,"Rockford CDP, Idaho",B03002_012,61,93
+1668860,"Rockford CDP, Idaho",B11016_001,74,34
+1668860,"Rockford CDP, Idaho",B17021_002,0,12
+1668860,"Rockford CDP, Idaho",B19013_001,47125,23289
+1668860,"Rockford CDP, Idaho",C16002_004,0,12
+1668860,"Rockford CDP, Idaho",C16002_007,0,12
+1668860,"Rockford CDP, Idaho",C16002_010,0,12
+1668860,"Rockford CDP, Idaho",C16002_013,0,12
+1668950,"Rockford Bay CDP, Idaho",B01003_001,331,82
+1668950,"Rockford Bay CDP, Idaho",B03002_003,320,79
+1668950,"Rockford Bay CDP, Idaho",B03002_012,4,5
+1668950,"Rockford Bay CDP, Idaho",B11016_001,156,38
+1668950,"Rockford Bay CDP, Idaho",B17021_002,10,10
+1668950,"Rockford Bay CDP, Idaho",B19013_001,92059,6552
+1668950,"Rockford Bay CDP, Idaho",C16002_004,0,12
+1668950,"Rockford Bay CDP, Idaho",C16002_007,0,12
+1668950,"Rockford Bay CDP, Idaho",C16002_010,0,12
+1668950,"Rockford Bay CDP, Idaho",C16002_013,0,12
+1669130,"Rockland city, Idaho",B01003_001,303,166
+1669130,"Rockland city, Idaho",B03002_003,300,164
+1669130,"Rockland city, Idaho",B03002_012,3,6
+1669130,"Rockland city, Idaho",B11016_001,102,49
+1669130,"Rockland city, Idaho",B17021_002,3,6
+1669130,"Rockland city, Idaho",B19013_001,48750,9448
+1669130,"Rockland city, Idaho",C16002_004,0,12
+1669130,"Rockland city, Idaho",C16002_007,0,12
+1669130,"Rockland city, Idaho",C16002_010,0,12
+1669130,"Rockland city, Idaho",C16002_013,0,12
+1670660,"Rupert city, Idaho",B01003_001,5738,19
+1670660,"Rupert city, Idaho",B03002_003,3153,322
+1670660,"Rupert city, Idaho",B03002_012,2496,325
+1670660,"Rupert city, Idaho",B11016_001,2101,146
+1670660,"Rupert city, Idaho",B17021_002,1578,388
+1670660,"Rupert city, Idaho",B19013_001,35510,2940
+1670660,"Rupert city, Idaho",C16002_004,214,106
+1670660,"Rupert city, Idaho",C16002_007,0,17
+1670660,"Rupert city, Idaho",C16002_010,0,17
+1670660,"Rupert city, Idaho",C16002_013,0,17
+1671020,"St. Anthony city, Idaho",B01003_001,3488,25
+1671020,"St. Anthony city, Idaho",B03002_003,2636,185
+1671020,"St. Anthony city, Idaho",B03002_012,698,183
+1671020,"St. Anthony city, Idaho",B11016_001,1067,110
+1671020,"St. Anthony city, Idaho",B17021_002,412,139
+1671020,"St. Anthony city, Idaho",B19013_001,43375,13465
+1671020,"St. Anthony city, Idaho",C16002_004,25,26
+1671020,"St. Anthony city, Idaho",C16002_007,0,12
+1671020,"St. Anthony city, Idaho",C16002_010,0,12
+1671020,"St. Anthony city, Idaho",C16002_013,0,12
+1671110,"St. Charles city, Idaho",B01003_001,106,59
+1671110,"St. Charles city, Idaho",B03002_003,103,58
+1671110,"St. Charles city, Idaho",B03002_012,0,12
+1671110,"St. Charles city, Idaho",B11016_001,39,16
+1671110,"St. Charles city, Idaho",B17021_002,6,8
+1671110,"St. Charles city, Idaho",B19013_001,46250,16097
+1671110,"St. Charles city, Idaho",C16002_004,0,12
+1671110,"St. Charles city, Idaho",C16002_007,0,12
+1671110,"St. Charles city, Idaho",C16002_010,0,12
+1671110,"St. Charles city, Idaho",C16002_013,0,12
+1671470,"St. Maries city, Idaho",B01003_001,2618,327
+1671470,"St. Maries city, Idaho",B03002_003,2452,324
+1671470,"St. Maries city, Idaho",B03002_012,94,50
+1671470,"St. Maries city, Idaho",B11016_001,1109,136
+1671470,"St. Maries city, Idaho",B17021_002,320,80
+1671470,"St. Maries city, Idaho",B19013_001,42689,7603
+1671470,"St. Maries city, Idaho",C16002_004,0,12
+1671470,"St. Maries city, Idaho",C16002_007,0,12
+1671470,"St. Maries city, Idaho",C16002_010,0,12
+1671470,"St. Maries city, Idaho",C16002_013,0,12
+1671650,"Salmon city, Idaho",B01003_001,3067,26
+1671650,"Salmon city, Idaho",B03002_003,2844,99
+1671650,"Salmon city, Idaho",B03002_012,93,55
+1671650,"Salmon city, Idaho",B11016_001,1466,136
+1671650,"Salmon city, Idaho",B17021_002,670,220
+1671650,"Salmon city, Idaho",B19013_001,28571,6644
+1671650,"Salmon city, Idaho",C16002_004,0,12
+1671650,"Salmon city, Idaho",C16002_007,0,12
+1671650,"Salmon city, Idaho",C16002_010,28,32
+1671650,"Salmon city, Idaho",C16002_013,0,12
+1672100,"Sandpoint city, Idaho",B01003_001,7918,23
+1672100,"Sandpoint city, Idaho",B03002_003,7268,212
+1672100,"Sandpoint city, Idaho",B03002_012,458,180
+1672100,"Sandpoint city, Idaho",B11016_001,3460,285
+1672100,"Sandpoint city, Idaho",B17021_002,1600,386
+1672100,"Sandpoint city, Idaho",B19013_001,36706,6548
+1672100,"Sandpoint city, Idaho",C16002_004,0,17
+1672100,"Sandpoint city, Idaho",C16002_007,9,13
+1672100,"Sandpoint city, Idaho",C16002_010,0,17
+1672100,"Sandpoint city, Idaho",C16002_013,0,17
+1673450,"Shelley city, Idaho",B01003_001,4346,24
+1673450,"Shelley city, Idaho",B03002_003,3793,255
+1673450,"Shelley city, Idaho",B03002_012,475,253
+1673450,"Shelley city, Idaho",B11016_001,1240,113
+1673450,"Shelley city, Idaho",B17021_002,553,310
+1673450,"Shelley city, Idaho",B19013_001,56563,6870
+1673450,"Shelley city, Idaho",C16002_004,14,24
+1673450,"Shelley city, Idaho",C16002_007,0,12
+1673450,"Shelley city, Idaho",C16002_010,0,12
+1673450,"Shelley city, Idaho",C16002_013,0,12
+1673900,"Shoshone city, Idaho",B01003_001,1390,201
+1673900,"Shoshone city, Idaho",B03002_003,1047,171
+1673900,"Shoshone city, Idaho",B03002_012,251,120
+1673900,"Shoshone city, Idaho",B11016_001,490,63
+1673900,"Shoshone city, Idaho",B17021_002,159,68
+1673900,"Shoshone city, Idaho",B19013_001,40500,6712
+1673900,"Shoshone city, Idaho",C16002_004,24,22
+1673900,"Shoshone city, Idaho",C16002_007,0,12
+1673900,"Shoshone city, Idaho",C16002_010,0,12
+1673900,"Shoshone city, Idaho",C16002_013,0,12
+1675070,"Smelterville city, Idaho",B01003_001,760,203
+1675070,"Smelterville city, Idaho",B03002_003,655,170
+1675070,"Smelterville city, Idaho",B03002_012,48,50
+1675070,"Smelterville city, Idaho",B11016_001,323,66
+1675070,"Smelterville city, Idaho",B17021_002,123,70
+1675070,"Smelterville city, Idaho",B19013_001,33259,5334
+1675070,"Smelterville city, Idaho",C16002_004,0,12
+1675070,"Smelterville city, Idaho",C16002_007,0,12
+1675070,"Smelterville city, Idaho",C16002_010,0,12
+1675070,"Smelterville city, Idaho",C16002_013,0,12
+1675160,"Smiths Ferry CDP, Idaho",B01003_001,145,122
+1675160,"Smiths Ferry CDP, Idaho",B03002_003,145,122
+1675160,"Smiths Ferry CDP, Idaho",B03002_012,0,12
+1675160,"Smiths Ferry CDP, Idaho",B11016_001,35,21
+1675160,"Smiths Ferry CDP, Idaho",B17021_002,31,58
+1675160,"Smiths Ferry CDP, Idaho",B19013_001,NA,NA
+1675160,"Smiths Ferry CDP, Idaho",C16002_004,0,12
+1675160,"Smiths Ferry CDP, Idaho",C16002_007,0,12
+1675160,"Smiths Ferry CDP, Idaho",C16002_010,0,12
+1675160,"Smiths Ferry CDP, Idaho",C16002_013,0,12
+1675195,"Soda Springs city, Idaho",B01003_001,2977,18
+1675195,"Soda Springs city, Idaho",B03002_003,2816,100
+1675195,"Soda Springs city, Idaho",B03002_012,106,60
+1675195,"Soda Springs city, Idaho",B11016_001,1068,85
+1675195,"Soda Springs city, Idaho",B17021_002,321,137
+1675195,"Soda Springs city, Idaho",B19013_001,57250,8737
+1675195,"Soda Springs city, Idaho",C16002_004,0,12
+1675195,"Soda Springs city, Idaho",C16002_007,0,12
+1675195,"Soda Springs city, Idaho",C16002_010,0,12
+1675195,"Soda Springs city, Idaho",C16002_013,0,12
+1675970,"Spencer city, Idaho",B01003_001,32,25
+1675970,"Spencer city, Idaho",B03002_003,32,25
+1675970,"Spencer city, Idaho",B03002_012,0,12
+1675970,"Spencer city, Idaho",B11016_001,18,13
+1675970,"Spencer city, Idaho",B17021_002,0,12
+1675970,"Spencer city, Idaho",B19013_001,19000,991
+1675970,"Spencer city, Idaho",C16002_004,0,12
+1675970,"Spencer city, Idaho",C16002_007,0,12
+1675970,"Spencer city, Idaho",C16002_010,0,12
+1675970,"Spencer city, Idaho",C16002_013,0,12
+1676060,"Spirit Lake city, Idaho",B01003_001,2314,461
+1676060,"Spirit Lake city, Idaho",B03002_003,2176,448
+1676060,"Spirit Lake city, Idaho",B03002_012,94,70
+1676060,"Spirit Lake city, Idaho",B11016_001,823,133
+1676060,"Spirit Lake city, Idaho",B17021_002,400,150
+1676060,"Spirit Lake city, Idaho",B19013_001,42567,3614
+1676060,"Spirit Lake city, Idaho",C16002_004,0,12
+1676060,"Spirit Lake city, Idaho",C16002_007,0,12
+1676060,"Spirit Lake city, Idaho",C16002_010,0,12
+1676060,"Spirit Lake city, Idaho",C16002_013,0,12
+1676780,"Stanley city, Idaho",B01003_001,105,81
+1676780,"Stanley city, Idaho",B03002_003,86,69
+1676780,"Stanley city, Idaho",B03002_012,7,13
+1676780,"Stanley city, Idaho",B11016_001,42,25
+1676780,"Stanley city, Idaho",B17021_002,40,42
+1676780,"Stanley city, Idaho",B19013_001,29000,19763
+1676780,"Stanley city, Idaho",C16002_004,0,12
+1676780,"Stanley city, Idaho",C16002_007,0,12
+1676780,"Stanley city, Idaho",C16002_010,0,12
+1676780,"Stanley city, Idaho",C16002_013,0,12
+1676870,"Star city, Idaho",B01003_001,7832,21
+1676870,"Star city, Idaho",B03002_003,6818,395
+1676870,"Star city, Idaho",B03002_012,726,334
+1676870,"Star city, Idaho",B11016_001,2915,258
+1676870,"Star city, Idaho",B17021_002,707,385
+1676870,"Star city, Idaho",B19013_001,55674,8888
+1676870,"Star city, Idaho",C16002_004,18,30
+1676870,"Star city, Idaho",C16002_007,0,17
+1676870,"Star city, Idaho",C16002_010,0,17
+1676870,"Star city, Idaho",C16002_013,0,17
+1677050,"State Line city, Idaho",B01003_001,8,10
+1677050,"State Line city, Idaho",B03002_003,8,10
+1677050,"State Line city, Idaho",B03002_012,0,12
+1677050,"State Line city, Idaho",B11016_001,4,5
+1677050,"State Line city, Idaho",B17021_002,6,10
+1677050,"State Line city, Idaho",B19013_001,NA,NA
+1677050,"State Line city, Idaho",C16002_004,0,12
+1677050,"State Line city, Idaho",C16002_007,0,12
+1677050,"State Line city, Idaho",C16002_010,0,12
+1677050,"State Line city, Idaho",C16002_013,0,12
+1677500,"Stites city, Idaho",B01003_001,227,34
+1677500,"Stites city, Idaho",B03002_003,205,32
+1677500,"Stites city, Idaho",B03002_012,1,4
+1677500,"Stites city, Idaho",B11016_001,107,17
+1677500,"Stites city, Idaho",B17021_002,47,19
+1677500,"Stites city, Idaho",B19013_001,26458,6386
+1677500,"Stites city, Idaho",C16002_004,0,12
+1677500,"Stites city, Idaho",C16002_007,0,12
+1677500,"Stites city, Idaho",C16002_010,0,12
+1677500,"Stites city, Idaho",C16002_013,0,12
+1678040,"Sugar City city, Idaho",B01003_001,1521,315
+1678040,"Sugar City city, Idaho",B03002_003,1204,281
+1678040,"Sugar City city, Idaho",B03002_012,299,194
+1678040,"Sugar City city, Idaho",B11016_001,386,76
+1678040,"Sugar City city, Idaho",B17021_002,165,126
+1678040,"Sugar City city, Idaho",B19013_001,40417,9804
+1678040,"Sugar City city, Idaho",C16002_004,14,17
+1678040,"Sugar City city, Idaho",C16002_007,0,12
+1678040,"Sugar City city, Idaho",C16002_010,0,12
+1678040,"Sugar City city, Idaho",C16002_013,0,12
+1678850,"Sun Valley city, Idaho",B01003_001,1426,257
+1678850,"Sun Valley city, Idaho",B03002_003,1309,233
+1678850,"Sun Valley city, Idaho",B03002_012,56,44
+1678850,"Sun Valley city, Idaho",B11016_001,532,97
+1678850,"Sun Valley city, Idaho",B17021_002,211,114
+1678850,"Sun Valley city, Idaho",B19013_001,59783,17894
+1678850,"Sun Valley city, Idaho",C16002_004,0,12
+1678850,"Sun Valley city, Idaho",C16002_007,0,12
+1678850,"Sun Valley city, Idaho",C16002_010,0,12
+1678850,"Sun Valley city, Idaho",C16002_013,0,12
+1679120,"Swan Valley city, Idaho",B01003_001,114,46
+1679120,"Swan Valley city, Idaho",B03002_003,112,46
+1679120,"Swan Valley city, Idaho",B03002_012,2,3
+1679120,"Swan Valley city, Idaho",B11016_001,51,19
+1679120,"Swan Valley city, Idaho",B17021_002,0,12
+1679120,"Swan Valley city, Idaho",B19013_001,59375,10719
+1679120,"Swan Valley city, Idaho",C16002_004,0,12
+1679120,"Swan Valley city, Idaho",C16002_007,0,12
+1679120,"Swan Valley city, Idaho",C16002_010,0,12
+1679120,"Swan Valley city, Idaho",C16002_013,0,12
+1679300,"Sweetwater CDP, Idaho",B01003_001,271,66
+1679300,"Sweetwater CDP, Idaho",B03002_003,108,46
+1679300,"Sweetwater CDP, Idaho",B03002_012,0,12
+1679300,"Sweetwater CDP, Idaho",B11016_001,68,17
+1679300,"Sweetwater CDP, Idaho",B17021_002,53,58
+1679300,"Sweetwater CDP, Idaho",B19013_001,40938,12794
+1679300,"Sweetwater CDP, Idaho",C16002_004,0,12
+1679300,"Sweetwater CDP, Idaho",C16002_007,0,12
+1679300,"Sweetwater CDP, Idaho",C16002_010,0,12
+1679300,"Sweetwater CDP, Idaho",C16002_013,0,12
+1680200,"Tensed city, Idaho",B01003_001,114,42
+1680200,"Tensed city, Idaho",B03002_003,72,39
+1680200,"Tensed city, Idaho",B03002_012,12,15
+1680200,"Tensed city, Idaho",B11016_001,40,11
+1680200,"Tensed city, Idaho",B17021_002,44,28
+1680200,"Tensed city, Idaho",B19013_001,18750,15732
+1680200,"Tensed city, Idaho",C16002_004,0,12
+1680200,"Tensed city, Idaho",C16002_007,0,12
+1680200,"Tensed city, Idaho",C16002_010,0,12
+1680200,"Tensed city, Idaho",C16002_013,0,12
+1680380,"Teton city, Idaho",B01003_001,1047,194
+1680380,"Teton city, Idaho",B03002_003,790,156
+1680380,"Teton city, Idaho",B03002_012,212,148
+1680380,"Teton city, Idaho",B11016_001,331,67
+1680380,"Teton city, Idaho",B17021_002,193,154
+1680380,"Teton city, Idaho",B19013_001,49464,17773
+1680380,"Teton city, Idaho",C16002_004,32,26
+1680380,"Teton city, Idaho",C16002_007,0,12
+1680380,"Teton city, Idaho",C16002_010,0,12
+1680380,"Teton city, Idaho",C16002_013,0,12
+1680470,"Tetonia city, Idaho",B01003_001,384,185
+1680470,"Tetonia city, Idaho",B03002_003,259,124
+1680470,"Tetonia city, Idaho",B03002_012,115,120
+1680470,"Tetonia city, Idaho",B11016_001,110,43
+1680470,"Tetonia city, Idaho",B17021_002,34,33
+1680470,"Tetonia city, Idaho",B19013_001,41875,26796
+1680470,"Tetonia city, Idaho",C16002_004,0,12
+1680470,"Tetonia city, Idaho",C16002_007,0,12
+1680470,"Tetonia city, Idaho",C16002_010,0,12
+1680470,"Tetonia city, Idaho",C16002_013,0,12
+1682360,"Troy city, Idaho",B01003_001,889,157
+1682360,"Troy city, Idaho",B03002_003,811,151
+1682360,"Troy city, Idaho",B03002_012,6,7
+1682360,"Troy city, Idaho",B11016_001,332,55
+1682360,"Troy city, Idaho",B17021_002,21,13
+1682360,"Troy city, Idaho",B19013_001,55833,7104
+1682360,"Troy city, Idaho",C16002_004,0,12
+1682360,"Troy city, Idaho",C16002_007,0,12
+1682360,"Troy city, Idaho",C16002_010,0,12
+1682360,"Troy city, Idaho",C16002_013,0,12
+1682810,"Twin Falls city, Idaho",B01003_001,47340,45
+1682810,"Twin Falls city, Idaho",B03002_003,36910,642
+1682810,"Twin Falls city, Idaho",B03002_012,7600,647
+1682810,"Twin Falls city, Idaho",B11016_001,17692,426
+1682810,"Twin Falls city, Idaho",B17021_002,7276,1234
+1682810,"Twin Falls city, Idaho",B19013_001,46283,2356
+1682810,"Twin Falls city, Idaho",C16002_004,270,150
+1682810,"Twin Falls city, Idaho",C16002_007,111,89
+1682810,"Twin Falls city, Idaho",C16002_010,68,51
+1682810,"Twin Falls city, Idaho",C16002_013,85,76
+1683170,"Tyhee CDP, Idaho",B01003_001,1156,107
+1683170,"Tyhee CDP, Idaho",B03002_003,1121,104
+1683170,"Tyhee CDP, Idaho",B03002_012,20,19
+1683170,"Tyhee CDP, Idaho",B11016_001,386,40
+1683170,"Tyhee CDP, Idaho",B17021_002,44,37
+1683170,"Tyhee CDP, Idaho",B19013_001,82083,17174
+1683170,"Tyhee CDP, Idaho",C16002_004,0,12
+1683170,"Tyhee CDP, Idaho",C16002_007,0,12
+1683170,"Tyhee CDP, Idaho",C16002_010,0,12
+1683170,"Tyhee CDP, Idaho",C16002_013,0,12
+1683350,"Ucon city, Idaho",B01003_001,1252,296
+1683350,"Ucon city, Idaho",B03002_003,1076,227
+1683350,"Ucon city, Idaho",B03002_012,176,128
+1683350,"Ucon city, Idaho",B11016_001,363,64
+1683350,"Ucon city, Idaho",B17021_002,135,70
+1683350,"Ucon city, Idaho",B19013_001,54145,5445
+1683350,"Ucon city, Idaho",C16002_004,3,5
+1683350,"Ucon city, Idaho",C16002_007,0,12
+1683350,"Ucon city, Idaho",C16002_010,0,12
+1683350,"Ucon city, Idaho",C16002_013,0,12
+1684250,"Victor city, Idaho",B01003_001,2355,459
+1684250,"Victor city, Idaho",B03002_003,1697,384
+1684250,"Victor city, Idaho",B03002_012,630,247
+1684250,"Victor city, Idaho",B11016_001,893,200
+1684250,"Victor city, Idaho",B17021_002,352,153
+1684250,"Victor city, Idaho",B19013_001,57279,18643
+1684250,"Victor city, Idaho",C16002_004,91,60
+1684250,"Victor city, Idaho",C16002_007,0,12
+1684250,"Victor city, Idaho",C16002_010,0,12
+1684250,"Victor city, Idaho",C16002_013,0,12
+1684790,"Wallace city, Idaho",B01003_001,848,126
+1684790,"Wallace city, Idaho",B03002_003,789,119
+1684790,"Wallace city, Idaho",B03002_012,23,15
+1684790,"Wallace city, Idaho",B11016_001,435,57
+1684790,"Wallace city, Idaho",B17021_002,221,74
+1684790,"Wallace city, Idaho",B19013_001,31908,4154
+1684790,"Wallace city, Idaho",C16002_004,8,14
+1684790,"Wallace city, Idaho",C16002_007,0,12
+1684790,"Wallace city, Idaho",C16002_010,0,12
+1684790,"Wallace city, Idaho",C16002_013,0,12
+1685240,"Wardner city, Idaho",B01003_001,185,66
+1685240,"Wardner city, Idaho",B03002_003,172,67
+1685240,"Wardner city, Idaho",B03002_012,0,12
+1685240,"Wardner city, Idaho",B11016_001,82,24
+1685240,"Wardner city, Idaho",B17021_002,3,4
+1685240,"Wardner city, Idaho",B19013_001,51667,16029
+1685240,"Wardner city, Idaho",C16002_004,6,10
+1685240,"Wardner city, Idaho",C16002_007,0,12
+1685240,"Wardner city, Idaho",C16002_010,0,12
+1685240,"Wardner city, Idaho",C16002_013,0,12
+1685420,"Warm River city, Idaho",B01003_001,0,12
+1685420,"Warm River city, Idaho",B03002_003,0,12
+1685420,"Warm River city, Idaho",B03002_012,0,12
+1685420,"Warm River city, Idaho",B11016_001,0,12
+1685420,"Warm River city, Idaho",B17021_002,0,12
+1685420,"Warm River city, Idaho",B19013_001,NA,NA
+1685420,"Warm River city, Idaho",C16002_004,0,12
+1685420,"Warm River city, Idaho",C16002_007,0,12
+1685420,"Warm River city, Idaho",C16002_010,0,12
+1685420,"Warm River city, Idaho",C16002_013,0,12
+1686050,"Weippe city, Idaho",B01003_001,502,124
+1686050,"Weippe city, Idaho",B03002_003,471,121
+1686050,"Weippe city, Idaho",B03002_012,29,36
+1686050,"Weippe city, Idaho",B11016_001,244,56
+1686050,"Weippe city, Idaho",B17021_002,103,58
+1686050,"Weippe city, Idaho",B19013_001,32000,9317
+1686050,"Weippe city, Idaho",C16002_004,0,12
+1686050,"Weippe city, Idaho",C16002_007,0,12
+1686050,"Weippe city, Idaho",C16002_010,0,12
+1686050,"Weippe city, Idaho",C16002_013,0,12
+1686140,"Weiser city, Idaho",B01003_001,5325,34
+1686140,"Weiser city, Idaho",B03002_003,3456,76
+1686140,"Weiser city, Idaho",B03002_012,1676,28
+1686140,"Weiser city, Idaho",B11016_001,1928,144
+1686140,"Weiser city, Idaho",B17021_002,926,307
+1686140,"Weiser city, Idaho",B19013_001,30919,5034
+1686140,"Weiser city, Idaho",C16002_004,124,64
+1686140,"Weiser city, Idaho",C16002_007,0,17
+1686140,"Weiser city, Idaho",C16002_010,0,17
+1686140,"Weiser city, Idaho",C16002_013,0,17
+1686320,"Wendell city, Idaho",B01003_001,2711,23
+1686320,"Wendell city, Idaho",B03002_003,1500,268
+1686320,"Wendell city, Idaho",B03002_012,1158,279
+1686320,"Wendell city, Idaho",B11016_001,934,105
+1686320,"Wendell city, Idaho",B17021_002,495,264
+1686320,"Wendell city, Idaho",B19013_001,41768,10500
+1686320,"Wendell city, Idaho",C16002_004,135,87
+1686320,"Wendell city, Idaho",C16002_007,0,12
+1686320,"Wendell city, Idaho",C16002_010,0,12
+1686320,"Wendell city, Idaho",C16002_013,0,12
+1687040,"Weston city, Idaho",B01003_001,479,142
+1687040,"Weston city, Idaho",B03002_003,472,142
+1687040,"Weston city, Idaho",B03002_012,6,8
+1687040,"Weston city, Idaho",B11016_001,141,43
+1687040,"Weston city, Idaho",B17021_002,30,23
+1687040,"Weston city, Idaho",B19013_001,54583,11779
+1687040,"Weston city, Idaho",C16002_004,0,12
+1687040,"Weston city, Idaho",C16002_007,0,12
+1687040,"Weston city, Idaho",C16002_010,0,12
+1687040,"Weston city, Idaho",C16002_013,0,12
+1687310,"White Bird city, Idaho",B01003_001,37,26
+1687310,"White Bird city, Idaho",B03002_003,37,26
+1687310,"White Bird city, Idaho",B03002_012,0,12
+1687310,"White Bird city, Idaho",B11016_001,30,23
+1687310,"White Bird city, Idaho",B17021_002,5,8
+1687310,"White Bird city, Idaho",B19013_001,NA,NA
+1687310,"White Bird city, Idaho",C16002_004,0,12
+1687310,"White Bird city, Idaho",C16002_007,0,12
+1687310,"White Bird city, Idaho",C16002_010,0,12
+1687310,"White Bird city, Idaho",C16002_013,0,12
+1687670,"Wilder city, Idaho",B01003_001,1399,326
+1687670,"Wilder city, Idaho",B03002_003,408,142
+1687670,"Wilder city, Idaho",B03002_012,964,309
+1687670,"Wilder city, Idaho",B11016_001,430,95
+1687670,"Wilder city, Idaho",B17021_002,269,151
+1687670,"Wilder city, Idaho",B19013_001,39196,4175
+1687670,"Wilder city, Idaho",C16002_004,50,38
+1687670,"Wilder city, Idaho",C16002_007,0,12
+1687670,"Wilder city, Idaho",C16002_010,0,12
+1687670,"Wilder city, Idaho",C16002_013,0,12
+1687850,"Winchester city, Idaho",B01003_001,286,36
+1687850,"Winchester city, Idaho",B03002_003,257,33
+1687850,"Winchester city, Idaho",B03002_012,15,13
+1687850,"Winchester city, Idaho",B11016_001,131,17
+1687850,"Winchester city, Idaho",B17021_002,40,14
+1687850,"Winchester city, Idaho",B19013_001,31375,3617
+1687850,"Winchester city, Idaho",C16002_004,0,12
+1687850,"Winchester city, Idaho",C16002_007,1,3
+1687850,"Winchester city, Idaho",C16002_010,0,12
+1687850,"Winchester city, Idaho",C16002_013,0,12
+1688480,"Worley city, Idaho",B01003_001,289,67
+1688480,"Worley city, Idaho",B03002_003,158,32
+1688480,"Worley city, Idaho",B03002_012,13,15
+1688480,"Worley city, Idaho",B11016_001,114,34
+1688480,"Worley city, Idaho",B17021_002,38,18
+1688480,"Worley city, Idaho",B19013_001,36607,3395
+1688480,"Worley city, Idaho",C16002_004,0,12
+1688480,"Worley city, Idaho",C16002_007,0,12
+1688480,"Worley city, Idaho",C16002_010,0,12
+1688480,"Worley city, Idaho",C16002_013,0,12
+1688660,"Yellow Pine CDP, Idaho",B01003_001,0,12
+1688660,"Yellow Pine CDP, Idaho",B03002_003,0,12
+1688660,"Yellow Pine CDP, Idaho",B03002_012,0,12
+1688660,"Yellow Pine CDP, Idaho",B11016_001,0,12
+1688660,"Yellow Pine CDP, Idaho",B17021_002,0,12
+1688660,"Yellow Pine CDP, Idaho",B19013_001,NA,NA
+1688660,"Yellow Pine CDP, Idaho",C16002_004,0,12
+1688660,"Yellow Pine CDP, Idaho",C16002_007,0,12
+1688660,"Yellow Pine CDP, Idaho",C16002_010,0,12
+1688660,"Yellow Pine CDP, Idaho",C16002_013,0,12
