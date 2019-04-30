@@ -190,13 +190,10 @@ result <- cities_ck %>%
   mutate(city = "Los Angeles County", state= "CA")
 write_csv(result, "../output/other_places/LosAngelesCo.csv")
 
-test <- get_acs(geography = "place", 
-                
-                  year = 2017, # 2013-2017
-                  variables = c("B19013_001",
-                                "B03002_003"),
-                  state = "HI",
-                  geometry = F, summary_var = "B01003_001") 
+other_places <- paste0("../output/other_places/", 
+                       list.files("../output/other_places/")) %>%
+  lapply(read.csv, stringsAsFactors = F) %>%
+  bind_rows()  
 
 ```
 
