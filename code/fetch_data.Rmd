@@ -200,15 +200,21 @@ other_places <- paste0("../output/other_places/",
 acs_long <- acs_long %>%
   bind_rows(other_places)
 
+acs_wide <- acs_long %>% 
+  select(-moe) %>%
+  spread(key=variable, value=estimate) %>%
+  rename(hh = B11016_001, pop = B01003_001,
+         medinc_h = B19013_001, pov_p = B17021_002,
+         nhwht = B03002_003, hisp = B03002_012) %>%
+  mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013)
+
+write_csv(acs_wide, "../acs2_wide.csv")
+
 ```
 
 ```{r multi-city places}
-acs_wide <- read_csv("../output/acs1_wide.csv") %>%
-  select(-(C16002_004:C16002_013))
-head(acs_wide)
 
 # see what's missing
-cities <- read_csv("../data/cities.csv")
 cities_ck <- cities %>% anti_join(acs_wide, by=c("City" = "city", 
                                                  "State" = "state"))
 # Honolulu is a CDP

@@ -19,16 +19,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 4805000,"Austin city, Texas",C16002_007,1313,304,Austin,TX
 4805000,"Austin city, Texas",C16002_010,3216,400,Austin,TX
 4805000,"Austin city, Texas",C16002_013,766,219,Austin,TX
-0606308,"Beverly Hills city, California",B01003_001,34506,40,Beverly Hills,CA
-0606308,"Beverly Hills city, California",B03002_003,27207,823,Beverly Hills,CA
-0606308,"Beverly Hills city, California",B03002_012,2004,405,Beverly Hills,CA
-0606308,"Beverly Hills city, California",B11016_001,14902,477,Beverly Hills,CA
-0606308,"Beverly Hills city, California",B17021_002,3186,671,Beverly Hills,CA
-0606308,"Beverly Hills city, California",B19013_001,103698,5633,Beverly Hills,CA
-0606308,"Beverly Hills city, California",C16002_004,60,39,Beverly Hills,CA
-0606308,"Beverly Hills city, California",C16002_007,1088,289,Beverly Hills,CA
-0606308,"Beverly Hills city, California",C16002_010,394,195,Beverly Hills,CA
-0606308,"Beverly Hills city, California",C16002_013,116,80,Beverly Hills,CA
+606308,"Beverly Hills city, California",B01003_001,34506,40,Beverly Hills,CA
+606308,"Beverly Hills city, California",B03002_003,27207,823,Beverly Hills,CA
+606308,"Beverly Hills city, California",B03002_012,2004,405,Beverly Hills,CA
+606308,"Beverly Hills city, California",B11016_001,14902,477,Beverly Hills,CA
+606308,"Beverly Hills city, California",B17021_002,3186,671,Beverly Hills,CA
+606308,"Beverly Hills city, California",B19013_001,103698,5633,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_004,60,39,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_007,1088,289,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_010,394,195,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_013,116,80,Beverly Hills,CA
 2079000,"Wichita city, Kansas",B01003_001,389054,68,Wichita,KS
 2079000,"Wichita city, Kansas",B03002_003,245499,1265,Wichita,KS
 2079000,"Wichita city, Kansas",B03002_012,65090,962,Wichita,KS
@@ -69,16 +69,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 2255000,"New Orleans city, Louisiana",C16002_007,308,94,New Orleans,LA
 2255000,"New Orleans city, Louisiana",C16002_010,1138,184,New Orleans,LA
 2255000,"New Orleans city, Louisiana",C16002_013,49,38,New Orleans,LA
-0670000,"Santa Monica city, California",B01003_001,92495,68,Santa Monica,CA
-0670000,"Santa Monica city, California",B03002_003,60076,1216,Santa Monica,CA
-0670000,"Santa Monica city, California",B03002_012,14828,930,Santa Monica,CA
-0670000,"Santa Monica city, California",B11016_001,46358,658,Santa Monica,CA
-0670000,"Santa Monica city, California",B17021_002,9798,1025,Santa Monica,CA
-0670000,"Santa Monica city, California",B19013_001,86084,4510,Santa Monica,CA
-0670000,"Santa Monica city, California",C16002_004,762,172,Santa Monica,CA
-0670000,"Santa Monica city, California",C16002_007,1304,284,Santa Monica,CA
-0670000,"Santa Monica city, California",C16002_010,584,184,Santa Monica,CA
-0670000,"Santa Monica city, California",C16002_013,242,127,Santa Monica,CA
+670000,"Santa Monica city, California",B01003_001,92495,68,Santa Monica,CA
+670000,"Santa Monica city, California",B03002_003,60076,1216,Santa Monica,CA
+670000,"Santa Monica city, California",B03002_012,14828,930,Santa Monica,CA
+670000,"Santa Monica city, California",B11016_001,46358,658,Santa Monica,CA
+670000,"Santa Monica city, California",B17021_002,9798,1025,Santa Monica,CA
+670000,"Santa Monica city, California",B19013_001,86084,4510,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_004,762,172,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_007,1304,284,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_010,584,184,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_013,242,127,Santa Monica,CA
 5553000,"Milwaukee city, Wisconsin",B01003_001,599086,55,Milwaukee,WI
 5553000,"Milwaukee city, Wisconsin",B03002_003,214553,1702,Milwaukee,WI
 5553000,"Milwaukee city, Wisconsin",B03002_012,110388,1416,Milwaukee,WI
@@ -149,16 +149,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 1814734,"Columbus city, Indiana",C16002_007,93,74,Columbus,IN
 1814734,"Columbus city, Indiana",C16002_010,233,133,Columbus,IN
 1814734,"Columbus city, Indiana",C16002_013,19,31,Columbus,IN
-0820000,"Denver city, Colorado",B01003_001,678467,NA,Denver,CO
-0820000,"Denver city, Colorado",B03002_003,363712,289,Denver,CO
-0820000,"Denver city, Colorado",B03002_012,207100,NA,Denver,CO
-0820000,"Denver city, Colorado",B11016_001,287262,1398,Denver,CO
-0820000,"Denver city, Colorado",B17021_002,100611,3295,Denver,CO
-0820000,"Denver city, Colorado",B19013_001,60098,950,Denver,CO
-0820000,"Denver city, Colorado",C16002_004,8742,620,Denver,CO
-0820000,"Denver city, Colorado",C16002_007,1478,231,Denver,CO
-0820000,"Denver city, Colorado",C16002_010,2171,337,Denver,CO
-0820000,"Denver city, Colorado",C16002_013,1143,268,Denver,CO
+820000,"Denver city, Colorado",B01003_001,678467,NA,Denver,CO
+820000,"Denver city, Colorado",B03002_003,363712,289,Denver,CO
+820000,"Denver city, Colorado",B03002_012,207100,NA,Denver,CO
+820000,"Denver city, Colorado",B11016_001,287262,1398,Denver,CO
+820000,"Denver city, Colorado",B17021_002,100611,3295,Denver,CO
+820000,"Denver city, Colorado",B19013_001,60098,950,Denver,CO
+820000,"Denver city, Colorado",C16002_004,8742,620,Denver,CO
+820000,"Denver city, Colorado",C16002_007,1478,231,Denver,CO
+820000,"Denver city, Colorado",C16002_010,2171,337,Denver,CO
+820000,"Denver city, Colorado",C16002_013,1143,268,Denver,CO
 1921000,"Des Moines city, Iowa",B01003_001,214778,107,Des Moines,IA
 1921000,"Des Moines city, Iowa",B03002_003,142831,1411,Des Moines,IA
 1921000,"Des Moines city, Iowa",B03002_012,28085,969,Des Moines,IA
@@ -269,16 +269,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 1836003,"Indianapolis city (balance), Indiana",C16002_007,1048,268,Indianapolis,IN
 1836003,"Indianapolis city (balance), Indiana",C16002_010,2523,359,Indianapolis,IN
 1836003,"Indianapolis city (balance), Indiana",C16002_013,931,243,Indianapolis,IN
-0668252,"San Mateo city, California",B01003_001,103500,107,San Mateo,CA
-0668252,"San Mateo city, California",B03002_003,44775,1451,San Mateo,CA
-0668252,"San Mateo city, California",B03002_012,26475,1387,San Mateo,CA
-0668252,"San Mateo city, California",B11016_001,38546,632,San Mateo,CA
-0668252,"San Mateo city, California",B17021_002,8197,1247,San Mateo,CA
-0668252,"San Mateo city, California",B19013_001,103399,2097,San Mateo,CA
-0668252,"San Mateo city, California",C16002_004,1812,340,San Mateo,CA
-0668252,"San Mateo city, California",C16002_007,607,156,San Mateo,CA
-0668252,"San Mateo city, California",C16002_010,1602,259,San Mateo,CA
-0668252,"San Mateo city, California",C16002_013,32,28,San Mateo,CA
+668252,"San Mateo city, California",B01003_001,103500,107,San Mateo,CA
+668252,"San Mateo city, California",B03002_003,44775,1451,San Mateo,CA
+668252,"San Mateo city, California",B03002_012,26475,1387,San Mateo,CA
+668252,"San Mateo city, California",B11016_001,38546,632,San Mateo,CA
+668252,"San Mateo city, California",B17021_002,8197,1247,San Mateo,CA
+668252,"San Mateo city, California",B19013_001,103399,2097,San Mateo,CA
+668252,"San Mateo city, California",C16002_004,1812,340,San Mateo,CA
+668252,"San Mateo city, California",C16002_007,607,156,San Mateo,CA
+668252,"San Mateo city, California",C16002_010,1602,259,San Mateo,CA
+668252,"San Mateo city, California",C16002_013,32,28,San Mateo,CA
 3638077,"Ithaca city, New York",B01003_001,30720,29,Ithaca,NY
 3638077,"Ithaca city, New York",B03002_003,19683,511,Ithaca,NY
 3638077,"Ithaca city, New York",B03002_012,2230,304,Ithaca,NY
@@ -309,26 +309,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 3921000,"Dayton city, Ohio",C16002_007,110,77,Dayton,OH
 3921000,"Dayton city, Ohio",C16002_010,240,120,Dayton,OH
 3921000,"Dayton city, Ohio",C16002_013,147,91,Dayton,OH
-0643000,"Long Beach city, California",B01003_001,470489,155,Long Beach,CA
-0643000,"Long Beach city, California",B03002_003,129957,2054,Long Beach,CA
-0643000,"Long Beach city, California",B03002_012,201523,2773,Long Beach,CA
-0643000,"Long Beach city, California",B11016_001,165001,1255,Long Beach,CA
-0643000,"Long Beach city, California",B17021_002,88476,3718,Long Beach,CA
-0643000,"Long Beach city, California",B19013_001,58314,1353,Long Beach,CA
-0643000,"Long Beach city, California",C16002_004,7981,470,Long Beach,CA
-0643000,"Long Beach city, California",C16002_007,678,170,Long Beach,CA
-0643000,"Long Beach city, California",C16002_010,3621,354,Long Beach,CA
-0643000,"Long Beach city, California",C16002_013,152,88,Long Beach,CA
-2418750,"College Park city, Maryland",B01003_001,32186,49,College Park,MD
-2418750,"College Park city, Maryland",B03002_003,16314,645,College Park,MD
-2418750,"College Park city, Maryland",B03002_012,4008,516,College Park,MD
-2418750,"College Park city, Maryland",B11016_001,7226,372,College Park,MD
-2418750,"College Park city, Maryland",B17021_002,5661,695,College Park,MD
-2418750,"College Park city, Maryland",B19013_001,64107,4223,College Park,MD
-2418750,"College Park city, Maryland",C16002_004,83,61,College Park,MD
-2418750,"College Park city, Maryland",C16002_007,121,92,College Park,MD
-2418750,"College Park city, Maryland",C16002_010,341,119,College Park,MD
-2418750,"College Park city, Maryland",C16002_013,10,16,College Park,MD
+643000,"Long Beach city, California",B01003_001,470489,155,Long Beach,CA
+643000,"Long Beach city, California",B03002_003,129957,2054,Long Beach,CA
+643000,"Long Beach city, California",B03002_012,201523,2773,Long Beach,CA
+643000,"Long Beach city, California",B11016_001,165001,1255,Long Beach,CA
+643000,"Long Beach city, California",B17021_002,88476,3718,Long Beach,CA
+643000,"Long Beach city, California",B19013_001,58314,1353,Long Beach,CA
+643000,"Long Beach city, California",C16002_004,7981,470,Long Beach,CA
+643000,"Long Beach city, California",C16002_007,678,170,Long Beach,CA
+643000,"Long Beach city, California",C16002_010,3621,354,Long Beach,CA
+643000,"Long Beach city, California",C16002_013,152,88,Long Beach,CA
 4845384,"McAllen city, Texas",B01003_001,139838,41,McAllen,TX
 4845384,"McAllen city, Texas",B03002_003,15310,1224,McAllen,TX
 4845384,"McAllen city, Texas",B03002_012,119096,1422,McAllen,TX
@@ -369,26 +359,26 @@ GEOID,NAME,variable,estimate,moe,city,state
 3502000,"Albuquerque city, New Mexico",C16002_007,462,150,Albuquerque,NM
 3502000,"Albuquerque city, New Mexico",C16002_010,812,171,Albuquerque,NM
 3502000,"Albuquerque city, New Mexico",C16002_013,415,150,Albuquerque,NM
-0827425,"Fort Collins city, Colorado",B01003_001,159150,62,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",B03002_003,128306,1055,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",B03002_012,18726,934,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",B11016_001,61532,772,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",B17021_002,25683,1390,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",B19013_001,60110,1886,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",C16002_004,445,145,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",C16002_007,90,43,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",C16002_010,213,90,Fort Collins,CO
-0827425,"Fort Collins city, Colorado",C16002_013,154,121,Fort Collins,CO
-0137000,"Huntsville city, Alabama",B01003_001,190501,741,Huntsville,AL
-0137000,"Huntsville city, Alabama",B03002_003,111535,1660,Huntsville,AL
-0137000,"Huntsville city, Alabama",B03002_012,10509,792,Huntsville,AL
-0137000,"Huntsville city, Alabama",B11016_001,81296,1040,Huntsville,AL
-0137000,"Huntsville city, Alabama",B17021_002,33458,1964,Huntsville,AL
-0137000,"Huntsville city, Alabama",B19013_001,51926,1390,Huntsville,AL
-0137000,"Huntsville city, Alabama",C16002_004,1014,229,Huntsville,AL
-0137000,"Huntsville city, Alabama",C16002_007,167,79,Huntsville,AL
-0137000,"Huntsville city, Alabama",C16002_010,378,139,Huntsville,AL
-0137000,"Huntsville city, Alabama",C16002_013,44,56,Huntsville,AL
+827425,"Fort Collins city, Colorado",B01003_001,159150,62,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B03002_003,128306,1055,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B03002_012,18726,934,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B11016_001,61532,772,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B17021_002,25683,1390,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B19013_001,60110,1886,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_004,445,145,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_007,90,43,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_010,213,90,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_013,154,121,Fort Collins,CO
+137000,"Huntsville city, Alabama",B01003_001,190501,741,Huntsville,AL
+137000,"Huntsville city, Alabama",B03002_003,111535,1660,Huntsville,AL
+137000,"Huntsville city, Alabama",B03002_012,10509,792,Huntsville,AL
+137000,"Huntsville city, Alabama",B11016_001,81296,1040,Huntsville,AL
+137000,"Huntsville city, Alabama",B17021_002,33458,1964,Huntsville,AL
+137000,"Huntsville city, Alabama",B19013_001,51926,1390,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_004,1014,229,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_007,167,79,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_010,378,139,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_013,44,56,Huntsville,AL
 3663000,"Rochester city, New York",B01003_001,209463,64,Rochester,NY
 3663000,"Rochester city, New York",B03002_003,77108,1587,Rochester,NY
 3663000,"Rochester city, New York",B03002_012,37213,1189,Rochester,NY
@@ -519,16 +509,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 2071000,"Topeka city, Kansas",C16002_007,87,88,Topeka,KS
 2071000,"Topeka city, Kansas",C16002_010,128,64,Topeka,KS
 2071000,"Topeka city, Kansas",C16002_013,0,24,Topeka,KS
-0477000,"Tucson city, Arizona",B01003_001,530905,107,Tucson,AZ
-0477000,"Tucson city, Arizona",B03002_003,238457,2513,Tucson,AZ
-0477000,"Tucson city, Arizona",B03002_012,228012,2338,Tucson,AZ
-0477000,"Tucson city, Arizona",B11016_001,209906,1600,Tucson,AZ
-0477000,"Tucson city, Arizona",B17021_002,121994,4449,Tucson,AZ
-0477000,"Tucson city, Arizona",B19013_001,39617,787,Tucson,AZ
-0477000,"Tucson city, Arizona",C16002_004,9094,611,Tucson,AZ
-0477000,"Tucson city, Arizona",C16002_007,654,159,Tucson,AZ
-0477000,"Tucson city, Arizona",C16002_010,1388,263,Tucson,AZ
-0477000,"Tucson city, Arizona",C16002_013,772,255,Tucson,AZ
+477000,"Tucson city, Arizona",B01003_001,530905,107,Tucson,AZ
+477000,"Tucson city, Arizona",B03002_003,238457,2513,Tucson,AZ
+477000,"Tucson city, Arizona",B03002_012,228012,2338,Tucson,AZ
+477000,"Tucson city, Arizona",B11016_001,209906,1600,Tucson,AZ
+477000,"Tucson city, Arizona",B17021_002,121994,4449,Tucson,AZ
+477000,"Tucson city, Arizona",B19013_001,39617,787,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_004,9094,611,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_007,654,159,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_010,1388,263,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_013,772,255,Tucson,AZ
 3916000,"Cleveland city, Ohio",B01003_001,388812,92,Cleveland,OH
 3916000,"Cleveland city, Ohio",B03002_003,131338,1859,Cleveland,OH
 3916000,"Cleveland city, Ohio",B03002_012,43466,1253,Cleveland,OH
@@ -549,16 +539,16 @@ GEOID,NAME,variable,estimate,moe,city,state
 1822000,"Evansville city, Indiana",C16002_007,105,95,Evansville,IN
 1822000,"Evansville city, Indiana",C16002_010,68,62,Evansville,IN
 1822000,"Evansville city, Indiana",C16002_013,0,27,Evansville,IN
-0845970,"Longmont city, Colorado",B01003_001,91730,40,Longmont,CO
-0845970,"Longmont city, Colorado",B03002_003,62112,1029,Longmont,CO
-0845970,"Longmont city, Colorado",B03002_012,23520,914,Longmont,CO
-0845970,"Longmont city, Colorado",B11016_001,35020,582,Longmont,CO
-0845970,"Longmont city, Colorado",B17021_002,10920,1248,Longmont,CO
-0845970,"Longmont city, Colorado",B19013_001,66349,2456,Longmont,CO
-0845970,"Longmont city, Colorado",C16002_004,955,218,Longmont,CO
-0845970,"Longmont city, Colorado",C16002_007,60,38,Longmont,CO
-0845970,"Longmont city, Colorado",C16002_010,101,58,Longmont,CO
-0845970,"Longmont city, Colorado",C16002_013,13,21,Longmont,CO
+845970,"Longmont city, Colorado",B01003_001,91730,40,Longmont,CO
+845970,"Longmont city, Colorado",B03002_003,62112,1029,Longmont,CO
+845970,"Longmont city, Colorado",B03002_012,23520,914,Longmont,CO
+845970,"Longmont city, Colorado",B11016_001,35020,582,Longmont,CO
+845970,"Longmont city, Colorado",B17021_002,10920,1248,Longmont,CO
+845970,"Longmont city, Colorado",B19013_001,66349,2456,Longmont,CO
+845970,"Longmont city, Colorado",C16002_004,955,218,Longmont,CO
+845970,"Longmont city, Colorado",C16002_007,60,38,Longmont,CO
+845970,"Longmont city, Colorado",C16002_010,101,58,Longmont,CO
+845970,"Longmont city, Colorado",C16002_013,13,21,Longmont,CO
 5168000,"Roanoke city, Virginia",B01003_001,99572,NA,Roanoke,VA
 5168000,"Roanoke city, Virginia",B03002_003,59263,112,Roanoke,VA
 5168000,"Roanoke city, Virginia",B03002_012,6012,NA,Roanoke,VA
@@ -569,13 +559,13 @@ GEOID,NAME,variable,estimate,moe,city,state
 5168000,"Roanoke city, Virginia",C16002_007,334,172,Roanoke,VA
 5168000,"Roanoke city, Virginia",C16002_010,230,111,Roanoke,VA
 5168000,"Roanoke city, Virginia",C16002_013,82,60,Roanoke,VA
-0107000,"Birmingham city, Alabama",B01003_001,212265,612,Birmingham,AL
-0107000,"Birmingham city, Alabama",B03002_003,48478,1313,Birmingham,AL
-0107000,"Birmingham city, Alabama",B03002_012,7332,953,Birmingham,AL
-0107000,"Birmingham city, Alabama",B11016_001,90149,1337,Birmingham,AL
-0107000,"Birmingham city, Alabama",B17021_002,57730,2533,Birmingham,AL
-0107000,"Birmingham city, Alabama",B19013_001,33770,993,Birmingham,AL
-0107000,"Birmingham city, Alabama",C16002_004,880,222,Birmingham,AL
-0107000,"Birmingham city, Alabama",C16002_007,240,98,Birmingham,AL
-0107000,"Birmingham city, Alabama",C16002_010,88,46,Birmingham,AL
-0107000,"Birmingham city, Alabama",C16002_013,43,55,Birmingham,AL
+107000,"Birmingham city, Alabama",B01003_001,212265,612,Birmingham,AL
+107000,"Birmingham city, Alabama",B03002_003,48478,1313,Birmingham,AL
+107000,"Birmingham city, Alabama",B03002_012,7332,953,Birmingham,AL
+107000,"Birmingham city, Alabama",B11016_001,90149,1337,Birmingham,AL
+107000,"Birmingham city, Alabama",B17021_002,57730,2533,Birmingham,AL
+107000,"Birmingham city, Alabama",B19013_001,33770,993,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_004,880,222,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_007,240,98,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_010,88,46,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_013,43,55,Birmingham,AL
