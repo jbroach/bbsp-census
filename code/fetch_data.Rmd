@@ -27,7 +27,7 @@ getwd()
 cities <- read.csv("../data/cities1.csv", stringsAsFactors = F)
 
 v17 <- load_variables(2017, "acs5", cache = TRUE)
-View(v17)
+#View(v17)
 
 ## setup cenus api key
 mykey <- read.table("../secrets/key1.txt", stringsAsFactors = F)[1, 1]
@@ -81,40 +81,6 @@ census <- census_raw %>%
          nhwht = B03002_003, hisp = B03002_012) %>%
   mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013)
 
-
-#############
-
-mapply(print, cities$City, cities$State)
-
-result <- cities %>% lapply()
-get_acs(geography = "place", 
-                  year = 2017, # 2013-2017
-                  variables = c("B19013_001",
-                                "B03002_003"),
-                  state = "OR",
-                  geometry = F, summary_var = "B01003_001")
-
-v17 <- load_variables(2017, "acs5", cache = TRUE)
-View(v17)
-tracts <- get_acs(geography = "place", 
-                  year = 2017, # 2013-2017
-                  variables = c("B19013_001",
-                                "B03002_003"),
-                  state = "OR",
-                  geometry = F, summary_var = "B01003_001")
-
-tracts %>%
-  filter(stringr::str_detect(NAME, "Portland city"))
-?cat
-
-?get_acs
-?filter
-?stringr::str_detect
-
-g <- tigris::places("or", cb = T) %>%
-  st_as_sf()
-mapview(g)
-?places
 ```
 
 ```{r other places}
@@ -135,7 +101,7 @@ result <- cities_ck %>%
   mutate(City = "Urban Honolulu") %>%
   f(place_type = "CDP") %>% 
   mutate(city = "Honolulu", state= "HI")
-write_csv(result, "../output/other_places//honolulu.csv")
+write_csv(result, "../output/other_places/honolulu.csv")
 
 # Boise is Boise City
 result <- cities_ck %>%
@@ -150,15 +116,15 @@ result <- cities_ck %>%
   filter(City == "Montgomery County MD") %>%
   mutate(City = "Montgomery") %>%
   f(place_type = "County") %>% 
-  mutate(city = "Montgomery County", state= "MD")
-write_csv(result, "../output/other_places/EllicottCity.csv")
+  mutate(city = "Montgomery County MD", state= "MD")
+write_csv(result, "../output/other_places/montgomeryCO.csv")
 
 # 
 result <- cities_ck %>%
   filter(City == "Ellicott City") %>%
   f(place_type = "CDP") %>% 
   mutate(city = "Ellicott City", state= "MD")
-write_csv(result, "../output/other_places/montgomeryCO.csv")
+write_csv(result, "../output/other_places/EllicottCity.csv")
 
 # Use county for Nashville
 result <- cities_ck %>%
@@ -208,82 +174,136 @@ acs_wide <- acs_long %>%
          nhwht = B03002_003, hisp = B03002_012) %>%
   mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013)
 
-write_csv(acs_wide, "../acs2_wide.csv")
+write_csv(acs_long, "../output/acs2_long.csv")
+write_csv(acs_wide, "../output/acs2_wide.csv")
 
 ```
 
 ```{r multi-city places}
+getwd()
+# see what's still missing
+acs_long <- read.csv("../output/acs2_long.csv", stringsAsFactors = F)
+acs_wide <- read_csv("../output/acs2_wide.csv") %>%
+  select(-(C16002_004:C16002_013))
+head(acs_wide)
 
-# see what's missing
 cities_ck <- cities %>% anti_join(acs_wide, by=c("City" = "city", 
                                                  "State" = "state"))
-# Honolulu is a CDP
-result <- cities_ck %>%
-  filter(City == "Honolulu") %>% 
-  mutate(City = "Urban Honolulu") %>%
-  f(place_type = "CDP") %>% 
-  mutate(city = "Honolulu", state= "HI")
-write_csv(result, "../output/other_places//honolulu.csv")
+# BluBike
+multi <- c("Boston", "Cambridge", "Somerville", "Brookline", "Everett")
 
-# Boise is Boise City
-result <- cities_ck %>%
-  filter(City == "Boise") %>% 
-  mutate(City = "Boise City") %>%
-  f() %>% 
-  mutate(city = "Boise", state= "ID")
-write_csv(result, "../output/other_places/boise.csv")
+result <- data.frame()
 
-# Montgomery is a County
-result <- cities_ck %>%
-  filter(City == "Montgomery County MD") %>%
-  mutate(City = "Montgomery") %>%
-  f(place_type = "County") %>% 
-  mutate(city = "Montgomery County", state= "MD")
-write_csv(result, "../output/other_places/EllicottCity.csv")
+for (city in multi) {
+  place <- cities_ck %>%
+    filter(City == "Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)") %>%
+    mutate(City_svy = City, City = city)  
+  print(city)
+  place_type = ifelse(city == "Brookline", "CDP", "city")
+  newrows <- f(place, place_type = place_type) %>%
+    mutate(city = place$City_svy, state = place$State)
+  result <- result %>%
+    bind_rows(newrows)
+}
 
-# 
-result <- cities_ck %>%
-  filter(City == "Ellicott City") %>%
-  f(place_type = "CDP") %>% 
-  mutate(city = "Ellicott City", state= "MD")
-write_csv(result, "../output/other_places/montgomeryCO.csv")
+result <- result %>%
+  select(-c(GEOID, moe)) %>%
+  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
+  group_by(NAME, city, state, variable) %>%
+  summarise_all(sum)
+write_csv(result, "../output/multi_places/blubike.csv")
 
-# Use county for Nashville
-result <- cities_ck %>%
-  filter(City == "Nashville") %>%
-  mutate(City = "Davidson") %>%
-  f(place_type = "County") %>% 
-  mutate(city = "Nashville", state= "TN")
-write_csv(result, "../output/other_places/Nashville.csv")
+# Capital District
+multi <- c("Albany", "Troy", "Schenectady", "Saratoga Springs")
 
-#
-result <- cities_ck %>%
-  filter(City == "Blaine County") %>%
-  mutate(City = "Blaine") %>%
-  f(place_type = "County") %>% 
-  mutate(city = "Blaine County", state= "ID")
-write_csv(result, "../output/other_places/BlaineCo.csv")
+result <- data.frame()
 
-# 
-result <- cities_ck %>%
-  filter(City == "College Park, and the campus of the University of Maryland") %>%
-    mutate(City = "College Park") %>%
-  f() %>%
-  mutate(city = "College Park", state= "MD")
-write_csv(result, "../output/other_places/CollegePark.csv")
+for (city in multi) {
+  place <- cities_ck %>%
+    filter(City == "Capital District (Albany, Troy, Schenectady, Saratoga Springs)" & 
+             ResponseId == "R_2qrQwhqjXkQFFWt") %>%
+    mutate(City_svy = City, City = city)
+  print(city)
+  newrows <- f(place) %>%
+    mutate(city = place$City_svy, state = place$State)
+  result <- result %>%
+    bind_rows(newrows)
+}
 
-#
-result <- cities_ck %>%
-  filter(City == "Los Angeles County") %>%
-  mutate(City = "Los Angeles") %>%
-  f(place_type = "County") %>% 
-  mutate(city = "Los Angeles County", state= "CA")
-write_csv(result, "../output/other_places/LosAngelesCo.csv")
+result <- result %>%
+  select(-c(GEOID, moe)) %>%
+  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
+  group_by(NAME, city, state, variable) %>%
+  summarise_all(sum)
+write_csv(result, "../output/multi_places/capitalDistrict.csv")
 
-other_places <- paste0("../output/other_places/", 
-                       list.files("../output/other_places/")) %>%
+# Ford Go Bike
+multi <- c("San Francisco", "Oakland", "San Jose", "Berkeley")
+
+result <- data.frame()
+
+for (city in multi) {
+  place <- cities_ck %>%
+    filter(City == "SF Bay Area") %>%
+    mutate(City_svy = City, City = city)
+  print(city)
+  newrows <- f(place) %>%
+    mutate(city = place$City_svy, state = place$State)
+  result <- result %>%
+    bind_rows(newrows)
+}
+
+
+result <- result %>%
+  select(-c(GEOID, moe)) %>%
+  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
+  group_by(NAME, city, state, variable) %>%
+  summarise_all(sum)
+write_csv(result, "../output/multi_places/FordGOSFBay.csv")
+
+# Aspen & Basalt
+multi <- c("Aspen", "Basalt")
+
+result <- data.frame()
+
+for (city in multi) {
+  place <- cities_ck %>%
+    filter(City == "Aspen and Basalt") %>%
+    mutate(City_svy = City, City = city)
+  print(city)
+  place_type = ifelse(city == "Basalt", "town", "city")
+  newrows <- f(place, place_type = place_type) %>%
+    mutate(city = place$City_svy, state = place$State)
+  result <- result %>%
+    bind_rows(newrows)
+}
+
+result <- result %>%
+  select(-c(GEOID, moe)) %>%
+  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
+  group_by(NAME, city, state, variable) %>%
+  summarise_all(sum)
+write_csv(result, "../output/multi_places/WECycle.csv")
+
+
+multi_places <- paste0("../output/multi_places/", 
+                       list.files("../output/multi_places/")) %>%
   lapply(read.csv, stringsAsFactors = F) %>%
   bind_rows()  
+
+acs_long <- acs_long %>%
+  bind_rows(multi_places)
+
+acs_wide <- acs_long %>% 
+  select(-moe) %>%
+  spread(key=variable, value=estimate) %>%
+  rename(hh = B11016_001, pop = B01003_001,
+         medinc_h = B19013_001, pov_p = B17021_002,
+         nhwht = B03002_003, hisp = B03002_012) %>%
+  mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013)
+
+write_csv(acs_long, "../output/acs3_long.csv")
+write_csv(acs_wide, "../output/acs3_wide.csv") 
 
 ```
 

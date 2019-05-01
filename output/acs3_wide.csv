@@ -1,7 +1,7 @@
 GEOID,NAME,city,state,pop,nhwht,hisp,hh,pov_p,medinc_h,C16002_004,C16002_007,C16002_010,C16002_013,limeng
 6037,"Los Angeles County, California",Los Angeles County,CA,10105722,2676982,4893579,3295198,1688505,61015,243565,55583,128591,7818,435557
 16013,"Blaine County, Idaho",Blaine County,ID,21583,16511,4535,8273,3180,58835,271,0,0,0,271
-24031,"Montgomery County, Maryland",Montgomery County,MD,1039198,467734,197242,369242,72085,103178,9990,4623,8415,2139,25167
+24031,"Montgomery County, Maryland",Montgomery County MD,MD,1039198,467734,197242,369242,72085,103178,9990,4623,8415,2139,25167
 47037,"Davidson County, Tennessee",Nashville,TN,678322,382565,68326,273497,111103,53419,6900,1270,1825,2437,12432
 107000,"Birmingham city, Alabama",Birmingham,AL,212265,48478,7332,90149,57730,33770,880,240,88,43,1251
 137000,"Huntsville city, Alabama",Huntsville,AL,190501,111535,10509,81296,33458,51926,1014,167,378,44,1603
@@ -28,7 +28,7 @@ GEOID,NAME,city,state,pop,nhwht,hisp,hh,pov_p,medinc_h,C16002_004,C16002_007,C16
 2071000,"Topeka city, Kansas",Topeka,KS,127139,87645,18168,53220,20511,46087,724,87,128,0,939
 2079000,"Wichita city, Kansas",Wichita,KS,389054,245499,65090,151665,64875,48982,3361,342,1428,264,5395
 2255000,"New Orleans city, Louisiana",New Orleans,LA,388182,118660,21448,154895,95346,38721,2024,308,1138,49,3519
-2418750,"College Park city, Maryland",College Park,MD,32186,16314,4008,7226,5661,64107,83,121,341,10,555
+2418750,"College Park city, Maryland","College Park, and the campus of the University of Maryland",MD,32186,16314,4008,7226,5661,64107,83,121,341,10,555
 2426000,"Ellicott City CDP, Maryland",Ellicott City,MD,71737,41228,2195,25198,3007,124059,64,215,778,8,1065
 2603000,"Ann Arbor city, Michigan",Ann Arbor,MI,119303,81859,5228,47524,23967,61247,157,338,1641,99,2235
 2622000,"Detroit city, Michigan",Detroit,MI,679865,67579,51685,258471,252897,27838,3472,1203,330,1095,6100
@@ -64,3 +64,7 @@ GEOID,NAME,city,state,pop,nhwht,hisp,hh,pov_p,medinc_h,C16002_004,C16002_007,C16
 5167000,"Richmond city, Virginia",Richmond,VA,220892,88320,14343,89238,52942,42356,1361,175,224,138,1898
 5168000,"Roanoke city, Virginia",Roanoke,VA,99572,59263,6012,42333,21046,41483,365,334,230,82,1011
 5553000,"Milwaukee city, Wisconsin",Milwaukee,WI,599086,214553,110388,230463,159660,38289,7392,881,1264,471,10008
+NA,"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,241711,142790,22048,96260,48557,204650,958,910,853,137,2858
+NA,"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,10946,9232,1218,4989,910,138084,132,22,0,0,154
+NA,"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,964492,488399,161000,380223,163789,404431,16740,12541,10793,1841,41915
+NA,"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,2424915,803668,588646,883293,299516,331887,26650,8774,66507,2920,104851

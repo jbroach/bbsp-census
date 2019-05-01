@@ -1,0 +1,651 @@
+GEOID,NAME,variable,estimate,moe,city,state
+2603000,"Ann Arbor city, Michigan",B01003_001,119303,55,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",B03002_003,81859,957,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",B03002_012,5228,551,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",B11016_001,47524,671,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",B17021_002,23967,1166,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",B19013_001,61247,1780,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",C16002_004,157,83,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",C16002_007,338,77,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",C16002_010,1641,233,Ann Arbor,MI
+2603000,"Ann Arbor city, Michigan",C16002_013,99,57,Ann Arbor,MI
+4805000,"Austin city, Texas",B01003_001,916906,144,Austin,TX
+4805000,"Austin city, Texas",B03002_003,445269,3012,Austin,TX
+4805000,"Austin city, Texas",B03002_012,316709,2724,Austin,TX
+4805000,"Austin city, Texas",B11016_001,361257,1810,Austin,TX
+4805000,"Austin city, Texas",B17021_002,138274,4754,Austin,TX
+4805000,"Austin city, Texas",B19013_001,63717,778,Austin,TX
+4805000,"Austin city, Texas",C16002_004,18388,854,Austin,TX
+4805000,"Austin city, Texas",C16002_007,1313,304,Austin,TX
+4805000,"Austin city, Texas",C16002_010,3216,400,Austin,TX
+4805000,"Austin city, Texas",C16002_013,766,219,Austin,TX
+606308,"Beverly Hills city, California",B01003_001,34506,40,Beverly Hills,CA
+606308,"Beverly Hills city, California",B03002_003,27207,823,Beverly Hills,CA
+606308,"Beverly Hills city, California",B03002_012,2004,405,Beverly Hills,CA
+606308,"Beverly Hills city, California",B11016_001,14902,477,Beverly Hills,CA
+606308,"Beverly Hills city, California",B17021_002,3186,671,Beverly Hills,CA
+606308,"Beverly Hills city, California",B19013_001,103698,5633,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_004,60,39,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_007,1088,289,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_010,394,195,Beverly Hills,CA
+606308,"Beverly Hills city, California",C16002_013,116,80,Beverly Hills,CA
+2079000,"Wichita city, Kansas",B01003_001,389054,68,Wichita,KS
+2079000,"Wichita city, Kansas",B03002_003,245499,1265,Wichita,KS
+2079000,"Wichita city, Kansas",B03002_012,65090,962,Wichita,KS
+2079000,"Wichita city, Kansas",B11016_001,151665,1043,Wichita,KS
+2079000,"Wichita city, Kansas",B17021_002,64875,2820,Wichita,KS
+2079000,"Wichita city, Kansas",B19013_001,48982,1195,Wichita,KS
+2079000,"Wichita city, Kansas",C16002_004,3361,473,Wichita,KS
+2079000,"Wichita city, Kansas",C16002_007,342,124,Wichita,KS
+2079000,"Wichita city, Kansas",C16002_010,1428,209,Wichita,KS
+2079000,"Wichita city, Kansas",C16002_013,264,132,Wichita,KS
+2653780,"Midland city, Michigan",B01003_001,41958,106,Midland,MI
+2653780,"Midland city, Michigan",B03002_003,36730,330,Midland,MI
+2653780,"Midland city, Michigan",B03002_012,1292,217,Midland,MI
+2653780,"Midland city, Michigan",B11016_001,17574,276,Midland,MI
+2653780,"Midland city, Michigan",B17021_002,5052,585,Midland,MI
+2653780,"Midland city, Michigan",B19013_001,58910,3937,Midland,MI
+2653780,"Midland city, Michigan",C16002_004,0,21,Midland,MI
+2653780,"Midland city, Michigan",C16002_007,25,29,Midland,MI
+2653780,"Midland city, Michigan",C16002_010,53,40,Midland,MI
+2653780,"Midland city, Michigan",C16002_013,0,21,Midland,MI
+4159000,"Portland city, Oregon",B01003_001,630331,631,Portland,OR
+4159000,"Portland city, Oregon",B03002_003,447488,2156,Portland,OR
+4159000,"Portland city, Oregon",B03002_012,61214,1517,Portland,OR
+4159000,"Portland city, Oregon",B11016_001,260949,1500,Portland,OR
+4159000,"Portland city, Oregon",B17021_002,100073,3157,Portland,OR
+4159000,"Portland city, Oregon",B19013_001,61532,805,Portland,OR
+4159000,"Portland city, Oregon",C16002_004,3162,429,Portland,OR
+4159000,"Portland city, Oregon",C16002_007,1891,368,Portland,OR
+4159000,"Portland city, Oregon",C16002_010,4386,476,Portland,OR
+4159000,"Portland city, Oregon",C16002_013,900,250,Portland,OR
+2255000,"New Orleans city, Louisiana",B01003_001,388182,NA,New Orleans,LA
+2255000,"New Orleans city, Louisiana",B03002_003,118660,160,New Orleans,LA
+2255000,"New Orleans city, Louisiana",B03002_012,21448,NA,New Orleans,LA
+2255000,"New Orleans city, Louisiana",B11016_001,154895,1162,New Orleans,LA
+2255000,"New Orleans city, Louisiana",B17021_002,95346,2822,New Orleans,LA
+2255000,"New Orleans city, Louisiana",B19013_001,38721,991,New Orleans,LA
+2255000,"New Orleans city, Louisiana",C16002_004,2024,265,New Orleans,LA
+2255000,"New Orleans city, Louisiana",C16002_007,308,94,New Orleans,LA
+2255000,"New Orleans city, Louisiana",C16002_010,1138,184,New Orleans,LA
+2255000,"New Orleans city, Louisiana",C16002_013,49,38,New Orleans,LA
+670000,"Santa Monica city, California",B01003_001,92495,68,Santa Monica,CA
+670000,"Santa Monica city, California",B03002_003,60076,1216,Santa Monica,CA
+670000,"Santa Monica city, California",B03002_012,14828,930,Santa Monica,CA
+670000,"Santa Monica city, California",B11016_001,46358,658,Santa Monica,CA
+670000,"Santa Monica city, California",B17021_002,9798,1025,Santa Monica,CA
+670000,"Santa Monica city, California",B19013_001,86084,4510,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_004,762,172,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_007,1304,284,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_010,584,184,Santa Monica,CA
+670000,"Santa Monica city, California",C16002_013,242,127,Santa Monica,CA
+5553000,"Milwaukee city, Wisconsin",B01003_001,599086,55,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",B03002_003,214553,1702,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",B03002_012,110388,1416,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",B11016_001,230463,1550,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",B17021_002,159660,3500,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",B19013_001,38289,627,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",C16002_004,7392,479,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",C16002_007,881,171,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",C16002_010,1264,236,Milwaukee,WI
+5553000,"Milwaukee city, Wisconsin",C16002_013,471,154,Milwaukee,WI
+1150000,"Washington city, District of Columbia",B01003_001,672391,NA,Washington,DC
+1150000,"Washington city, District of Columbia",B03002_003,241901,372,Washington,DC
+1150000,"Washington city, District of Columbia",B03002_012,71829,NA,Washington,DC
+1150000,"Washington city, District of Columbia",B11016_001,277985,1316,Washington,DC
+1150000,"Washington city, District of Columbia",B17021_002,111025,3247,Washington,DC
+1150000,"Washington city, District of Columbia",B19013_001,77649,1075,Washington,DC
+1150000,"Washington city, District of Columbia",C16002_004,5821,525,Washington,DC
+1150000,"Washington city, District of Columbia",C16002_007,1232,240,Washington,DC
+1150000,"Washington city, District of Columbia",C16002_010,1363,279,Washington,DC
+1150000,"Washington city, District of Columbia",C16002_013,1405,267,Washington,DC
+1369000,"Savannah city, Georgia",B01003_001,145094,50,Savannah,GA
+1369000,"Savannah city, Georgia",B03002_003,52496,1512,Savannah,GA
+1369000,"Savannah city, Georgia",B03002_012,6946,793,Savannah,GA
+1369000,"Savannah city, Georgia",B11016_001,53664,990,Savannah,GA
+1369000,"Savannah city, Georgia",B17021_002,32269,1498,Savannah,GA
+1369000,"Savannah city, Georgia",B19013_001,39386,1190,Savannah,GA
+1369000,"Savannah city, Georgia",C16002_004,429,159,Savannah,GA
+1369000,"Savannah city, Georgia",C16002_007,268,127,Savannah,GA
+1369000,"Savannah city, Georgia",C16002_010,199,85,Savannah,GA
+1369000,"Savannah city, Georgia",C16002_013,9,15,Savannah,GA
+3651000,"New York city, New York",B01003_001,8560072,NA,New York,NY
+3651000,"New York city, New York",B03002_003,2747159,1907,New York,NY
+3651000,"New York city, New York",B03002_012,2491496,NA,New York,NY
+3651000,"New York city, New York",B11016_001,3142405,6293,New York,NY
+3651000,"New York city, New York",B17021_002,1648288,15783,New York,NY
+3651000,"New York city, New York",B19013_001,57782,341,New York,NY
+3651000,"New York city, New York",C16002_004,218113,3522,New York,NY
+3651000,"New York city, New York",C16002_007,118261,2147,New York,NY
+3651000,"New York city, New York",C16002_010,114462,2067,New York,NY
+3651000,"New York city, New York",C16002_013,15174,977,New York,NY
+3755000,"Raleigh city, North Carolina",B01003_001,449477,253,Raleigh,NC
+3755000,"Raleigh city, North Carolina",B03002_003,240400,2568,Raleigh,NC
+3755000,"Raleigh city, North Carolina",B03002_012,49226,1936,Raleigh,NC
+3755000,"Raleigh city, North Carolina",B11016_001,176870,1422,Raleigh,NC
+3755000,"Raleigh city, North Carolina",B17021_002,60295,2883,Raleigh,NC
+3755000,"Raleigh city, North Carolina",B19013_001,61505,1030,Raleigh,NC
+3755000,"Raleigh city, North Carolina",C16002_004,3208,463,Raleigh,NC
+3755000,"Raleigh city, North Carolina",C16002_007,558,169,Raleigh,NC
+3755000,"Raleigh city, North Carolina",C16002_010,1488,289,Raleigh,NC
+3755000,"Raleigh city, North Carolina",C16002_013,479,171,Raleigh,NC
+3918000,"Columbus city, Ohio",B01003_001,852144,151,Columbus,OH
+3918000,"Columbus city, Ohio",B03002_003,484096,2860,Columbus,OH
+3918000,"Columbus city, Ohio",B03002_012,50707,1452,Columbus,OH
+3918000,"Columbus city, Ohio",B11016_001,345282,1876,Columbus,OH
+3918000,"Columbus city, Ohio",B17021_002,172653,4952,Columbus,OH
+3918000,"Columbus city, Ohio",B19013_001,49478,706,Columbus,OH
+3918000,"Columbus city, Ohio",C16002_004,3983,413,Columbus,OH
+3918000,"Columbus city, Ohio",C16002_007,2318,365,Columbus,OH
+3918000,"Columbus city, Ohio",C16002_010,3288,385,Columbus,OH
+3918000,"Columbus city, Ohio",C16002_013,2971,507,Columbus,OH
+1814734,"Columbus city, Indiana",B01003_001,46926,383,Columbus,IN
+1814734,"Columbus city, Indiana",B03002_003,37080,591,Columbus,IN
+1814734,"Columbus city, Indiana",B03002_012,2681,394,Columbus,IN
+1814734,"Columbus city, Indiana",B11016_001,18873,343,Columbus,IN
+1814734,"Columbus city, Indiana",B17021_002,5632,894,Columbus,IN
+1814734,"Columbus city, Indiana",B19013_001,57535,3858,Columbus,IN
+1814734,"Columbus city, Indiana",C16002_004,204,120,Columbus,IN
+1814734,"Columbus city, Indiana",C16002_007,93,74,Columbus,IN
+1814734,"Columbus city, Indiana",C16002_010,233,133,Columbus,IN
+1814734,"Columbus city, Indiana",C16002_013,19,31,Columbus,IN
+820000,"Denver city, Colorado",B01003_001,678467,NA,Denver,CO
+820000,"Denver city, Colorado",B03002_003,363712,289,Denver,CO
+820000,"Denver city, Colorado",B03002_012,207100,NA,Denver,CO
+820000,"Denver city, Colorado",B11016_001,287262,1398,Denver,CO
+820000,"Denver city, Colorado",B17021_002,100611,3295,Denver,CO
+820000,"Denver city, Colorado",B19013_001,60098,950,Denver,CO
+820000,"Denver city, Colorado",C16002_004,8742,620,Denver,CO
+820000,"Denver city, Colorado",C16002_007,1478,231,Denver,CO
+820000,"Denver city, Colorado",C16002_010,2171,337,Denver,CO
+820000,"Denver city, Colorado",C16002_013,1143,268,Denver,CO
+1921000,"Des Moines city, Iowa",B01003_001,214778,107,Des Moines,IA
+1921000,"Des Moines city, Iowa",B03002_003,142831,1411,Des Moines,IA
+1921000,"Des Moines city, Iowa",B03002_012,28085,969,Des Moines,IA
+1921000,"Des Moines city, Iowa",B11016_001,83916,954,Des Moines,IA
+1921000,"Des Moines city, Iowa",B17021_002,37997,1725,Des Moines,IA
+1921000,"Des Moines city, Iowa",B19013_001,49999,1156,Des Moines,IA
+1921000,"Des Moines city, Iowa",C16002_004,1680,287,Des Moines,IA
+1921000,"Des Moines city, Iowa",C16002_007,377,186,Des Moines,IA
+1921000,"Des Moines city, Iowa",C16002_010,1265,243,Des Moines,IA
+1921000,"Des Moines city, Iowa",C16002_013,456,178,Des Moines,IA
+1714000,"Chicago city, Illinois",B01003_001,2722586,69,Chicago,IL
+1714000,"Chicago city, Illinois",B03002_003,890322,5039,Chicago,IL
+1714000,"Chicago city, Illinois",B03002_012,789713,4417,Chicago,IL
+1714000,"Chicago city, Illinois",B11016_001,1046789,3398,Chicago,IL
+1714000,"Chicago city, Illinois",B17021_002,550432,8675,Chicago,IL
+1714000,"Chicago city, Illinois",B19013_001,52497,491,Chicago,IL
+1714000,"Chicago city, Illinois",C16002_004,48310,1275,Chicago,IL
+1714000,"Chicago city, Illinois",C16002_007,22126,958,Chicago,IL
+1714000,"Chicago city, Illinois",C16002_010,13173,715,Chicago,IL
+1714000,"Chicago city, Illinois",C16002_013,4638,552,Chicago,IL
+4748000,"Memphis city, Tennessee",B01003_001,654723,104,Memphis,TN
+4748000,"Memphis city, Tennessee",B03002_003,170708,2283,Memphis,TN
+4748000,"Memphis city, Tennessee",B03002_012,45741,1276,Memphis,TN
+4748000,"Memphis city, Tennessee",B11016_001,250259,1570,Memphis,TN
+4748000,"Memphis city, Tennessee",B17021_002,172031,4976,Memphis,TN
+4748000,"Memphis city, Tennessee",B19013_001,38230,626,Memphis,TN
+4748000,"Memphis city, Tennessee",C16002_004,3834,430,Memphis,TN
+4748000,"Memphis city, Tennessee",C16002_007,454,169,Memphis,TN
+4748000,"Memphis city, Tennessee",C16002_010,1011,279,Memphis,TN
+4748000,"Memphis city, Tennessee",C16002_013,471,148,Memphis,TN
+4827000,"Fort Worth city, Texas",B01003_001,835129,155,Fort Worth,TX
+4827000,"Fort Worth city, Texas",B03002_003,336135,3474,Fort Worth,TX
+4827000,"Fort Worth city, Texas",B03002_012,290354,3349,Fort Worth,TX
+4827000,"Fort Worth city, Texas",B11016_001,284687,1815,Fort Worth,TX
+4827000,"Fort Worth city, Texas",B17021_002,138420,4389,Fort Worth,TX
+4827000,"Fort Worth city, Texas",B19013_001,57309,745,Fort Worth,TX
+4827000,"Fort Worth city, Texas",C16002_004,17361,990,Fort Worth,TX
+4827000,"Fort Worth city, Texas",C16002_007,1310,300,Fort Worth,TX
+4827000,"Fort Worth city, Texas",C16002_010,1673,256,Fort Worth,TX
+4827000,"Fort Worth city, Texas",C16002_013,1002,273,Fort Worth,TX
+4967000,"Salt Lake City city, Utah",B01003_001,194188,55,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",B03002_003,127943,2272,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",B03002_012,41439,1936,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",B11016_001,76876,844,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",B17021_002,33750,1959,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",B19013_001,54009,1432,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",C16002_004,2052,352,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",C16002_007,793,194,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",C16002_010,636,146,Salt Lake City,UT
+4967000,"Salt Lake City city, Utah",C16002_013,254,113,Salt Lake City,UT
+5010675,"Burlington city, Vermont",B01003_001,42453,34,Burlington,VT
+5010675,"Burlington city, Vermont",B03002_003,35112,560,Burlington,VT
+5010675,"Burlington city, Vermont",B03002_012,1214,205,Burlington,VT
+5010675,"Burlington city, Vermont",B11016_001,16067,354,Burlington,VT
+5010675,"Burlington city, Vermont",B17021_002,8736,749,Burlington,VT
+5010675,"Burlington city, Vermont",B19013_001,47140,4192,Burlington,VT
+5010675,"Burlington city, Vermont",C16002_004,0,20,Burlington,VT
+5010675,"Burlington city, Vermont",C16002_007,238,99,Burlington,VT
+5010675,"Burlington city, Vermont",C16002_010,134,80,Burlington,VT
+5010675,"Burlington city, Vermont",C16002_013,41,38,Burlington,VT
+4261000,"Pittsburgh city, Pennsylvania",B01003_001,305012,65,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",B03002_003,197215,1630,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",B03002_012,8985,719,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",B11016_001,134820,1080,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",B17021_002,62126,2211,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",B19013_001,44092,1036,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",C16002_004,396,160,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",C16002_007,1267,242,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",C16002_010,1653,278,Pittsburgh,PA
+4261000,"Pittsburgh city, Pennsylvania",C16002_013,348,117,Pittsburgh,PA
+4513330,"Charleston city, South Carolina",B01003_001,131204,245,Charleston,SC
+4513330,"Charleston city, South Carolina",B03002_003,94551,1435,Charleston,SC
+4513330,"Charleston city, South Carolina",B03002_012,3747,539,Charleston,SC
+4513330,"Charleston city, South Carolina",B11016_001,53845,972,Charleston,SC
+4513330,"Charleston city, South Carolina",B17021_002,18285,1407,Charleston,SC
+4513330,"Charleston city, South Carolina",B19013_001,61367,1631,Charleston,SC
+4513330,"Charleston city, South Carolina",C16002_004,171,105,Charleston,SC
+4513330,"Charleston city, South Carolina",C16002_007,72,33,Charleston,SC
+4513330,"Charleston city, South Carolina",C16002_010,91,60,Charleston,SC
+4513330,"Charleston city, South Carolina",C16002_013,0,29,Charleston,SC
+4835000,"Houston city, Texas",B01003_001,2267336,220,Houston,TX
+4835000,"Houston city, Texas",B03002_003,564663,5619,Houston,TX
+4835000,"Houston city, Texas",B03002_012,1008249,6409,Houston,TX
+4835000,"Houston city, Texas",B11016_001,838950,3579,Houston,TX
+4835000,"Houston city, Texas",B17021_002,472592,8262,Houston,TX
+4835000,"Houston city, Texas",B19013_001,49399,539,Houston,TX
+4835000,"Houston city, Texas",C16002_004,97485,1886,Houston,TX
+4835000,"Houston city, Texas",C16002_007,4695,516,Houston,TX
+4835000,"Houston city, Texas",C16002_010,12961,726,Houston,TX
+4835000,"Houston city, Texas",C16002_013,3154,522,Houston,TX
+4260000,"Philadelphia city, Pennsylvania",B01003_001,1569657,NA,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",B03002_003,548312,559,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",B03002_012,221777,NA,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",B11016_001,591280,2427,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",B17021_002,393924,7050,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",B19013_001,40649,466,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",C16002_004,17366,977,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",C16002_007,10990,748,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",C16002_010,11165,601,Philadelphia,PA
+4260000,"Philadelphia city, Pennsylvania",C16002_013,1829,324,Philadelphia,PA
+1836003,"Indianapolis city (balance), Indiana",B01003_001,853431,466,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",B03002_003,477245,1405,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",B03002_012,86362,966,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",B11016_001,333316,2011,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",B17021_002,167666,4465,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",B19013_001,44709,591,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",C16002_004,8490,686,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",C16002_007,1048,268,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",C16002_010,2523,359,Indianapolis,IN
+1836003,"Indianapolis city (balance), Indiana",C16002_013,931,243,Indianapolis,IN
+668252,"San Mateo city, California",B01003_001,103500,107,San Mateo,CA
+668252,"San Mateo city, California",B03002_003,44775,1451,San Mateo,CA
+668252,"San Mateo city, California",B03002_012,26475,1387,San Mateo,CA
+668252,"San Mateo city, California",B11016_001,38546,632,San Mateo,CA
+668252,"San Mateo city, California",B17021_002,8197,1247,San Mateo,CA
+668252,"San Mateo city, California",B19013_001,103399,2097,San Mateo,CA
+668252,"San Mateo city, California",C16002_004,1812,340,San Mateo,CA
+668252,"San Mateo city, California",C16002_007,607,156,San Mateo,CA
+668252,"San Mateo city, California",C16002_010,1602,259,San Mateo,CA
+668252,"San Mateo city, California",C16002_013,32,28,San Mateo,CA
+3638077,"Ithaca city, New York",B01003_001,30720,29,Ithaca,NY
+3638077,"Ithaca city, New York",B03002_003,19683,511,Ithaca,NY
+3638077,"Ithaca city, New York",B03002_012,2230,304,Ithaca,NY
+3638077,"Ithaca city, New York",B11016_001,9869,487,Ithaca,NY
+3638077,"Ithaca city, New York",B17021_002,9871,789,Ithaca,NY
+3638077,"Ithaca city, New York",B19013_001,31967,3858,Ithaca,NY
+3638077,"Ithaca city, New York",C16002_004,29,33,Ithaca,NY
+3638077,"Ithaca city, New York",C16002_007,72,71,Ithaca,NY
+3638077,"Ithaca city, New York",C16002_010,282,114,Ithaca,NY
+3638077,"Ithaca city, New York",C16002_013,0,24,Ithaca,NY
+1253000,"Orlando city, Florida",B01003_001,269414,119,Orlando,FL
+1253000,"Orlando city, Florida",B03002_003,102760,2467,Orlando,FL
+1253000,"Orlando city, Florida",B03002_012,79890,3012,Orlando,FL
+1253000,"Orlando city, Florida",B11016_001,109468,1293,Orlando,FL
+1253000,"Orlando city, Florida",B17021_002,51047,2680,Orlando,FL
+1253000,"Orlando city, Florida",B19013_001,45436,1136,Orlando,FL
+1253000,"Orlando city, Florida",C16002_004,6525,483,Orlando,FL
+1253000,"Orlando city, Florida",C16002_007,1515,361,Orlando,FL
+1253000,"Orlando city, Florida",C16002_010,744,198,Orlando,FL
+1253000,"Orlando city, Florida",C16002_013,267,136,Orlando,FL
+3921000,"Dayton city, Ohio",B01003_001,140939,62,Dayton,OH
+3921000,"Dayton city, Ohio",B03002_003,74134,1133,Dayton,OH
+3921000,"Dayton city, Ohio",B03002_012,5563,629,Dayton,OH
+3921000,"Dayton city, Ohio",B11016_001,57778,726,Dayton,OH
+3921000,"Dayton city, Ohio",B17021_002,42382,1999,Dayton,OH
+3921000,"Dayton city, Ohio",B19013_001,30128,962,Dayton,OH
+3921000,"Dayton city, Ohio",C16002_004,388,169,Dayton,OH
+3921000,"Dayton city, Ohio",C16002_007,110,77,Dayton,OH
+3921000,"Dayton city, Ohio",C16002_010,240,120,Dayton,OH
+3921000,"Dayton city, Ohio",C16002_013,147,91,Dayton,OH
+643000,"Long Beach city, California",B01003_001,470489,155,Long Beach,CA
+643000,"Long Beach city, California",B03002_003,129957,2054,Long Beach,CA
+643000,"Long Beach city, California",B03002_012,201523,2773,Long Beach,CA
+643000,"Long Beach city, California",B11016_001,165001,1255,Long Beach,CA
+643000,"Long Beach city, California",B17021_002,88476,3718,Long Beach,CA
+643000,"Long Beach city, California",B19013_001,58314,1353,Long Beach,CA
+643000,"Long Beach city, California",C16002_004,7981,470,Long Beach,CA
+643000,"Long Beach city, California",C16002_007,678,170,Long Beach,CA
+643000,"Long Beach city, California",C16002_010,3621,354,Long Beach,CA
+643000,"Long Beach city, California",C16002_013,152,88,Long Beach,CA
+4845384,"McAllen city, Texas",B01003_001,139838,41,McAllen,TX
+4845384,"McAllen city, Texas",B03002_003,15310,1224,McAllen,TX
+4845384,"McAllen city, Texas",B03002_012,119096,1422,McAllen,TX
+4845384,"McAllen city, Texas",B11016_001,43987,897,McAllen,TX
+4845384,"McAllen city, Texas",B17021_002,34945,3120,McAllen,TX
+4845384,"McAllen city, Texas",B19013_001,45057,2732,McAllen,TX
+4845384,"McAllen city, Texas",C16002_004,7821,735,McAllen,TX
+4845384,"McAllen city, Texas",C16002_007,47,57,McAllen,TX
+4845384,"McAllen city, Texas",C16002_010,208,111,McAllen,TX
+4845384,"McAllen city, Texas",C16002_013,13,22,McAllen,TX
+2622000,"Detroit city, Michigan",B01003_001,679865,92,Detroit,MI
+2622000,"Detroit city, Michigan",B03002_003,67579,1937,Detroit,MI
+2622000,"Detroit city, Michigan",B03002_012,51685,1627,Detroit,MI
+2622000,"Detroit city, Michigan",B11016_001,258471,1708,Detroit,MI
+2622000,"Detroit city, Michigan",B17021_002,252897,4539,Detroit,MI
+2622000,"Detroit city, Michigan",B19013_001,27838,443,Detroit,MI
+2622000,"Detroit city, Michigan",C16002_004,3472,423,Detroit,MI
+2622000,"Detroit city, Michigan",C16002_007,1203,222,Detroit,MI
+2622000,"Detroit city, Michigan",C16002_010,330,121,Detroit,MI
+2622000,"Detroit city, Michigan",C16002_013,1095,201,Detroit,MI
+2743000,"Minneapolis city, Minnesota",B01003_001,411452,46,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",B03002_003,246351,2437,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",B03002_012,40147,1619,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",B11016_001,172082,1438,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",B17021_002,82022,2638,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",B19013_001,55720,945,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",C16002_004,3377,383,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",C16002_007,578,127,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",C16002_010,1556,260,Minneapolis,MN
+2743000,"Minneapolis city, Minnesota",C16002_013,4774,532,Minneapolis,MN
+3502000,"Albuquerque city, New Mexico",B01003_001,556718,85,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",B03002_003,222796,1422,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",B03002_012,270215,1456,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",B11016_001,221119,1420,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",B17021_002,100260,4014,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",B19013_001,49878,857,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",C16002_004,7723,681,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",C16002_007,462,150,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",C16002_010,812,171,Albuquerque,NM
+3502000,"Albuquerque city, New Mexico",C16002_013,415,150,Albuquerque,NM
+827425,"Fort Collins city, Colorado",B01003_001,159150,62,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B03002_003,128306,1055,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B03002_012,18726,934,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B11016_001,61532,772,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B17021_002,25683,1390,Fort Collins,CO
+827425,"Fort Collins city, Colorado",B19013_001,60110,1886,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_004,445,145,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_007,90,43,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_010,213,90,Fort Collins,CO
+827425,"Fort Collins city, Colorado",C16002_013,154,121,Fort Collins,CO
+137000,"Huntsville city, Alabama",B01003_001,190501,741,Huntsville,AL
+137000,"Huntsville city, Alabama",B03002_003,111535,1660,Huntsville,AL
+137000,"Huntsville city, Alabama",B03002_012,10509,792,Huntsville,AL
+137000,"Huntsville city, Alabama",B11016_001,81296,1040,Huntsville,AL
+137000,"Huntsville city, Alabama",B17021_002,33458,1964,Huntsville,AL
+137000,"Huntsville city, Alabama",B19013_001,51926,1390,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_004,1014,229,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_007,167,79,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_010,378,139,Huntsville,AL
+137000,"Huntsville city, Alabama",C16002_013,44,56,Huntsville,AL
+3663000,"Rochester city, New York",B01003_001,209463,64,Rochester,NY
+3663000,"Rochester city, New York",B03002_003,77108,1587,Rochester,NY
+3663000,"Rochester city, New York",B03002_012,37213,1189,Rochester,NY
+3663000,"Rochester city, New York",B11016_001,86180,1179,Rochester,NY
+3663000,"Rochester city, New York",B17021_002,66486,1851,Rochester,NY
+3663000,"Rochester city, New York",B19013_001,32347,736,Rochester,NY
+3663000,"Rochester city, New York",C16002_004,3243,378,Rochester,NY
+3663000,"Rochester city, New York",C16002_007,912,184,Rochester,NY
+3663000,"Rochester city, New York",C16002_010,544,140,Rochester,NY
+3663000,"Rochester city, New York",C16002_013,367,136,Rochester,NY
+4123850,"Eugene city, Oregon",B01003_001,163135,66,Eugene,OR
+4123850,"Eugene city, Oregon",B03002_003,128236,886,Eugene,OR
+4123850,"Eugene city, Oregon",B03002_012,15539,817,Eugene,OR
+4123850,"Eugene city, Oregon",B11016_001,67335,719,Eugene,OR
+4123850,"Eugene city, Oregon",B17021_002,34191,1883,Eugene,OR
+4123850,"Eugene city, Oregon",B19013_001,47489,1357,Eugene,OR
+4123850,"Eugene city, Oregon",C16002_004,509,188,Eugene,OR
+4123850,"Eugene city, Oregon",C16002_007,48,35,Eugene,OR
+4123850,"Eugene city, Oregon",C16002_010,764,216,Eugene,OR
+4123850,"Eugene city, Oregon",C16002_013,64,63,Eugene,OR
+4115800,"Corvallis city, Oregon",B01003_001,56224,40,Corvallis,OR
+4115800,"Corvallis city, Oregon",B03002_003,43558,430,Corvallis,OR
+4115800,"Corvallis city, Oregon",B03002_012,4416,349,Corvallis,OR
+4115800,"Corvallis city, Oregon",B11016_001,22379,475,Corvallis,OR
+4115800,"Corvallis city, Oregon",B17021_002,13917,832,Corvallis,OR
+4115800,"Corvallis city, Oregon",B19013_001,46285,1730,Corvallis,OR
+4115800,"Corvallis city, Oregon",C16002_004,107,69,Corvallis,OR
+4115800,"Corvallis city, Oregon",C16002_007,87,44,Corvallis,OR
+4115800,"Corvallis city, Oregon",C16002_010,522,134,Corvallis,OR
+4115800,"Corvallis city, Oregon",C16002_013,48,42,Corvallis,OR
+4652980,"Rapid City city, South Dakota",B01003_001,72841,59,Rapid City,SD
+4652980,"Rapid City city, South Dakota",B03002_003,56215,565,Rapid City,SD
+4652980,"Rapid City city, South Dakota",B03002_012,3650,375,Rapid City,SD
+4652980,"Rapid City city, South Dakota",B11016_001,29723,572,Rapid City,SD
+4652980,"Rapid City city, South Dakota",B17021_002,11462,1077,Rapid City,SD
+4652980,"Rapid City city, South Dakota",B19013_001,48895,1306,Rapid City,SD
+4652980,"Rapid City city, South Dakota",C16002_004,79,74,Rapid City,SD
+4652980,"Rapid City city, South Dakota",C16002_007,18,19,Rapid City,SD
+4652980,"Rapid City city, South Dakota",C16002_010,41,30,Rapid City,SD
+4652980,"Rapid City city, South Dakota",C16002_013,39,35,Rapid City,SD
+3915000,"Cincinnati city, Ohio",B01003_001,298957,89,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",B03002_003,144219,1791,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",B03002_012,10821,975,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",B11016_001,136180,1361,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",B17021_002,82356,2690,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",B19013_001,36429,782,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",C16002_004,1053,229,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",C16002_007,577,159,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",C16002_010,439,148,Cincinnati,OH
+3915000,"Cincinnati city, Ohio",C16002_013,595,179,Cincinnati,OH
+3611000,"Buffalo city, New York",B01003_001,259574,122,Buffalo,NY
+3611000,"Buffalo city, New York",B03002_003,114231,1817,Buffalo,NY
+3611000,"Buffalo city, New York",B03002_012,29311,1019,Buffalo,NY
+3611000,"Buffalo city, New York",B11016_001,110636,1025,Buffalo,NY
+3611000,"Buffalo city, New York",B17021_002,77750,2855,Buffalo,NY
+3611000,"Buffalo city, New York",B19013_001,34268,1052,Buffalo,NY
+3611000,"Buffalo city, New York",C16002_004,2425,337,Buffalo,NY
+3611000,"Buffalo city, New York",C16002_007,892,176,Buffalo,NY
+3611000,"Buffalo city, New York",C16002_010,902,234,Buffalo,NY
+3611000,"Buffalo city, New York",C16002_013,914,217,Buffalo,NY
+1304000,"Atlanta city, Georgia",B01003_001,465230,71,Atlanta,GA
+1304000,"Atlanta city, Georgia",B03002_003,173337,2367,Atlanta,GA
+1304000,"Atlanta city, Georgia",B03002_012,21450,1611,Atlanta,GA
+1304000,"Atlanta city, Georgia",B11016_001,192929,1800,Atlanta,GA
+1304000,"Atlanta city, Georgia",B17021_002,97629,4211,Atlanta,GA
+1304000,"Atlanta city, Georgia",B19013_001,51701,851,Atlanta,GA
+1304000,"Atlanta city, Georgia",C16002_004,1174,238,Atlanta,GA
+1304000,"Atlanta city, Georgia",C16002_007,683,196,Atlanta,GA
+1304000,"Atlanta city, Georgia",C16002_010,672,168,Atlanta,GA
+1304000,"Atlanta city, Georgia",C16002_013,237,118,Atlanta,GA
+1245000,"Miami city, Florida",B01003_001,443007,71,Miami,FL
+1245000,"Miami city, Florida",B03002_003,46415,1559,Miami,FL
+1245000,"Miami city, Florida",B03002_012,319782,2389,Miami,FL
+1245000,"Miami city, Florida",B11016_001,164734,1753,Miami,FL
+1245000,"Miami city, Florida",B17021_002,112478,4176,Miami,FL
+1245000,"Miami city, Florida",B19013_001,33999,964,Miami,FL
+1245000,"Miami city, Florida",C16002_004,51449,1406,Miami,FL
+1245000,"Miami city, Florida",C16002_007,3035,418,Miami,FL
+1245000,"Miami city, Florida",C16002_010,330,133,Miami,FL
+1245000,"Miami city, Florida",C16002_013,46,41,Miami,FL
+5167000,"Richmond city, Virginia",B01003_001,220892,NA,Richmond,VA
+5167000,"Richmond city, Virginia",B03002_003,88320,190,Richmond,VA
+5167000,"Richmond city, Virginia",B03002_012,14343,NA,Richmond,VA
+5167000,"Richmond city, Virginia",B11016_001,89238,771,Richmond,VA
+5167000,"Richmond city, Virginia",B17021_002,52942,1960,Richmond,VA
+5167000,"Richmond city, Virginia",B19013_001,42356,832,Richmond,VA
+5167000,"Richmond city, Virginia",C16002_004,1361,195,Richmond,VA
+5167000,"Richmond city, Virginia",C16002_007,175,111,Richmond,VA
+5167000,"Richmond city, Virginia",C16002_010,224,88,Richmond,VA
+5167000,"Richmond city, Virginia",C16002_013,138,83,Richmond,VA
+4055000,"Oklahoma City city, Oklahoma",B01003_001,629191,144,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",B03002_003,340999,2054,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",B03002_012,120183,1645,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",B11016_001,237895,1433,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",B17021_002,105303,3490,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",B19013_001,51581,581,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",C16002_004,8470,679,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",C16002_007,439,133,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",C16002_010,1949,284,Oklahoma City,OK
+4055000,"Oklahoma City city, Oklahoma",C16002_013,224,124,Oklahoma City,OK
+4865000,"San Antonio city, Texas",B01003_001,1461623,132,San Antonio,TX
+4865000,"San Antonio city, Texas",B03002_003,366363,2045,San Antonio,TX
+4865000,"San Antonio city, Texas",B03002_012,935458,2683,San Antonio,TX
+4865000,"San Antonio city, Texas",B11016_001,494260,2123,San Antonio,TX
+4865000,"San Antonio city, Texas",B17021_002,267330,6099,San Antonio,TX
+4865000,"San Antonio city, Texas",B19013_001,49711,528,San Antonio,TX
+4865000,"San Antonio city, Texas",C16002_004,32977,1231,San Antonio,TX
+4865000,"San Antonio city, Texas",C16002_007,1510,316,San Antonio,TX
+4865000,"San Antonio city, Texas",C16002_010,2360,348,San Antonio,TX
+4865000,"San Antonio city, Texas",C16002_013,888,271,San Antonio,TX
+4075000,"Tulsa city, Oklahoma",B01003_001,401352,147,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",B03002_003,220273,1094,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",B03002_012,63466,805,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",B11016_001,164381,834,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",B17021_002,78716,2125,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",B19013_001,44577,521,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",C16002_004,5215,319,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",C16002_007,314,93,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",C16002_010,1310,174,Tulsa,OK
+4075000,"Tulsa city, Oklahoma",C16002_013,151,61,Tulsa,OK
+2071000,"Topeka city, Kansas",B01003_001,127139,52,Topeka,KS
+2071000,"Topeka city, Kansas",B03002_003,87645,718,Topeka,KS
+2071000,"Topeka city, Kansas",B03002_012,18168,585,Topeka,KS
+2071000,"Topeka city, Kansas",B11016_001,53220,664,Topeka,KS
+2071000,"Topeka city, Kansas",B17021_002,20511,1213,Topeka,KS
+2071000,"Topeka city, Kansas",B19013_001,46087,1257,Topeka,KS
+2071000,"Topeka city, Kansas",C16002_004,724,181,Topeka,KS
+2071000,"Topeka city, Kansas",C16002_007,87,88,Topeka,KS
+2071000,"Topeka city, Kansas",C16002_010,128,64,Topeka,KS
+2071000,"Topeka city, Kansas",C16002_013,0,24,Topeka,KS
+477000,"Tucson city, Arizona",B01003_001,530905,107,Tucson,AZ
+477000,"Tucson city, Arizona",B03002_003,238457,2513,Tucson,AZ
+477000,"Tucson city, Arizona",B03002_012,228012,2338,Tucson,AZ
+477000,"Tucson city, Arizona",B11016_001,209906,1600,Tucson,AZ
+477000,"Tucson city, Arizona",B17021_002,121994,4449,Tucson,AZ
+477000,"Tucson city, Arizona",B19013_001,39617,787,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_004,9094,611,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_007,654,159,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_010,1388,263,Tucson,AZ
+477000,"Tucson city, Arizona",C16002_013,772,255,Tucson,AZ
+3916000,"Cleveland city, Ohio",B01003_001,388812,92,Cleveland,OH
+3916000,"Cleveland city, Ohio",B03002_003,131338,1859,Cleveland,OH
+3916000,"Cleveland city, Ohio",B03002_012,43466,1253,Cleveland,OH
+3916000,"Cleveland city, Ohio",B11016_001,168496,1462,Cleveland,OH
+3916000,"Cleveland city, Ohio",B17021_002,133144,3254,Cleveland,OH
+3916000,"Cleveland city, Ohio",B19013_001,27854,744,Cleveland,OH
+3916000,"Cleveland city, Ohio",C16002_004,3423,329,Cleveland,OH
+3916000,"Cleveland city, Ohio",C16002_007,1223,247,Cleveland,OH
+3916000,"Cleveland city, Ohio",C16002_010,985,192,Cleveland,OH
+3916000,"Cleveland city, Ohio",C16002_013,743,213,Cleveland,OH
+1822000,"Evansville city, Indiana",B01003_001,119806,38,Evansville,IN
+1822000,"Evansville city, Indiana",B03002_003,95757,661,Evansville,IN
+1822000,"Evansville city, Indiana",B03002_012,3583,363,Evansville,IN
+1822000,"Evansville city, Indiana",B11016_001,51580,793,Evansville,IN
+1822000,"Evansville city, Indiana",B17021_002,27001,1643,Evansville,IN
+1822000,"Evansville city, Indiana",B19013_001,36956,1018,Evansville,IN
+1822000,"Evansville city, Indiana",C16002_004,211,129,Evansville,IN
+1822000,"Evansville city, Indiana",C16002_007,105,95,Evansville,IN
+1822000,"Evansville city, Indiana",C16002_010,68,62,Evansville,IN
+1822000,"Evansville city, Indiana",C16002_013,0,27,Evansville,IN
+845970,"Longmont city, Colorado",B01003_001,91730,40,Longmont,CO
+845970,"Longmont city, Colorado",B03002_003,62112,1029,Longmont,CO
+845970,"Longmont city, Colorado",B03002_012,23520,914,Longmont,CO
+845970,"Longmont city, Colorado",B11016_001,35020,582,Longmont,CO
+845970,"Longmont city, Colorado",B17021_002,10920,1248,Longmont,CO
+845970,"Longmont city, Colorado",B19013_001,66349,2456,Longmont,CO
+845970,"Longmont city, Colorado",C16002_004,955,218,Longmont,CO
+845970,"Longmont city, Colorado",C16002_007,60,38,Longmont,CO
+845970,"Longmont city, Colorado",C16002_010,101,58,Longmont,CO
+845970,"Longmont city, Colorado",C16002_013,13,21,Longmont,CO
+5168000,"Roanoke city, Virginia",B01003_001,99572,NA,Roanoke,VA
+5168000,"Roanoke city, Virginia",B03002_003,59263,112,Roanoke,VA
+5168000,"Roanoke city, Virginia",B03002_012,6012,NA,Roanoke,VA
+5168000,"Roanoke city, Virginia",B11016_001,42333,542,Roanoke,VA
+5168000,"Roanoke city, Virginia",B17021_002,21046,1909,Roanoke,VA
+5168000,"Roanoke city, Virginia",B19013_001,41483,1343,Roanoke,VA
+5168000,"Roanoke city, Virginia",C16002_004,365,217,Roanoke,VA
+5168000,"Roanoke city, Virginia",C16002_007,334,172,Roanoke,VA
+5168000,"Roanoke city, Virginia",C16002_010,230,111,Roanoke,VA
+5168000,"Roanoke city, Virginia",C16002_013,82,60,Roanoke,VA
+107000,"Birmingham city, Alabama",B01003_001,212265,612,Birmingham,AL
+107000,"Birmingham city, Alabama",B03002_003,48478,1313,Birmingham,AL
+107000,"Birmingham city, Alabama",B03002_012,7332,953,Birmingham,AL
+107000,"Birmingham city, Alabama",B11016_001,90149,1337,Birmingham,AL
+107000,"Birmingham city, Alabama",B17021_002,57730,2533,Birmingham,AL
+107000,"Birmingham city, Alabama",B19013_001,33770,993,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_004,880,222,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_007,240,98,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_010,88,46,Birmingham,AL
+107000,"Birmingham city, Alabama",C16002_013,43,55,Birmingham,AL
+16013,"Blaine County, Idaho",B01003_001,21583,NA,Blaine County,ID
+16013,"Blaine County, Idaho",B03002_003,16511,22,Blaine County,ID
+16013,"Blaine County, Idaho",B03002_012,4535,NA,Blaine County,ID
+16013,"Blaine County, Idaho",B11016_001,8273,380,Blaine County,ID
+16013,"Blaine County, Idaho",B17021_002,3180,749,Blaine County,ID
+16013,"Blaine County, Idaho",B19013_001,58835,5130,Blaine County,ID
+16013,"Blaine County, Idaho",C16002_004,271,113,Blaine County,ID
+16013,"Blaine County, Idaho",C16002_007,0,22,Blaine County,ID
+16013,"Blaine County, Idaho",C16002_010,0,22,Blaine County,ID
+16013,"Blaine County, Idaho",C16002_013,0,22,Blaine County,ID
+1608830,"Boise City city, Idaho",B01003_001,220859,117,Boise,ID
+1608830,"Boise City city, Idaho",B03002_003,182478,1663,Boise,ID
+1608830,"Boise City city, Idaho",B03002_012,19133,1225,Boise,ID
+1608830,"Boise City city, Idaho",B11016_001,88929,1108,Boise,ID
+1608830,"Boise City city, Idaho",B17021_002,30511,1896,Boise,ID
+1608830,"Boise City city, Idaho",B19013_001,54547,1481,Boise,ID
+1608830,"Boise City city, Idaho",C16002_004,673,252,Boise,ID
+1608830,"Boise City city, Idaho",C16002_007,319,123,Boise,ID
+1608830,"Boise City city, Idaho",C16002_010,349,133,Boise,ID
+1608830,"Boise City city, Idaho",C16002_013,433,159,Boise,ID
+2418750,"College Park city, Maryland",B01003_001,32186,49,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",B03002_003,16314,645,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",B03002_012,4008,516,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",B11016_001,7226,372,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",B17021_002,5661,695,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",B19013_001,64107,4223,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",C16002_004,83,61,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",C16002_007,121,92,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",C16002_010,341,119,"College Park, and the campus of the University of Maryland",MD
+2418750,"College Park city, Maryland",C16002_013,10,16,"College Park, and the campus of the University of Maryland",MD
+2426000,"Ellicott City CDP, Maryland",B01003_001,71737,1307,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",B03002_003,41228,990,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",B03002_012,2195,461,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",B11016_001,25198,396,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",B17021_002,3007,844,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",B19013_001,124059,3570,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",C16002_004,64,54,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",C16002_007,215,95,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",C16002_010,778,215,Ellicott City,MD
+2426000,"Ellicott City CDP, Maryland",C16002_013,8,12,Ellicott City,MD
+1571550,"Urban Honolulu CDP, Hawaii",B01003_001,350788,58,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",B03002_003,55980,1282,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",B03002_012,24498,1498,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",B11016_001,128935,1174,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",B17021_002,39574,1895,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",B19013_001,65707,1136,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",C16002_004,277,87,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",C16002_007,237,102,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",C16002_010,16565,713,Honolulu,HI
+1571550,"Urban Honolulu CDP, Hawaii",C16002_013,215,113,Honolulu,HI
+6037,"Los Angeles County, California",B01003_001,10105722,NA,Los Angeles County,CA
+6037,"Los Angeles County, California",B03002_003,2676982,1326,Los Angeles County,CA
+6037,"Los Angeles County, California",B03002_012,4893579,NA,Los Angeles County,CA
+6037,"Los Angeles County, California",B11016_001,3295198,5018,Los Angeles County,CA
+6037,"Los Angeles County, California",B17021_002,1688505,15160,Los Angeles County,CA
+6037,"Los Angeles County, California",B19013_001,61015,262,Los Angeles County,CA
+6037,"Los Angeles County, California",C16002_004,243565,2608,Los Angeles County,CA
+6037,"Los Angeles County, California",C16002_007,55583,1812,Los Angeles County,CA
+6037,"Los Angeles County, California",C16002_010,128591,2121,Los Angeles County,CA
+6037,"Los Angeles County, California",C16002_013,7818,630,Los Angeles County,CA
+24031,"Montgomery County, Maryland",B01003_001,1039198,NA,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",B03002_003,467734,667,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",B03002_012,197242,NA,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",B11016_001,369242,1145,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",B17021_002,72085,3255,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",B19013_001,103178,792,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",C16002_004,9990,676,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",C16002_007,4623,439,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",C16002_010,8415,534,Montgomery County MD,MD
+24031,"Montgomery County, Maryland",C16002_013,2139,307,Montgomery County MD,MD
+47037,"Davidson County, Tennessee",B01003_001,678322,NA,Nashville,TN
+47037,"Davidson County, Tennessee",B03002_003,382565,357,Nashville,TN
+47037,"Davidson County, Tennessee",B03002_012,68326,NA,Nashville,TN
+47037,"Davidson County, Tennessee",B11016_001,273497,1378,Nashville,TN
+47037,"Davidson County, Tennessee",B17021_002,111103,3960,Nashville,TN
+47037,"Davidson County, Tennessee",B19013_001,53419,741,Nashville,TN
+47037,"Davidson County, Tennessee",C16002_004,6900,552,Nashville,TN
+47037,"Davidson County, Tennessee",C16002_007,1270,293,Nashville,TN
+47037,"Davidson County, Tennessee",C16002_010,1825,351,Nashville,TN
+47037,"Davidson County, Tennessee",C16002_013,2437,454,Nashville,TN
