@@ -1,11 +1,2 @@
-NAME,city,state,variable,estimate
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,B01003_001,241711
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,B03002_003,142790
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,B03002_012,22048
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,B11016_001,96260
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,B17021_002,48557
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,B19013_001,204650
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,C16002_004,958
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,C16002_007,910
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,C16002_010,853
-"Albany city, New York; Troy city, New York; Schenectady city, New York; Saratoga Springs city, New York","Capital District (Albany, Troy, Schenectady, Saratoga Springs)",NY,C16002_013,137
+city,pop,nhwht,hisp,hh,pov_p,medinc_h,limeng
+"Capital District (Albany, Troy, Schenectady, Saratoga Springs)",241711,142790,22048,96260,48557,47232.61228963225,2858

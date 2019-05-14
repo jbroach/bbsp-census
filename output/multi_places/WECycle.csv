@@ -1,11 +1,2 @@
-NAME,city,state,variable,estimate
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,B01003_001,10946
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,B03002_003,9232
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,B03002_012,1218
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,B11016_001,4989
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,B17021_002,910
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,B19013_001,138084
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,C16002_004,132
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,C16002_007,22
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,C16002_010,0
-"Aspen city, Colorado; Basalt town, Colorado",Aspen and Basalt,CO,C16002_013,0
+city,pop,nhwht,hisp,hh,pov_p,medinc_h,limeng
+Aspen and Basalt,10946,9232,1218,4989,910,67785.7899378633,154

@@ -1,11 +1,2 @@
-NAME,city,state,variable,estimate
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,B01003_001,964492
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,B03002_003,488399
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,B03002_012,161000
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,B11016_001,380223
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,B17021_002,163789
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,B19013_001,404431
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,C16002_004,16740
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,C16002_007,12541
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,C16002_010,10793
-"Boston city, Massachusetts; Cambridge city, Massachusetts; Somerville city, Massachusetts; Brookline CDP, Massachusetts; Everett city, Massachusetts","Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",MA,C16002_013,1841
+city,pop,nhwht,hisp,hh,pov_p,medinc_h,limeng
+"Boston, Cambridge, Somerville, Brookline (and coming soon: Everett)",964492,488399,161000,380223,163789,70121.25737527714,41915

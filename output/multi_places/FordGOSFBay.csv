@@ -1,11 +1,2 @@
-NAME,city,state,variable,estimate
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,B01003_001,2424915
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,B03002_003,803668
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,B03002_012,588646
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,B11016_001,883293
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,B17021_002,299516
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,B19013_001,331887
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,C16002_004,26650
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,C16002_007,8774
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,C16002_010,66507
-"San Francisco city, California; Oakland city, California; San Jose city, California; Berkeley city, California",SF Bay Area,CA,C16002_013,2920
+city,pop,nhwht,hisp,hh,pov_p,medinc_h,limeng
+SF Bay Area,2424915,803668,588646,883293,299516,89389.86560405212,104851

@@ -19,6 +19,10 @@ pacman::p_load(readr)
 pacman::p_load(tidyr)
 #pacman::p_load("tigris")
 
+## setup cenus api key
+mykey <- read.table("../secrets/key1.txt", stringsAsFactors = F)[1, 1]
+census_api_key(mykey) # read in from untracked file
+
 ```
 
 ```{r load data}
@@ -28,10 +32,6 @@ cities <- read.csv("../data/cities1.csv", stringsAsFactors = F)
 
 v17 <- load_variables(2017, "acs5", cache = TRUE)
 #View(v17)
-
-## setup cenus api key
-mykey <- read.table("../secrets/key1.txt", stringsAsFactors = F)[1, 1]
-census_api_key(mykey) # read in from untracked file
 
 df <- data.frame(City = c("Portland"), State = c("OR"))
 df <- data.frame(City = c("Boise"), State = c("ID"))
@@ -187,8 +187,10 @@ acs_wide <- read_csv("../output/acs2_wide.csv") %>%
   select(-(C16002_004:C16002_013))
 head(acs_wide)
 
+cities <- read_csv("../data/cities.csv")
 cities_ck <- cities %>% anti_join(acs_wide, by=c("City" = "city", 
                                                  "State" = "state"))
+
 # BluBike
 multi <- c("Boston", "Cambridge", "Somerville", "Brookline", "Everett")
 
@@ -201,17 +203,26 @@ for (city in multi) {
   print(city)
   place_type = ifelse(city == "Brookline", "CDP", "city")
   newrows <- f(place, place_type = place_type) %>%
-    mutate(city = place$City_svy, state = place$State)
+    mutate(city = place$City_svy, state = place$State) %>%
+    select(-moe) %>%
+    spread(key=variable, value=estimate) %>%
+    rename(hh = B11016_001, pop = B01003_001,
+         medinc_h = B19013_001, pov_p = B17021_002,
+         nhwht = B03002_003, hisp = B03002_012) %>%
+    mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013,
+           medinc_hw = medinc_h * hh)
+  
   result <- result %>%
     bind_rows(newrows)
 }
 
-result <- result %>%
-  select(-c(GEOID, moe)) %>%
-  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
-  group_by(NAME, city, state, variable) %>%
-  summarise_all(sum)
-write_csv(result, "../output/multi_places/blubike.csv")
+wide <- result %>% 
+  group_by(city) %>%
+  summarise_at(vars(pop:medinc_hw), sum) %>%
+  mutate(medinc_h = medinc_hw / hh) %>%
+  select(-(C16002_004:C16002_013), -medinc_hw)
+
+write_csv(wide, "../output/multi_places/blubike.csv")
 
 # Capital District
 multi <- c("Albany", "Troy", "Schenectady", "Saratoga Springs")
@@ -224,18 +235,27 @@ for (city in multi) {
              ResponseId == "R_2qrQwhqjXkQFFWt") %>%
     mutate(City_svy = City, City = city)
   print(city)
-  newrows <- f(place) %>%
-    mutate(city = place$City_svy, state = place$State)
+  newrows <- f(place, place_type = place_type) %>%
+    mutate(city = place$City_svy, state = place$State) %>%
+    select(-moe) %>%
+    spread(key=variable, value=estimate) %>%
+    rename(hh = B11016_001, pop = B01003_001,
+         medinc_h = B19013_001, pov_p = B17021_002,
+         nhwht = B03002_003, hisp = B03002_012) %>%
+    mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013,
+           medinc_hw = medinc_h * hh)
+  
   result <- result %>%
     bind_rows(newrows)
 }
 
-result <- result %>%
-  select(-c(GEOID, moe)) %>%
-  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
-  group_by(NAME, city, state, variable) %>%
-  summarise_all(sum)
-write_csv(result, "../output/multi_places/capitalDistrict.csv")
+wide <- result %>% 
+  group_by(city) %>%
+  summarise_at(vars(pop:medinc_hw), sum) %>%
+  mutate(medinc_h = medinc_hw / hh) %>%
+  select(-(C16002_004:C16002_013), -medinc_hw)
+
+write_csv(wide, "../output/multi_places/capitalDistrict.csv")
 
 # Ford Go Bike
 multi <- c("San Francisco", "Oakland", "San Jose", "Berkeley")
@@ -247,19 +267,27 @@ for (city in multi) {
     filter(City == "SF Bay Area") %>%
     mutate(City_svy = City, City = city)
   print(city)
-  newrows <- f(place) %>%
-    mutate(city = place$City_svy, state = place$State)
+  newrows <- f(place, place_type = place_type) %>%
+    mutate(city = place$City_svy, state = place$State) %>%
+    select(-moe) %>%
+    spread(key=variable, value=estimate) %>%
+    rename(hh = B11016_001, pop = B01003_001,
+         medinc_h = B19013_001, pov_p = B17021_002,
+         nhwht = B03002_003, hisp = B03002_012) %>%
+    mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013,
+           medinc_hw = medinc_h * hh)
+  
   result <- result %>%
     bind_rows(newrows)
 }
 
+wide <- result %>% 
+  group_by(city) %>%
+  summarise_at(vars(pop:medinc_hw), sum) %>%
+  mutate(medinc_h = medinc_hw / hh) %>%
+  select(-(C16002_004:C16002_013), -medinc_hw)
 
-result <- result %>%
-  select(-c(GEOID, moe)) %>%
-  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
-  group_by(NAME, city, state, variable) %>%
-  summarise_all(sum)
-write_csv(result, "../output/multi_places/FordGOSFBay.csv")
+write_csv(wide, "../output/multi_places/FordGOSFBay.csv")
 
 # Aspen & Basalt
 multi <- c("Aspen", "Basalt")
@@ -273,17 +301,26 @@ for (city in multi) {
   print(city)
   place_type = ifelse(city == "Basalt", "town", "city")
   newrows <- f(place, place_type = place_type) %>%
-    mutate(city = place$City_svy, state = place$State)
+    mutate(city = place$City_svy, state = place$State) %>%
+    select(-moe) %>%
+    spread(key=variable, value=estimate) %>%
+    rename(hh = B11016_001, pop = B01003_001,
+         medinc_h = B19013_001, pov_p = B17021_002,
+         nhwht = B03002_003, hisp = B03002_012) %>%
+    mutate(limeng = C16002_004 + C16002_007 + C16002_010 + C16002_013,
+           medinc_hw = medinc_h * hh)
+  
   result <- result %>%
     bind_rows(newrows)
 }
 
-result <- result %>%
-  select(-c(GEOID, moe)) %>%
-  mutate(NAME = paste(unique(result$NAME), collapse = "; ")) %>%
-  group_by(NAME, city, state, variable) %>%
-  summarise_all(sum)
-write_csv(result, "../output/multi_places/WECycle.csv")
+wide <- result %>% 
+  group_by(city) %>%
+  summarise_at(vars(pop:medinc_hw), sum) %>%
+  mutate(medinc_h = medinc_hw / hh) %>%
+  select(-(C16002_004:C16002_013), -medinc_hw)
+
+write_csv(wide, "../output/multi_places/WECycle.csv")
 
 
 multi_places <- paste0("../output/multi_places/", 
